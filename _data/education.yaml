@@ -1,0 +1,40 @@
+# Education
+
+- degree: "B.S."
+  degree_full: "Bachelor of Science"
+  institution: "Beijing University of Chemical Technology"
+  inst_short: "BUCT"
+  subject: "Enginering"
+  year: "2011"
+  year_end: "2015"
+  advisors:
+    - name: "Prof. Youqing Wang"
+      url: "https://www.researchgate.net/profile/Youqing-Wang-2"
+
+- degree: "M.S."
+  degree_full: "Master of Science"
+  institution: "Beijing University of Chemical Technology"
+  inst_short: "BUCT"
+  subject: "Control Engineering"
+  year: "2015"
+  year_end: "2018"
+  advisors:
+    - name: "Prof. Youqing Wang"
+      url: "https://www.researchgate.net/profile/Youqing-Wang-2"
+
+- degree: "Ph.D"
+  degree_full: "Doctor of Philosophy"
+  institution: "The University of British Columbia"
+  inst_short: "UBC"
+  subject: "Chemical Engineering"
+  year: "2019"
+  year_end: "Present"
+  note: "In progress"
+  advisors:
+    - name: "Prof. Bhushan Gopaluni"
+      url: "https://dais.chbe.ubc.ca"
+    - name: "Prof. Yankai Cao"
+      url: "https://optimal.chbe.ubc.ca/"
+  thesis:
+    title: “Causal discovery in industrial process”
+    url: "https://github.com/Liangcao2018?tab=repositories"
