@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,78 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+{% assign education_data = site.data.education | sort: "year" %}
+    {% for item in education_data %}
+  {% include education.md %}
+{% endfor %}
 
-Work experience
+Service and Leadership
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assistant
+  * The University of British Columbia
+  * Department: Chemical and Biological Engineering
+  * Course: CHBE 474 Process Control Engineering
+  * Time: Fall 2020
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant
+  * Summer 2018 - Fall 2019
+    * The Tsinghua University
+    * Department: Automation
+    * Duties included: Causal discovery in Industrial process
+    * Supervisor: Professor Fan Yang
   
-Skills
+  * Spring 2021 - Summer 2021
+    * The Chinese University of Hong Kong, Shenzhen
+    * Department: School of Data Science
+    * Duties included: Missing value imputation, Causal discovery
+    * Supervisor: Professor Jicong Fan
+  
+* Internship
+  * Parkland Corporation
+  * position: Data Scientist
+  * Time: Fall 2019-Present
+
+* Reviewing activities
+  * IFAC World Congress 2020
+  * American Control Conference 2021
+  * Journal of The Franklin Institute
+  * Engineering Applications of Artificial Intelligence
+  * Industrial Engineering Chemistry Research
+
+Awards and Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mitacs Accelerate Award
+  * degree: Doctoral
+  * institution: The University of British Columbia, Parkland Corporation
+  * Time: 2019-Present
+* President's Academic Excellence Initiative PhD Award
+  * degree: Doctoral
+  * institution: The University of British Columbia
+  * Time: 2020-2021
+* Faculty of Applied Science Graduate Award
+  * degree: Doctoral
+  * institution: The University of British Columbia
+  * Time: 2019
+* 2020 CHBE Awards in Breakthrough Innovations and Engineering Leadership
+  * degree: Doctoral
+  * institution: The University of British Columbia
+  * Time: 2020
+* Outstanding Graduate Student of Beijing
+  * degree: Master's
+  * institution: Beijing Education Bureau
+  * Time: 2018
+* National Scholarship for Graduates Student
+  * degree: Master's
+  * institution: Ministry of Education of the People's Republic of China
+  * Time: 2016,2017
+* Excellent Master Thesis of Beijing University of Chemical Technology
+  * degree: Master's
+  * institution: Beijing University of Chemical Technology
+  * Time: 2018
+* Outstanding Undergraduate Student of Beijing University of Chemical Technology
+  * degree: Bachelor's
+  * institution: Beijing University of Chemical Technology
+  * Time: 2015
 
 Publications
 ======
@@ -53,7 +101,6 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+
