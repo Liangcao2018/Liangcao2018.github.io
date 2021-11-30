@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome to Liang Cao's Homepage"
-excerpt: "Welcome to Liang Cao's Homepage"
+title: "Liang Cao's Homepage"
+excerpt: "Liang Cao's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
