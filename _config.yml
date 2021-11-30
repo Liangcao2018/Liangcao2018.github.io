@@ -11,7 +11,7 @@ title                    : "Liang Cao"
 title_separator          : "-"
 name                     : &name "Liang Cao"
 description              : &description "I am Liang Cao, a PhD student from UBC"
-url                      : "https://liangcao2018.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Liangcao2018.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Liangcao2018/Liangcao2018.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,15 +82,13 @@ analytics:
 author:
   name             : "Liang Cao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Vancouver"
-  University: "UBC"
-  department: "CHBE"
+  bio              : "Causal discovery and industrial process monitoring"
+  location         : "UBC,Vancouver,Canada"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=4BylVnYAAAAJ&hl=en"
-  email           : "clubc19@mail.ubc.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "clubc19@mail.ubc.ca"
+  researchgate     : "https://www.researchgate.net/profile/Liang-Cao-15"
   uri              :
   bitbucket        :
   codepen          :
@@ -154,9 +152,7 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
-markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -178,16 +174,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: True
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: True
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: True
     permalink: /:collection/:path/
 
 
