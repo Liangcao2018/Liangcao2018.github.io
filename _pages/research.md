@@ -60,7 +60,7 @@ author_profile: true
 .collab-card .affil { color: #718096; font-size: 0.85em; }
 </style>
 
-## Overview
+<h2 class="research-section-title" style="color: #1a365d; font-family: 'Source Serif 4', Georgia, serif; font-size: 1.35em; font-weight: 700; border-bottom: 2px solid #2c5282; padding-bottom: 8px; margin: 28px 0 16px 0;">Overview</h2>
 
 My research focuses on **intelligent monitoring and control of complex industrial processes**, with the goal of improving the safety, reliability, and intelligence of industrial systems. I develop theories and algorithms spanning three interconnected pillars:
 
@@ -105,7 +105,7 @@ I design control strategies that maintain system stability and performance under
 </div>
 </div>
 
-## Application Domains
+<h2 class="research-section-title" style="color: #1a365d; font-family: 'Source Serif 4', Georgia, serif; font-size: 1.35em; font-weight: 700; border-bottom: 2px solid #2c5282; padding-bottom: 8px; margin: 28px 0 16px 0;">Application Domains</h2>
 
 My research has been successfully deployed in real-world industrial scenarios:
 
@@ -116,31 +116,3 @@ My research has been successfully deployed in real-world industrial scenarios:
 - **Lithium-ion Battery Management**: State of health estimation and capacity prediction
 - **AI-Accelerated Materials Discovery**: Inverse design using machine learning (Mitacs, $3.6M)
 
-## Key Collaborators
-
-<div class="collab-grid">
-<div class="collab-card">
-<strong><a href="https://dais.chbe.ubc.ca">Bhushan Gopaluni</a></strong><br>
-<span class="affil">UBC · Fellow, Canadian Academy of Engineering</span>
-</div>
-<div class="collab-card">
-<strong><a href="https://www.engineering.cornell.edu/faculty-directory/fengqi-you">Fengqi You</a></strong><br>
-<span class="affil">Cornell · AAAS/AIChE/FRSC Fellow</span>
-</div>
-<div class="collab-card">
-<strong><a href="https://cheme.mit.edu/profile/richard-d-braatz/">Richard D. Braatz</a></strong><br>
-<span class="affil">MIT · NAE Member, IEEE/IFAC/AAAS/AIChE Fellow</span>
-</div>
-<div class="collab-card">
-<strong><a href="https://www.researchgate.net/profile/Youqing-Wang-2">Youqing Wang</a></strong><br>
-<span class="affil">Beijing University of Chemical Technology</span>
-</div>
-<div class="collab-card">
-<strong><a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">Fan Yang</a></strong><br>
-<span class="affil">Tsinghua University</span>
-</div>
-<div class="collab-card">
-<strong><a href="https://optimal.chbe.ubc.ca/">Yankai Cao</a></strong><br>
-<span class="affil">University of British Columbia</span>
-</div>
-</div>

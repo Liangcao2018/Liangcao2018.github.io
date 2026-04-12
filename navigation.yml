@@ -10,8 +10,8 @@ main:
    - title: "CV"
      url: /cv/
 
-   - title: "Talks"
-     url: /talks/
+   - title: "Talks & Teaching"
+     url: /talks-teaching/
 
-   - title: "Teaching"
-     url: /teaching/
+   - title: "Group"
+     url: /group/
