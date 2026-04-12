@@ -150,7 +150,7 @@ Thesis: <em>Interpretable and Robust Soft Sensor Modeling for Industrial Applica
 </div>
 
 <div class="cv-entry">
-<strong>Invited Session Chair</strong>, 4th IEEE International Conference on Industrial Electronics for Sustainable Energy Systems (IESES 2025)
+<strong>Session Chair</strong>, 4th IEEE International Conference on Industrial Electronics for Sustainable Energy Systems (IESES 2025)
 </div>
 
 <div class="cv-entry">
