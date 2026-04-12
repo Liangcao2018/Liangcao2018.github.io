@@ -3,11 +3,9 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}
-  <!-- Visitor Map Widget (ClustrMaps) -->
-  <!-- To activate: visit https://clustrmaps.com/add, enter https://liangcao2018.github.io,
-       get your widget code, and replace the script tag below with your code -->
+  <!-- MapMyVisitors Globe Widget -->
   <div style="text-align:center; margin-top:16px; padding: 8px 0;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=REPLACE_WITH_YOUR_ID&w=180&h=180"></script>
+    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=7hOwAnHayAHtMOTt5uxB13zczri5ohxcwlR6pO0lpCQ"></script>
   </div>
   {% endif %}
   {% if page.sidebar %}
