@@ -106,6 +106,52 @@ Ph.D., UBC (2024) · Postdoc, MIT (2024–2025)</div>
 </div>
 </div>
 
+<h2 class="group-section-title">Co-supervised Students</h2>
+
+<div class="member-grid">
+<div class="member-card">
+<div class="member-name">Yaqi Zhu (朱雅琪)</div>
+<div class="member-role">Ph.D. Student</div>
+<div class="member-info">Tsinghua University, Department of Automation<br>
+Co-supervised with <a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">Prof. Fan Yang</a></div>
+</div>
+
+<div class="member-card">
+<div class="member-name">Maozhi Shen (沈茂智)</div>
+<div class="member-role">M.S. Student</div>
+<div class="member-info">Tsinghua University, Department of Automation<br>
+Co-supervised with <a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">Prof. Fan Yang</a></div>
+</div>
+
+<div class="member-card">
+<div class="member-name">Jingwei Wang (王经纬)</div>
+<div class="member-role">Ph.D. Student</div>
+<div class="member-info">Peng Cheng Laboratory (鹏城实验室)<br>
+Co-supervised with Prof. Zhuo Chen</div>
+</div>
+
+<div class="member-card">
+<div class="member-name">Jun Wan (万军)</div>
+<div class="member-role">Ph.D. Student</div>
+<div class="member-info">Jiangxi University of Finance and Economics (江西财经大学)<br>
+Co-supervised with Prof. Weide Liu</div>
+</div>
+
+<div class="member-card">
+<div class="member-name">Jiajun Cai (蔡家俊)</div>
+<div class="member-role">M.S. Student</div>
+<div class="member-info">Jiangxi University of Finance and Economics (江西财经大学)<br>
+Co-supervised with Prof. Weide Liu</div>
+</div>
+
+<div class="member-card">
+<div class="member-name">Menghao Li (李梦浩)</div>
+<div class="member-role">Ph.D. Student</div>
+<div class="member-info">Chongqing University (重庆大学)<br>
+Co-supervised with <a href="https://scholar.google.com/">Prof. Yan Qin</a></div>
+</div>
+</div>
+
 <h2 class="group-section-title">Collaborating Faculty</h2>
 
 <div class="member-grid">
