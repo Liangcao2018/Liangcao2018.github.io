@@ -1,0 +1,33 @@
+- category: Teaching
+  items:
+    - institution: The University of British Columbia
+      department: Chemical and Biological Engineering
+      title: Teaching Assistant
+      year: 2020
+      year_end: 2021
+      courses:
+        - number: 474
+          acronym: CHBE
+          name: Process Control Engineering
+
+- category: Internship
+  items:
+    - organization: Parkland Corporation
+      position: Data Scientist
+      year: 2019
+      year_end: Present
+
+- category: Reviewing activities
+  items:
+    - name: IFAC World Congress
+      year: 2020
+    - name: American Control Conference
+      year: 2021
+    - name: Journal of The Franklin Institute
+      year: 2019
+    - name: Engineering Applications of Artificial Intelligence
+      year: 2020
+    - name: Chemometrics and Intelligent Laboratory Systems
+      year: 2020
+    - name: Industrial Engineering Chemistry Research
+      year: 2020

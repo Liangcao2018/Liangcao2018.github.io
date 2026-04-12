@@ -1,0 +1,205 @@
+/* ============================================
+   Custom Styles for Liang Cao's Academic Website
+   Modern, clean design inspired by top research group pages
+   ============================================ */
+
+/* Typography */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: #2d3748;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Serif 4', 'Georgia', serif;
+  color: #1a202c;
+  font-weight: 600;
+}
+
+/* Masthead / Navigation */
+.masthead {
+  border-bottom: 2px solid #2c5282;
+  background: #fafbfc;
+}
+
+.site-title {
+  font-family: 'Source Serif 4', Georgia, serif !important;
+  font-weight: 700 !important;
+  font-size: 1.3em !important;
+  color: #1a365d !important;
+}
+
+.masthead__menu-item a {
+  font-size: 0.92em;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  padding: 6px 12px;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.masthead__menu-item a:hover {
+  background: #ebf4ff;
+  color: #2c5282 !important;
+}
+
+/* Author Profile Sidebar */
+.author__avatar img {
+  border-radius: 50% !important;
+  border: 3px solid #e2e8f0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease;
+}
+
+.author__avatar img:hover {
+  transform: scale(1.05);
+  border-color: #2c5282;
+}
+
+.author__name {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: 1.3em !important;
+  color: #1a365d;
+  margin-bottom: 4px;
+}
+
+.author__bio {
+  font-size: 0.88em;
+  color: #4a5568;
+  line-height: 1.5;
+}
+
+.author__urls-wrapper {
+  margin-top: 8px;
+}
+
+.author__urls li a {
+  color: #4a5568;
+  font-size: 0.9em;
+  transition: color 0.2s;
+}
+
+.author__urls li a:hover {
+  color: #2c5282;
+}
+
+.btn--inverse {
+  background: #2c5282 !important;
+  color: #fff !important;
+  border: none !important;
+  border-radius: 20px !important;
+  font-size: 0.82em !important;
+  padding: 6px 20px !important;
+  transition: all 0.2s ease;
+}
+
+.btn--inverse:hover {
+  background: #1a365d !important;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(44,82,130,0.3);
+}
+
+/* Page Content */
+.page__title {
+  font-family: 'Source Serif 4', Georgia, serif;
+  color: #1a365d;
+  font-weight: 700;
+  font-size: 1.8em;
+  border-bottom: 3px solid #2c5282;
+  padding-bottom: 8px;
+  margin-bottom: 20px;
+}
+
+/* Archive items (publications, talks, etc.) */
+.archive__item {
+  padding: 12px 16px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  border-left: 3px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.archive__item:hover {
+  background: #f7fafc;
+  border-left-color: #2c5282;
+}
+
+.archive__item-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 1em !important;
+  font-weight: 600;
+  color: #2d3748;
+  line-height: 1.4;
+}
+
+.archive__item-title a {
+  color: #2d3748;
+  text-decoration: none;
+}
+
+.archive__item-title a:hover {
+  color: #2c5282;
+}
+
+.archive__item-excerpt {
+  font-size: 0.88em;
+  color: #718096;
+}
+
+/* Links */
+a {
+  color: #2b6cb0;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  color: #1a365d;
+  text-decoration: underline;
+}
+
+/* Footer */
+.page__footer {
+  background: #1a202c;
+  color: #a0aec0;
+  border-top: 3px solid #2c5282;
+}
+
+.page__footer a {
+  color: #90cdf4;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  .highlights-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .news-section {
+    padding: 14px 16px !important;
+  }
+}
+
+/* Print styles */
+@media print {
+  .masthead, .page__footer, .btn--inverse, .author__urls-wrapper button {
+    display: none;
+  }
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background: #bee3f8;
+  color: #1a365d;
+}
+
+/* Publication venue highlighting */
+.archive__item-excerpt em {
+  color: #2c5282;
+  font-style: italic;
+}

@@ -1,0 +1,77 @@
+# Education & Postdoc
+
+- degree: "Postdoc"
+  degree_full: "Postdoctoral Fellow"
+  institution: "University of British Columbia / Cornell University"
+  inst_short: "UBC / Cornell"
+  subject: "Chemical and Biological Engineering"
+  year: "2025"
+  year_end: "Present"
+  advisors:
+    - name: "Prof. Bhushan Gopaluni"
+      url: "https://dais.chbe.ubc.ca"
+    - name: "Prof. Fengqi You"
+      url: "https://www.engineering.cornell.edu/faculty-directory/fengqi-you"
+
+- degree: "Postdoc"
+  degree_full: "Postdoctoral Fellow"
+  institution: "Massachusetts Institute of Technology"
+  inst_short: "MIT"
+  subject: "Chemical Engineering"
+  year: "2024"
+  year_end: "2025"
+  advisors:
+    - name: "Prof. Richard D. Braatz"
+      url: "https://cheme.mit.edu/profile/richard-d-braatz/"
+
+- degree: "Ph.D."
+  degree_full: "Doctor of Philosophy"
+  institution: "University of British Columbia"
+  inst_short: "UBC"
+  subject: "Chemical and Biological Engineering"
+  year: "2019"
+  year_end: "2024"
+  advisors:
+    - name: "Prof. Bhushan Gopaluni"
+      url: "https://dais.chbe.ubc.ca"
+    - name: "Prof. Yankai Cao"
+      url: "https://optimal.chbe.ubc.ca/"
+  thesis:
+    title: "Interpretable and Robust Soft Sensor Modeling for Industrial Applications"
+
+- degree: "M.S."
+  degree_full: "Master of Science"
+  institution: "Beijing University of Chemical Technology"
+  inst_short: "BUCT"
+  subject: "Control Engineering"
+  year: "2015"
+  year_end: "2018"
+  advisors:
+    - name: "Prof. Youqing Wang"
+      url: "https://www.researchgate.net/profile/Youqing-Wang-2"
+  thesis:
+    title: "Model-based fault diagnosis and fault-tolerant control of industrial processes"
+
+- degree: "Joint M.S."
+  degree_full: "Joint Master of Science"
+  institution: "University of Duisburg-Essen"
+  inst_short: "UDE"
+  subject: "Control Engineering"
+  year: "2017"
+  year_end: "2018"
+  advisors:
+    - name: "Prof. Steven X. Ding"
+      url: "https://www.uni-due.de/aks/stevending_en.php"
+
+- degree: "B.S."
+  degree_full: "Bachelor of Science"
+  institution: "Beijing University of Chemical Technology"
+  inst_short: "BUCT"
+  subject: "Automation"
+  year: "2011"
+  year_end: "2015"
+  advisors:
+    - name: "Prof. Youqing Wang"
+      url: "https://www.researchgate.net/profile/Youqing-Wang-2"
+  thesis:
+    title: "Fault diagnosis and fault-tolerant control of intermittent fault"
