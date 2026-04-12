@@ -70,25 +70,25 @@ author_profile: true
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=4BylVnYAAAAJ&hl=en).
 
-<span class="author-me">Liang Cao</span> = first/corresponding author. * = corresponding author. Sole-authored papers: Liang Cao is the corresponding author.
+<span class="author-me">Liang Cao</span> = first/corresponding author. * = corresponding author.
 
 <h3 class="pub-section-title">CCF-A Conference Papers</h3>
 
 <div class="pub-item">
 <span class="pub-title"><a href="https://openreview.net/">A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems</a></span> <span class="pub-note ccfa">CVPR 2026</span><br>
-<span class="pub-authors"><span class="author-me">Liang Cao</span></span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao*</span></span><br>
 <span class="pub-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</span>, Denver, USA
 </div>
 
 <div class="pub-item">
 <span class="pub-title"><a href="https://openreview.net/">Learning Dynamic Causal Graphs Under Parametric Uncertainty via Polynomial Chaos Expansions</a></span> <span class="pub-note ccfa">ICLR 2026</span><br>
-<span class="pub-authors"><span class="author-me">Liang Cao</span></span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao*</span></span><br>
 <span class="pub-venue">International Conference on Learning Representations (ICLR 2026)</span>, Rio de Janeiro, Brazil
 </div>
 
 <div class="pub-item">
 <span class="pub-title"><a href="https://ojs.aaai.org/">A Natural-Gradient Approach for Nonlinear Stochastic Systems with Parameter Uncertainty</a></span> <span class="pub-note ccfa">AAAI 2026</span><br>
-<span class="pub-authors"><span class="author-me">Liang Cao</span></span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao*</span></span><br>
 <span class="pub-venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</span>, Singapore
 </div>
 
