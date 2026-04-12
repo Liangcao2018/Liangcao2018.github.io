@@ -27,47 +27,69 @@ h1, h2, h3, h4, h5, h6 {
 .masthead__inner-wrap {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0.6em 1em;
 }
 
-.site-nav-simple {
-  display: flex;
+.greedy-nav {
+  background: transparent !important;
+  display: flex !important;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
-  gap: 4px;
+  min-width: 0 !important;
 }
 
-.site-nav-title {
-  font-family: 'Source Serif 4', Georgia, serif;
-  font-weight: 700;
-  font-size: 1.25em;
-  color: #1a365d;
-  text-decoration: none;
-  margin-right: 24px;
-  padding: 6px 0;
+.greedy-nav .visible-links {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  overflow: visible !important;
 }
 
-.site-nav-title:hover {
-  color: #2c5282;
-  text-decoration: none;
+.greedy-nav .visible-links li {
+  display: inline-block !important;
+  float: none !important;
+  visibility: visible !important;
+  opacity: 1 !important;
 }
 
-.site-nav-link {
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
+.greedy-nav button {
+  display: none !important;
+}
+
+.greedy-nav a {
+  margin: 0 0.5rem !important;
+}
+
+.masthead__menu-item--lg a {
+  font-family: 'Source Serif 4', Georgia, serif !important;
+  font-weight: 700 !important;
+  font-size: 1.15em !important;
+  color: #1a365d !important;
+  padding-right: 8px !important;
+}
+
+.masthead__menu-item--lg a:hover {
+  color: #2c5282 !important;
+}
+
+.masthead__menu-item a {
   font-size: 0.88em;
   font-weight: 500;
-  letter-spacing: 0.03em;
-  padding: 6px 14px;
+  letter-spacing: 0.02em;
+  padding: 6px 12px;
   border-radius: 20px;
-  transition: all 0.25s ease;
-  color: #4a5568;
-  text-decoration: none;
+  transition: all 0.2s ease;
+  color: #4a5568 !important;
   white-space: nowrap;
 }
 
-.site-nav-link:hover {
+.masthead__menu-item a:hover {
   background: #e2e8f0;
-  color: #1a365d;
+  color: #1a365d !important;
   text-decoration: none;
 }
 
