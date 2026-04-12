@@ -3,10 +3,8 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}
-  <!-- MapMyVisitors 2D Map Widget (with visitor count) -->
-  <div style="text-align:center; margin-top:16px;">
-    <script type="text/javascript" src="//mapmyvisitors.com/map.js?d=7hOwAnHayAHtMOTt5uxB13zczri5ohxcwlR6pO0lpCQ&cl=ffffff&w=200"></script>
-  </div>
+  <!-- Visitor Widget Placeholder: paste new widget code here -->
+  <div id="visitor-widget" style="text-align:center; margin-top:16px;"></div>
   {% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}

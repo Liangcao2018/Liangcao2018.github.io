@@ -159,7 +159,7 @@ Co-supervised with Prof. Yan Qin</div>
 
 <div class="member-card">
 <div class="member-name"><a href="https://optimal.chbe.ubc.ca/">Yankai Cao</a></div>
-<div class="member-role">Assistant Professor, UBC</div>
+<div class="member-role">Associate Professor, UBC</div>
 <div class="member-info">Department of Chemical and Biological Engineering</div>
 </div>
 
