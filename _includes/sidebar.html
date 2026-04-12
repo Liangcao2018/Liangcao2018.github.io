@@ -5,7 +5,17 @@
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}
   <!-- MapMyVisitors Globe Widget -->
   <div style="text-align:center; margin-top:16px; padding: 8px 0;">
-    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=7hOwAnHayAHtMOTt5uxB13zczri5ohxcwlR6pO0lpCQ"></script>
+    <div style="display:inline-block; transform:scale(0.6); transform-origin:top center; height:180px; overflow:hidden;">
+      <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=7hOwAnHayAHtMOTt5uxB13zczri5ohxcwlR6pO0lpCQ"></script>
+    </div>
+    <div style="margin-top: -10px;">
+      <a href="https://mapmyvisitors.com/web/1bvkj" style="text-decoration:none;">
+        <img src="https://mapmyvisitors.com/map.png?d=7hOwAnHayAHtMOTt5uxB13zczri5ohxcwlR6pO0lpCQ&cl=ffffff&w=1&h=1&t=n" style="width:1px;height:1px;border:0;" alt="">
+      </a>
+      <div id="visitor-count" style="font-family:'Inter',sans-serif; font-size:0.78em; color:#718096; margin-top:2px;">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fliangcao2018.github.io&count_bg=%232c5282&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true" alt="visitor count" style="height:20px;">
+      </div>
+    </div>
   </div>
   {% endif %}
   {% if page.sidebar %}
