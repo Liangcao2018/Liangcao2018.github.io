@@ -3,14 +3,9 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}
-  <!-- MapMyVisitors Globe + Counter -->
+  <!-- MapMyVisitors 2D Map Widget (with visitor count) -->
   <div style="text-align:center; margin-top:16px;">
-    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=7hOwAnHayAHtMOTt5uxB13zczri5ohxcwlR6pO0lpCQ&w=150&h=150"></script>
-    <div style="margin-top:6px;">
-      <a href="https://mapmyvisitors.com/web/1bvkj" title="Visit tracker">
-        <img src="//mapmyvisitors.com/map.png?d=7hOwAnHayAHtMOTt5uxB13zczri5ohxcwlR6pO0lpCQ&cl=ffffff&w=150&t=n" style="width:150px; border:0;" alt="Visitor Map">
-      </a>
-    </div>
+    <script type="text/javascript" src="//mapmyvisitors.com/map.js?d=7hOwAnHayAHtMOTt5uxB13zczri5ohxcwlR6pO0lpCQ&cl=ffffff&w=200"></script>
   </div>
   {% endif %}
   {% if page.sidebar %}
