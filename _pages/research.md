@@ -109,10 +109,10 @@ I design control strategies that maintain system stability and performance under
 
 My research has been successfully deployed in real-world industrial scenarios:
 
-- **Biopharmaceutical Manufacturing**: Core participant in MIT/US FDA's $82M continuous mRNA manufacturing platform project
+- **Biopharmaceutical Manufacturing**: Core participant in MIT/US FDA continuous mRNA manufacturing platform project
 - **Refinery Digital Twins**: Developed soft measurement and big data analytics for UBC-Parkland Corporation, deployed in production
-- **Smart Energy Systems**: Microgrid digital twin modeling and optimal control (NRC Canada, $15M)
+- **Smart Energy Systems**: Microgrid digital twin modeling and optimal control (NRC Canada)
 - **Healthcare**: Real-time intelligent monitoring for emergency departments (Vancouver Coastal Health)
 - **Lithium-ion Battery Management**: State of health estimation and capacity prediction
-- **AI-Accelerated Materials Discovery**: Inverse design using machine learning (Mitacs, $3.6M)
+- **AI-Accelerated Materials Discovery**: Inverse design using machine learning (Mitacs)
 

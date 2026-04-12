@@ -199,32 +199,32 @@ Thesis: <em>Interpretable and Robust Soft Sensor Modeling for Industrial Applica
 
 <div class="cv-entry">
 <strong>Microgrid Digital Twin Modeling and Optimal Control</strong> <span class="cv-date">(2025.01 – Present)</span>
-<div class="cv-detail">Funding: NRC Canada · Amount: 15M CAD · Role: CO-PI</div>
+<div class="cv-detail">Funding: NRC Canada · Role: CO-PI</div>
 </div>
 
 <div class="cv-entry">
 <strong>AI-Accelerated Materials Discovery and Inverse Design</strong> <span class="cv-date">(2025.07 – Present)</span>
-<div class="cv-detail">Funding: Mitacs · Amount: 3.6M CAD · Role: CO-PI</div>
+<div class="cv-detail">Funding: Mitacs · Role: CO-PI</div>
 </div>
 
 <div class="cv-entry">
 <strong>Timely Monitoring of the Emergency Department</strong> <span class="cv-date">(2025.09 – Present)</span>
-<div class="cv-detail">Funding: Vancouver Coastal Health · Amount: 8.5M CAD · Role: CO-PI</div>
+<div class="cv-detail">Funding: Vancouver Coastal Health · Role: CO-PI</div>
 </div>
 
 <div class="cv-entry">
 <strong>Continuous mRNA Manufacturing Platform</strong> <span class="cv-date">(2024.03 – 2025.11)</span>
-<div class="cv-detail">Funding: US FDA · Amount: 82M USD · Role: Core Participant (MIT)</div>
+<div class="cv-detail">Funding: US FDA · Role: Core Participant (MIT)</div>
 </div>
 
 <div class="cv-entry">
 <strong>Smart Energy Modeling and Optimization</strong> <span class="cv-date">(2022.11 – 2024.02)</span>
-<div class="cv-detail">Funding: Rogers Canada · Amount: 4.8M CAD · Role: Core Participant</div>
+<div class="cv-detail">Funding: Rogers Canada · Role: Core Participant</div>
 </div>
 
 <div class="cv-entry">
 <strong>Modeling and Control of Refining Process</strong> <span class="cv-date">(2020.06 – 2023.06)</span>
-<div class="cv-detail">Funding: Mitacs Accelerate Award · Amount: 120K CAD · Role: Principal Investigator</div>
+<div class="cv-detail">Funding: Mitacs Accelerate Award · Role: Principal Investigator</div>
 </div>
 </div>
 
