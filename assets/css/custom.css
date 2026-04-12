@@ -19,29 +19,62 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Masthead / Navigation */
 .masthead {
-  border-bottom: 2px solid #2c5282;
-  background: #fafbfc;
+  background: linear-gradient(135deg, #1a365d 0%, #2c5282 100%);
+  border-bottom: none;
+  box-shadow: 0 2px 12px rgba(26,54,93,0.15);
+}
+
+.masthead__inner-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.greedy-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.greedy-nav .visible-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .site-title {
   font-family: 'Source Serif 4', Georgia, serif !important;
   font-weight: 700 !important;
-  font-size: 1.3em !important;
-  color: #1a365d !important;
+  font-size: 1.25em !important;
+  color: #ffffff !important;
+  letter-spacing: 0.01em;
+}
+
+.site-title:hover {
+  color: #bee3f8 !important;
 }
 
 .masthead__menu-item a {
-  font-size: 0.92em;
+  font-size: 0.88em;
   font-weight: 500;
-  letter-spacing: 0.02em;
-  padding: 6px 12px;
-  border-radius: 4px;
-  transition: all 0.2s ease;
+  letter-spacing: 0.03em;
+  padding: 6px 16px;
+  border-radius: 20px;
+  transition: all 0.25s ease;
+  color: rgba(255,255,255,0.85) !important;
 }
 
 .masthead__menu-item a:hover {
-  background: #ebf4ff;
-  color: #2c5282 !important;
+  background: rgba(255,255,255,0.15);
+  color: #ffffff !important;
+}
+
+.greedy-nav a {
+  color: rgba(255,255,255,0.85);
+}
+
+.greedy-nav a:hover {
+  color: #ffffff;
 }
 
 /* Author Profile Sidebar */

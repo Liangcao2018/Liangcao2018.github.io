@@ -83,10 +83,6 @@ redirect_from:
 }
 </style>
 
-<div style="text-align: center; margin-bottom: 28px;">
-  <a href="{{ base_path }}/files/Liang_Cao_CV_2025_UBC.pdf" style="display: inline-block; background: #2c5282; color: #fff; padding: 10px 28px; border-radius: 6px; font-size: 0.9em; font-weight: 600; text-decoration: none; transition: all 0.2s;">Download Full CV (PDF)</a>
-</div>
-
 <div class="cv-section">
 <h2 class="cv-section-title">Education</h2>
 

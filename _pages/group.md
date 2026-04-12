@@ -90,10 +90,6 @@ author_profile: true
 }
 </style>
 
-<div class="group-intro">
-I am a member of the <a href="https://dais.chbe.ubc.ca">DAIS Lab</a> (Data Analytics and Intelligent Systems) led by Prof. Bhushan Gopaluni at the University of British Columbia. I also collaborate closely with <a href="https://www.engineering.cornell.edu/faculty-directory/fengqi-you">Prof. Fengqi You's group</a> at Cornell University on trustworthy machine learning and process optimization research.
-</div>
-
 <h2 class="group-section-title">Co-supervised Students</h2>
 
 <div class="member-grid">
