@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks & Teaching"
+title: "Teaching & Presentations"
 permalink: /talks-teaching/
 author_profile: true
 redirect_from:
@@ -49,7 +49,18 @@ redirect_from:
 }
 </style>
 
-<h2 class="tt-section-title">Invited Talks & Presentations</h2>
+<h2 class="tt-section-title">Teaching</h2>
+
+<div class="tt-entry">
+<strong>CHBE 474 — Process Control Engineering</strong> <span class="tt-date">(Fall 2020)</span>
+<div class="tt-detail">
+<strong>Teaching Assistant</strong> · University of British Columbia, Department of Chemical and Biological Engineering<br>
+Supervisor: Prof. Alireza Bagherzadeh<br>
+<em>Frequency response analysis; advanced control techniques; multivariable control systems; mathematical tools for computer control systems; design of computer control systems; engineering design of industrial control applications; plant wide control concepts; distributed control systems concepts.</em>
+</div>
+</div>
+
+<h2 class="tt-section-title">Presentations</h2>
 
 <div class="tt-entry">
 <strong>Session Chair: Industrial Process Intelligence Operation Control and Data Analysis</strong> <span class="tt-date">(2026.05)</span>
@@ -62,7 +73,7 @@ redirect_from:
 </div>
 
 <div class="tt-entry">
-<strong>Invited Session Chair: Advanced Monitoring and Control for Industrial Systems</strong> <span class="tt-date">(2025.09)</span>
+<strong>Session Chair: Advanced Monitoring and Control for Industrial Systems</strong> <span class="tt-date">(2025.09)</span>
 <div class="tt-detail"><span class="tt-venue">4th IEEE International Conference on Industrial Electronics for Sustainable Energy Systems (IESES 2025)</span>, Beijing, China</div>
 </div>
 
@@ -99,15 +110,4 @@ redirect_from:
 <div class="tt-entry">
 <strong>Autoencoder and variational autoencoder</strong> <span class="tt-date">(2020)</span>
 <div class="tt-detail"><span class="tt-venue">DAIS Lab Group Meeting</span>, Vancouver, Canada</div>
-</div>
-
-<h2 class="tt-section-title">Teaching</h2>
-
-<div class="tt-entry">
-<strong>CHBE 474 — Process Control Engineering</strong> <span class="tt-date">(Fall 2020)</span>
-<div class="tt-detail">
-<strong>Teaching Assistant</strong> · University of British Columbia, Department of Chemical and Biological Engineering<br>
-Supervisor: Prof. Alireza Bagherzadeh<br>
-<em>Frequency response analysis; advanced control techniques; multivariable control systems; mathematical tools for computer control systems; design of computer control systems; engineering design of industrial control applications; plant wide control concepts; distributed control systems concepts.</em>
-</div>
 </div>

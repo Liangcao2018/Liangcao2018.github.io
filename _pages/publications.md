@@ -15,31 +15,6 @@ author_profile: true
   padding-bottom: 8px;
   margin: 28px 0 16px 0;
 }
-.pub-stats {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  gap: 12px;
-  margin: 20px 0 28px;
-}
-.pub-stat {
-  text-align: center;
-  background: linear-gradient(135deg, #ebf4ff 0%, #e2ecf7 100%);
-  border-radius: 8px;
-  padding: 16px 10px;
-  border: 1px solid #bee3f8;
-}
-.pub-stat .number {
-  font-size: 1.6em;
-  font-weight: 700;
-  color: #2c5282;
-  display: block;
-  font-family: 'Inter', sans-serif;
-}
-.pub-stat .label {
-  font-size: 0.78em;
-  color: #4a5568;
-  font-weight: 500;
-}
 .pub-item {
   padding: 10px 14px;
   margin-bottom: 6px;
@@ -93,28 +68,9 @@ author_profile: true
 .author-me { font-weight: 700; }
 </style>
 
-<div class="pub-stats">
-  <div class="pub-stat">
-    <span class="number">48+</span>
-    <span class="label">Total Papers</span>
-  </div>
-  <div class="pub-stat">
-    <span class="number">34</span>
-    <span class="label">Journal Articles</span>
-  </div>
-  <div class="pub-stat">
-    <span class="number">14</span>
-    <span class="label">Conference Papers</span>
-  </div>
-  <div class="pub-stat">
-    <span class="number">3</span>
-    <span class="label">CCF-A (1st Author)</span>
-  </div>
-</div>
-
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=4BylVnYAAAAJ&hl=en).
 
-<span class="author-me">Liang Cao</span> = first/corresponding author. * = corresponding author.
+<span class="author-me">Liang Cao</span> = first/corresponding author. * = corresponding author. Sole-authored papers: Liang Cao is the corresponding author.
 
 <h3 class="pub-section-title">CCF-A Conference Papers</h3>
 
