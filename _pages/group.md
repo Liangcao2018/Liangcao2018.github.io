@@ -94,39 +94,27 @@ author_profile: true
 I am a member of the <a href="https://dais.chbe.ubc.ca">DAIS Lab</a> (Data Analytics and Intelligent Systems) led by Prof. Bhushan Gopaluni at the University of British Columbia. I also collaborate closely with <a href="https://www.engineering.cornell.edu/faculty-directory/fengqi-you">Prof. Fengqi You's group</a> at Cornell University on trustworthy machine learning and process optimization research.
 </div>
 
-<h2 class="group-section-title">Principal Investigator</h2>
-
-<div class="member-grid">
-<div class="member-card">
-<div class="member-name">Liang Cao (曹亮)</div>
-<div class="member-role">Postdoctoral Fellow</div>
-<div class="member-info">University of British Columbia / Cornell University<br>
-Ph.D., UBC (2024) · Postdoc, MIT (2024–2025)</div>
-<div class="member-interest">Causal discovery, process monitoring, soft sensors, fault-tolerant control</div>
-</div>
-</div>
-
 <h2 class="group-section-title">Co-supervised Students</h2>
 
 <div class="member-grid">
 <div class="member-card">
 <div class="member-name">Yaqi Zhu (朱雅琪)</div>
 <div class="member-role">Ph.D. Student</div>
-<div class="member-info">Tsinghua University, Department of Automation<br>
+<div class="member-info">Tsinghua University (清华大学), Department of Automation<br>
 Co-supervised with <a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">Prof. Fan Yang</a></div>
 </div>
 
 <div class="member-card">
-<div class="member-name">Maozhi Shen (沈茂智)</div>
+<div class="member-name">Maozhi Shen (申茂志)</div>
 <div class="member-role">M.S. Student</div>
-<div class="member-info">Tsinghua University, Department of Automation<br>
+<div class="member-info">Tsinghua University (清华大学), Department of Automation<br>
 Co-supervised with <a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">Prof. Fan Yang</a></div>
 </div>
 
 <div class="member-card">
-<div class="member-name">Jingwei Wang (王经纬)</div>
+<div class="member-name">Jingwei Wang (王经伟)</div>
 <div class="member-role">Ph.D. Student</div>
-<div class="member-info">Peng Cheng Laboratory (鹏城实验室)<br>
+<div class="member-info">Southern University of Science and Technology / Peng Cheng Laboratory (南科大 / 鹏城实验室联培)<br>
 Co-supervised with Prof. Zhuo Chen</div>
 </div>
 
@@ -138,17 +126,17 @@ Co-supervised with Prof. Weide Liu</div>
 </div>
 
 <div class="member-card">
-<div class="member-name">Jiajun Cai (蔡家俊)</div>
+<div class="member-name">Jiajun Cai (蔡嘉俊)</div>
 <div class="member-role">M.S. Student</div>
 <div class="member-info">Jiangxi University of Finance and Economics (江西财经大学)<br>
 Co-supervised with Prof. Weide Liu</div>
 </div>
 
 <div class="member-card">
-<div class="member-name">Menghao Li (李梦浩)</div>
+<div class="member-name">Menghao Li (李孟澔)</div>
 <div class="member-role">Ph.D. Student</div>
 <div class="member-info">Chongqing University (重庆大学)<br>
-Co-supervised with <a href="https://scholar.google.com/">Prof. Yan Qin</a></div>
+Co-supervised with Prof. Yan Qin</div>
 </div>
 </div>
 
