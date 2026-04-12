@@ -78,6 +78,19 @@ h1, h2, h3, h4, h5, h6 {
   color: #2c5282;
 }
 
+.greedy-nav button {
+  display: none !important;
+}
+
+.greedy-nav .visible-links li {
+  display: table-cell !important;
+  visibility: visible !important;
+}
+
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
 /* Author Profile Sidebar */
 .author__avatar img {
   border-radius: 50% !important;
