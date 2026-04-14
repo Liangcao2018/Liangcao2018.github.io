@@ -95,44 +95,56 @@ author_profile: true
 <div class="member-grid">
 <div class="member-card">
 <div class="member-name">Yaqi Zhu (朱雅琪)</div>
-<div class="member-role">Ph.D. Student</div>
-<div class="member-info">Tsinghua University (清华大学), Department of Automation<br>
-Co-supervised with <a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">Prof. Fan Yang</a></div>
+<div class="member-role"><span class="lang-en">Ph.D. Student</span><span class="lang-zh">博士研究生</span></div>
+<div class="member-info">
+<span class="lang-en">Tsinghua University, Department of Automation<br>Co-supervised with <a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">Prof. Fan Yang</a></span>
+<span class="lang-zh">清华大学自动化系<br>合作指导：<a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">杨帆 (Fan Yang) 教授</a></span>
+</div>
 </div>
 
 <div class="member-card">
 <div class="member-name">Maozhi Shen (申茂志)</div>
-<div class="member-role">M.S. Student</div>
-<div class="member-info">Tsinghua University (清华大学), Department of Automation<br>
-Co-supervised with <a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">Prof. Fan Yang</a></div>
+<div class="member-role"><span class="lang-en">M.S. Student</span><span class="lang-zh">硕士研究生</span></div>
+<div class="member-info">
+<span class="lang-en">Tsinghua University, Department of Automation<br>Co-supervised with <a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">Prof. Fan Yang</a></span>
+<span class="lang-zh">清华大学自动化系<br>合作指导：<a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">杨帆 (Fan Yang) 教授</a></span>
+</div>
 </div>
 
 <div class="member-card">
 <div class="member-name">Jingwei Wang (王经伟)</div>
-<div class="member-role">Ph.D. Student</div>
-<div class="member-info">Southern University of Science and Technology / Peng Cheng Laboratory (南科大 / 鹏城实验室联培)<br>
-Co-supervised with Prof. Zhuo Chen</div>
+<div class="member-role"><span class="lang-en">Ph.D. Student</span><span class="lang-zh">博士研究生</span></div>
+<div class="member-info">
+<span class="lang-en">Southern University of Science and Technology / Peng Cheng Laboratory<br>Co-supervised with Prof. Zhuo Chen</span>
+<span class="lang-zh">南方科技大学 / 鹏城实验室联合培养<br>合作指导：陈卓 (Zhuo Chen) 教授</span>
+</div>
 </div>
 
 <div class="member-card">
 <div class="member-name">Jun Wan (万军)</div>
-<div class="member-role">Ph.D. Student</div>
-<div class="member-info">Jiangxi University of Finance and Economics (江西财经大学)<br>
-Co-supervised with Prof. Weide Liu</div>
+<div class="member-role"><span class="lang-en">Ph.D. Student</span><span class="lang-zh">博士研究生</span></div>
+<div class="member-info">
+<span class="lang-en">Jiangxi University of Finance and Economics<br>Co-supervised with Prof. Weide Liu</span>
+<span class="lang-zh">江西财经大学<br>合作指导：刘伟德 (Weide Liu) 教授</span>
+</div>
 </div>
 
 <div class="member-card">
 <div class="member-name">Jiajun Cai (蔡嘉俊)</div>
-<div class="member-role">M.S. Student</div>
-<div class="member-info">Jiangxi University of Finance and Economics (江西财经大学)<br>
-Co-supervised with Prof. Weide Liu</div>
+<div class="member-role"><span class="lang-en">M.S. Student</span><span class="lang-zh">硕士研究生</span></div>
+<div class="member-info">
+<span class="lang-en">Jiangxi University of Finance and Economics<br>Co-supervised with Prof. Weide Liu</span>
+<span class="lang-zh">江西财经大学<br>合作指导：刘伟德 (Weide Liu) 教授</span>
+</div>
 </div>
 
 <div class="member-card">
 <div class="member-name">Menghao Li (李孟澔)</div>
-<div class="member-role">Ph.D. Student</div>
-<div class="member-info">Chongqing University (重庆大学)<br>
-Co-supervised with Prof. Yan Qin</div>
+<div class="member-role"><span class="lang-en">Ph.D. Student</span><span class="lang-zh">博士研究生</span></div>
+<div class="member-info">
+<span class="lang-en">Chongqing University<br>Co-supervised with Prof. Yan Qin</span>
+<span class="lang-zh">重庆大学<br>合作指导：秦岩 (Yan Qin) 教授</span>
+</div>
 </div>
 </div>
 
@@ -141,44 +153,65 @@ Co-supervised with Prof. Yan Qin</div>
 <div class="member-grid">
 <div class="member-card">
 <div class="member-name"><a href="https://dais.chbe.ubc.ca">Bhushan Gopaluni</a></div>
-<div class="member-role">Professor, UBC</div>
-<div class="member-info">Fellow, Canadian Academy of Engineering<br>Department of Chemical and Biological Engineering</div>
+<div class="member-role"><span class="lang-en">Professor, UBC</span><span class="lang-zh">教授，英属哥伦比亚大学</span></div>
+<div class="member-info">
+<span class="lang-en">Fellow, Canadian Academy of Engineering<br>Department of Chemical and Biological Engineering</span>
+<span class="lang-zh">加拿大工程院院士<br>化学与生物工程系</span>
+</div>
 </div>
 
 <div class="member-card">
-<div class="member-name"><a href="https://www.engineering.cornell.edu/faculty-directory/fengqi-you">Fengqi You</a></div>
-<div class="member-role">Professor, Cornell University</div>
-<div class="member-info">AAAS/AIChE/FRSC Fellow<br>Department of Chemical and Biomolecular Engineering</div>
+<div class="member-name"><a href="https://www.engineering.cornell.edu/faculty-directory/fengqi-you">Fengqi You (尤峰崎)</a></div>
+<div class="member-role"><span class="lang-en">Professor, Cornell University</span><span class="lang-zh">教授，康奈尔大学</span></div>
+<div class="member-info">
+<span class="lang-en">AAAS/AIChE/FRSC Fellow<br>Department of Chemical and Biomolecular Engineering</span>
+<span class="lang-zh">AAAS / AIChE / FRSC 会士<br>化学与生物分子工程系</span>
+</div>
 </div>
 
 <div class="member-card">
 <div class="member-name"><a href="https://cheme.mit.edu/profile/richard-d-braatz/">Richard D. Braatz</a></div>
-<div class="member-role">Professor, MIT</div>
-<div class="member-info">NAE Member, IEEE/IFAC/AAAS/AIChE Fellow<br>Department of Chemical Engineering</div>
+<div class="member-role"><span class="lang-en">Professor, MIT</span><span class="lang-zh">教授，麻省理工学院</span></div>
+<div class="member-info">
+<span class="lang-en">NAE Member, IEEE/IFAC/AAAS/AIChE Fellow<br>Department of Chemical Engineering</span>
+<span class="lang-zh">美国国家工程院院士，IEEE / IFAC / AAAS / AIChE 会士<br>化学工程系</span>
+</div>
 </div>
 
 <div class="member-card">
-<div class="member-name"><a href="https://optimal.chbe.ubc.ca/">Yankai Cao</a></div>
-<div class="member-role">Associate Professor, UBC</div>
-<div class="member-info">Department of Chemical and Biological Engineering</div>
+<div class="member-name"><a href="https://optimal.chbe.ubc.ca/">Yankai Cao (曹彦凯)</a></div>
+<div class="member-role"><span class="lang-en">Associate Professor, UBC</span><span class="lang-zh">副教授，英属哥伦比亚大学</span></div>
+<div class="member-info">
+<span class="lang-en">Department of Chemical and Biological Engineering</span>
+<span class="lang-zh">化学与生物工程系</span>
+</div>
 </div>
 
 <div class="member-card">
-<div class="member-name"><a href="https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm">Youqing Wang</a></div>
-<div class="member-role">Professor, BUCT</div>
-<div class="member-info">Beijing University of Chemical Technology</div>
+<div class="member-name"><a href="https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm">Youqing Wang (王友清)</a></div>
+<div class="member-role"><span class="lang-en">Professor, BUCT</span><span class="lang-zh">教授，北京化工大学</span></div>
+<div class="member-info">
+<span class="lang-en">Beijing University of Chemical Technology</span>
+<span class="lang-zh">北京化工大学</span>
+</div>
 </div>
 
 <div class="member-card">
-<div class="member-name"><a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">Fan Yang</a></div>
-<div class="member-role">Professor, Tsinghua University</div>
-<div class="member-info">Department of Automation</div>
+<div class="member-name"><a href="https://scholar.google.com/citations?user=m-vMDFkAAAAJ&hl=en">Fan Yang (杨帆)</a></div>
+<div class="member-role"><span class="lang-en">Professor, Tsinghua University</span><span class="lang-zh">教授，清华大学</span></div>
+<div class="member-info">
+<span class="lang-en">Department of Automation</span>
+<span class="lang-zh">自动化系</span>
+</div>
 </div>
 </div>
 
 <div class="opening-box">
 <h3>Openings</h3>
-<p>
+<p class="lang-en">
 I am looking for self-motivated <strong>graduate students</strong> (M.S./Ph.D.) and <strong>undergraduate research assistants</strong> interested in machine learning, causal discovery, process monitoring, and industrial AI. If you are interested in joining our research group, please send your CV and a brief research statement to <a href="mailto:liang.cao@ubc.ca">liang.cao@ubc.ca</a> / <a href="mailto:liangcao@ieee.org">liangcao@ieee.org</a>.
+</p>
+<p class="lang-zh">
+课题组长期招收有志于<strong>机器学习、因果发现、过程监控与工业人工智能</strong>方向的<strong>硕士 / 博士研究生</strong>以及<strong>本科科研助理</strong>。欢迎有兴趣加入研究团队的同学将个人简历及简短研究陈述发送至 <a href="mailto:liang.cao@ubc.ca">liang.cao@ubc.ca</a> / <a href="mailto:liangcao@ieee.org">liangcao@ieee.org</a>。
 </p>
 </div>

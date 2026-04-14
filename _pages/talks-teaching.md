@@ -54,9 +54,8 @@ redirect_from:
 <div class="tt-entry">
 <strong>CHBE 474 — Process Control Engineering</strong> <span class="tt-date">(Fall 2020)</span>
 <div class="tt-detail">
-<strong>Teaching Assistant</strong> · University of British Columbia, Department of Chemical and Biological Engineering<br>
-Supervisor: Prof. Alireza Bagherzadeh<br>
-<em>Frequency response analysis; advanced control techniques; multivariable control systems; mathematical tools for computer control systems; design of computer control systems; engineering design of industrial control applications; plant wide control concepts; distributed control systems concepts.</em>
+<span class="lang-en"><strong>Teaching Assistant</strong> · University of British Columbia, Department of Chemical and Biological Engineering<br>Supervisor: Prof. Alireza Bagherzadeh<br><em>Frequency response analysis; advanced control techniques; multivariable control systems; mathematical tools for computer control systems; design of computer control systems; engineering design of industrial control applications; plant wide control concepts; distributed control systems concepts.</em></span>
+<span class="lang-zh"><strong>助教</strong> · 英属哥伦比亚大学化学与生物工程系<br>指导教师：Alireza Bagherzadeh 教授<br><em>课程内容：频率响应分析；先进控制技术；多变量控制系统；计算机控制系统的数学工具；计算机控制系统设计；工业控制应用的工程设计；全厂控制理念；分布式控制系统概念。</em></span>
 </div>
 </div>
 
@@ -64,30 +63,30 @@ Supervisor: Prof. Alireza Bagherzadeh<br>
 
 <div class="tt-entry">
 <strong>Interpretable Industrial Soft Sensor Design Based on Informer and SHAP</strong> <span class="tt-date">(2024.07)</span>
-<div class="tt-detail"><span class="tt-venue">The 12th IFAC Symposium on Advanced Control of Chemical Processes (ADCHEM 2024)</span>, Toronto, Canada</div>
+<div class="tt-detail"><span class="tt-venue">The 12th IFAC Symposium on Advanced Control of Chemical Processes (ADCHEM 2024)</span>, <span class="lang-en">Toronto, Canada</span><span class="lang-zh">加拿大多伦多</span></div>
 </div>
 
 <div class="tt-entry">
 <strong>Stable Soft Sensor Modeling for Industrial Systems</strong> <span class="tt-date">(2024.05)</span>
-<div class="tt-detail"><span class="tt-venue">2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS)</span>, St. Louis, MO, USA</div>
+<div class="tt-detail"><span class="tt-venue">2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS)</span>, <span class="lang-en">St. Louis, MO, USA</span><span class="lang-zh">美国密苏里州圣路易斯</span></div>
 </div>
 
 <div class="tt-entry">
 <strong>Interpretable Soft Sensors using Extremely Randomized Trees and SHAP</strong> <span class="tt-date">(2023.07)</span>
-<div class="tt-detail"><span class="tt-venue">IFAC World Congress 2023</span>, Yokohama, Japan</div>
+<div class="tt-detail"><span class="tt-venue">IFAC World Congress 2023</span>, <span class="lang-en">Yokohama, Japan</span><span class="lang-zh">日本横滨</span></div>
 </div>
 
 <div class="tt-entry">
 <strong>Soft Sensor Change Point Detection and Root Cause Analysis</strong> <span class="tt-date">(2022.09)</span>
-<div class="tt-detail"><span class="tt-venue">SICE Annual Conference 2022</span>, Kumamoto, Japan · <em>Finalists of Young Author's Award</em></div>
+<div class="tt-detail"><span class="tt-venue">SICE Annual Conference 2022</span>, <span class="lang-en">Kumamoto, Japan · <em>Finalists of Young Author's Award</em></span><span class="lang-zh">日本熊本 · <em>青年作者奖决赛入围</em></span></div>
 </div>
 
 <div class="tt-entry">
 <strong>A brief introduction to stable learning</strong> <span class="tt-date">(2021)</span>
-<div class="tt-detail"><span class="tt-venue">DAIS Lab Group Meeting</span>, Vancouver, Canada</div>
+<div class="tt-detail"><span class="tt-venue">DAIS Lab Group Meeting</span>, <span class="lang-en">Vancouver, Canada</span><span class="lang-zh">加拿大温哥华</span></div>
 </div>
 
 <div class="tt-entry">
 <strong>Autoencoder and variational autoencoder</strong> <span class="tt-date">(2020)</span>
-<div class="tt-detail"><span class="tt-venue">DAIS Lab Group Meeting</span>, Vancouver, Canada</div>
+<div class="tt-detail"><span class="tt-venue">DAIS Lab Group Meeting</span>, <span class="lang-en">Vancouver, Canada</span><span class="lang-zh">加拿大温哥华</span></div>
 </div>

@@ -84,7 +84,7 @@ redirect_from:
 </div>
 
 <div class="bio-text lang-zh">
-<p>我目前是<b><a href="https://www.ubc.ca/">英属哥伦比亚大学（UBC）</a></b><a href="https://chbe.ubc.ca/">化学与生物工程系</a>的<b>博士后研究员</b>，由加拿大工程院院士<a href="https://dais.chbe.ubc.ca">Bhushan Gopaluni 教授</a>与<b><a href="https://www.cornell.edu/">康奈尔大学</a></b>的<a href="https://www.engineering.cornell.edu/faculty-directory/fengqi-you">游凤麒 (Fengqi You) 教授</a>（AAAS/AIChE/FRSC 会士）联合指导。此前，我于 2024–2025 年在<b><a href="https://www.mit.edu/">麻省理工学院（MIT）</a></b>担任博士后，合作导师为美国国家工程院院士、IEEE/IFAC/AAAS/AIChE 会士 <a href="https://cheme.mit.edu/profile/richard-d-braatz/">Richard D. Braatz 教授</a>。</p>
+<p>我目前是<b><a href="https://www.ubc.ca/">英属哥伦比亚大学（UBC）</a></b><a href="https://chbe.ubc.ca/">化学与生物工程系</a>的<b>博士后研究员</b>，由加拿大工程院院士<a href="https://dais.chbe.ubc.ca">Bhushan Gopaluni 教授</a>与<b><a href="https://www.cornell.edu/">康奈尔大学</a></b>的<a href="https://www.engineering.cornell.edu/faculty-directory/fengqi-you">尤峰崎 (Fengqi You) 教授</a>（AAAS/AIChE/FRSC 会士）联合指导。此前，我于 2024–2025 年在<b><a href="https://www.mit.edu/">麻省理工学院（MIT）</a></b>担任博士后，合作导师为美国国家工程院院士、IEEE/IFAC/AAAS/AIChE 会士 <a href="https://cheme.mit.edu/profile/richard-d-braatz/">Richard D. Braatz 教授</a>。</p>
 
 <p>我于 2024 年在<b><a href="https://www.ubc.ca/">英属哥伦比亚大学</a></b>获得化学与生物工程博士学位，导师为 <a href="https://dais.chbe.ubc.ca">Bhushan Gopaluni 教授</a>和<a href="https://optimal.chbe.ubc.ca/">曹彦凯 (Yankai Cao) 教授</a>。学士与硕士学位均于<b><a href="https://www.buct.edu.cn/">北京化工大学</a></b>获得，导师为<a href="https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm">王友清 (Youqing Wang) 教授</a>；硕士期间还赴<b><a href="https://www.uni-due.de/en/">德国杜伊斯堡-埃森大学</a></b>联合培养，合作导师为 <a href="https://www.uni-due.de/aks/aks_stevending_en.php">Steven X. Ding 教授</a>。</p>
 
