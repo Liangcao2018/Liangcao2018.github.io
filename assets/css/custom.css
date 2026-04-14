@@ -252,3 +252,32 @@ html {
   color: #2c5282;
   font-style: italic;
 }
+
+/* ============================================
+   Language Toggle (中文 / EN)
+   ============================================ */
+.lang-toggle {
+  position: fixed;
+  top: 18px;
+  right: 20px;
+  z-index: 9999;
+  padding: 6px 14px;
+  background: #ffffff;
+  border: 2px solid #c53030;
+  color: #c53030;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 14px;
+  font-family: 'Inter', sans-serif;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  transition: background 0.2s, color 0.2s;
+}
+.lang-toggle:hover {
+  background: #c53030;
+  color: #ffffff;
+}
+
+/* Bilingual content blocks (use data-lang attribute on <html>) */
+html[lang="en"] .lang-zh { display: none !important; }
+html[lang="zh"] .lang-en { display: none !important; }

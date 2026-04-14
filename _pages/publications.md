@@ -70,8 +70,6 @@ author_profile: true
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=4BylVnYAAAAJ&hl=en).
 
-<span class="author-me">Liang Cao</span> = first/corresponding author. * = corresponding author.
-
 <h3 class="pub-section-title">CCF-A Conference Papers</h3>
 
 <div class="pub-item">

@@ -73,9 +73,9 @@ redirect_from:
 }
 </style>
 
-<h2 class="section-heading">About Me</h2>
+<h2 class="section-heading"><span data-i18n-en="About Me" data-i18n-zh="个人简介">About Me</span></h2>
 
-<div class="bio-text">
+<div class="bio-text lang-en">
 <p>I am a <b>Postdoctoral Fellow</b> in <a href="https://chbe.ubc.ca/">Chemical and Biological Engineering</a> at the <b><a href="https://www.ubc.ca/">University of British Columbia</a></b>, co-supervised by <a href="https://dais.chbe.ubc.ca">Prof. Bhushan Gopaluni</a> (Fellow of the Canadian Academy of Engineering) and <a href="https://www.engineering.cornell.edu/faculty-directory/fengqi-you">Prof. Fengqi You</a> (AAAS/AIChE/FRSC Fellow) at <b><a href="https://www.cornell.edu/">Cornell University</a></b>. Before that, I was a Postdoc (2024–2025) at the <b><a href="https://www.mit.edu/">Massachusetts Institute of Technology</a></b> with <a href="https://cheme.mit.edu/profile/richard-d-braatz/">Prof. Richard D. Braatz</a> (Member of the US National Academy of Engineering, IEEE/IFAC/AAAS/AIChE Fellow).</p>
 
 <p>I received my Ph.D. (2024) in Chemical and Biological Engineering from the <b><a href="https://www.ubc.ca/">University of British Columbia</a></b>, advised by <a href="https://dais.chbe.ubc.ca">Prof. Bhushan Gopaluni</a> and <a href="https://optimal.chbe.ubc.ca/">Prof. Yankai Cao</a>. I obtained my B.S. and M.S. from <b><a href="https://www.buct.edu.cn/">Beijing University of Chemical Technology</a></b> advised by <a href="https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm">Prof. Youqing Wang</a>, and was a joint M.S. student at the <b><a href="https://www.uni-due.de/en/">University of Duisburg-Essen</a></b> with <a href="https://www.uni-due.de/aks/aks_stevending_en.php">Prof. Steven X. Ding</a>.</p>
@@ -83,21 +83,29 @@ redirect_from:
 <p>My research focuses on <b>trustworthy machine learning</b> and its industrial applications, spanning causal discovery, process monitoring &amp; fault diagnosis, soft sensor modeling, and fault-tolerant control. My work has been applied to refinery digital twins, biopharmaceutical manufacturing, lithium-ion battery management, and smart energy systems.</p>
 </div>
 
-<h2 class="section-heading">Research Interests</h2>
+<div class="bio-text lang-zh">
+<p>我目前是<b><a href="https://www.ubc.ca/">英属哥伦比亚大学（UBC）</a></b><a href="https://chbe.ubc.ca/">化学与生物工程系</a>的<b>博士后研究员</b>，由加拿大工程院院士<a href="https://dais.chbe.ubc.ca">Bhushan Gopaluni 教授</a>与<b><a href="https://www.cornell.edu/">康奈尔大学</a></b>的<a href="https://www.engineering.cornell.edu/faculty-directory/fengqi-you">游凤麒 (Fengqi You) 教授</a>（AAAS/AIChE/FRSC 会士）联合指导。此前，我于 2024–2025 年在<b><a href="https://www.mit.edu/">麻省理工学院（MIT）</a></b>担任博士后，合作导师为美国国家工程院院士、IEEE/IFAC/AAAS/AIChE 会士 <a href="https://cheme.mit.edu/profile/richard-d-braatz/">Richard D. Braatz 教授</a>。</p>
+
+<p>我于 2024 年在<b><a href="https://www.ubc.ca/">英属哥伦比亚大学</a></b>获得化学与生物工程博士学位，导师为 <a href="https://dais.chbe.ubc.ca">Bhushan Gopaluni 教授</a>和<a href="https://optimal.chbe.ubc.ca/">曹彦凯 (Yankai Cao) 教授</a>。学士与硕士学位均于<b><a href="https://www.buct.edu.cn/">北京化工大学</a></b>获得，导师为<a href="https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm">王友清 (Youqing Wang) 教授</a>；硕士期间还赴<b><a href="https://www.uni-due.de/en/">德国杜伊斯堡-埃森大学</a></b>联合培养，合作导师为 <a href="https://www.uni-due.de/aks/aks_stevending_en.php">Steven X. Ding 教授</a>。</p>
+
+<p>我的研究聚焦于<b>可信机器学习（trustworthy machine learning）</b>及其工业应用，涵盖因果发现、过程监控与故障诊断、软测量建模以及容错控制。相关成果已应用于炼化数字孪生、生物制药生产、锂离子电池管理以及智慧能源系统等领域。</p>
+</div>
+
+<h2 class="section-heading"><span data-i18n-en="Research Interests" data-i18n-zh="研究兴趣">Research Interests</span></h2>
 
 <div class="interest-tags">
-  <span class="interest-tag">Causal Discovery & Inference</span>
-  <span class="interest-tag">Machine Learning</span>
-  <span class="interest-tag">Process Monitoring</span>
-  <span class="interest-tag">Fault Diagnosis</span>
-  <span class="interest-tag">Soft Sensor Modeling</span>
-  <span class="interest-tag">Fault-Tolerant Control</span>
-  <span class="interest-tag">Alarm Management</span>
-  <span class="interest-tag">Digital Twins</span>
+  <span class="interest-tag" data-i18n-en="Causal Discovery & Inference" data-i18n-zh="因果发现与推断">Causal Discovery & Inference</span>
+  <span class="interest-tag" data-i18n-en="Machine Learning" data-i18n-zh="机器学习">Machine Learning</span>
+  <span class="interest-tag" data-i18n-en="Process Monitoring" data-i18n-zh="过程监控">Process Monitoring</span>
+  <span class="interest-tag" data-i18n-en="Fault Diagnosis" data-i18n-zh="故障诊断">Fault Diagnosis</span>
+  <span class="interest-tag" data-i18n-en="Soft Sensor Modeling" data-i18n-zh="软测量建模">Soft Sensor Modeling</span>
+  <span class="interest-tag" data-i18n-en="Fault-Tolerant Control" data-i18n-zh="容错控制">Fault-Tolerant Control</span>
+  <span class="interest-tag" data-i18n-en="Alarm Management" data-i18n-zh="报警管理">Alarm Management</span>
+  <span class="interest-tag" data-i18n-en="Digital Twins" data-i18n-zh="数字孪生">Digital Twins</span>
 </div>
 
 <div class="news-section">
-<h2>News</h2>
+<h2><span data-i18n-en="News" data-i18n-zh="最新动态">News</span></h2>
 <div class="news-item"><span class="news-date">2026.06</span> 📄 Paper accepted at <strong>CVPR 2026</strong> (CCF-A): "A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems"</div>
 <div class="news-item"><span class="news-date">2026.05</span> 📄 Paper accepted at <strong>WWW 2026</strong> (CCF-A): "Sparse Causal Latent Features for Robust Multimodal Learning under Distribution Shifts"</div>
 <div class="news-item"><span class="news-date">2026.04</span> 📄 Paper accepted at <strong>ICLR 2026</strong> (CCF-A): "Learning Dynamic Causal Graphs Under Parametric Uncertainty via Polynomial Chaos Expansions"</div>

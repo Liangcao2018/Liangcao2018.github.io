@@ -10,5 +10,109 @@ $(function(){
 $(window).off('resize', updateNav);
 </script>
 
+<script>
+/* Language toggle: English / Chinese */
+(function(){
+  var I18N_KEY = 'site-lang';
+  // Translations for nav items and common labels (key = English text)
+  var DICT = {
+    // Nav
+    "Research": "研究方向",
+    "Publications": "论文发表",
+    "CV": "个人简历",
+    "Teaching & Presentations": "教学与报告",
+    "Group Members": "课题组成员",
+    "Follow": "关注",
+    "Email": "邮箱",
+    "Liang Cao (曹亮)": "曹亮 (Liang Cao)",
+    // Research page
+    "Overview": "研究概述",
+    "Application Domains": "应用领域",
+    "1. Data-Physics Hybrid Modeling for Complex Industrial Processes": "1. 复杂工业过程的数据-物理混合建模",
+    "2. Trustworthy Intelligent Monitoring and Fault Diagnosis": "2. 可信智能监控与故障诊断",
+    "3. Multi-Channel Fault-Tolerant Control": "3. 多通道容错控制",
+    // CV page
+    "Education": "教育背景",
+    "Editorial & Service Roles": "编委与学术服务",
+    "Experience": "工作经历",
+    "Research Projects": "科研项目",
+    "Awards & Honors": "奖项与荣誉",
+    // Publications page
+    "CCF-A Conference Papers": "CCF-A 类会议论文",
+    "Journal Articles": "期刊论文",
+    "Other Conference Papers": "其他会议论文",
+    "Book Chapter": "专著章节",
+    "Patent": "专利",
+    // Talks page
+    "Teaching": "教学",
+    "Presentations": "学术报告",
+    // Group page
+    "Co-supervised Students": "联合指导学生",
+    "Collaborating Faculty": "合作教师",
+    "Openings": "招生招聘"
+  };
+  function applyDict(lang){
+    // Nav links
+    document.querySelectorAll('.masthead__menu a').forEach(function(a){
+      var en = a.getAttribute('data-en');
+      if (!en) { en = a.textContent.trim(); a.setAttribute('data-en', en); }
+      if (lang === 'zh' && DICT[en]) a.textContent = DICT[en];
+      else a.textContent = en;
+    });
+    // Author profile name (h3 in sidebar)
+    document.querySelectorAll('.author__name, .sidebar h3').forEach(function(el){
+      var en = el.getAttribute('data-en');
+      if (!en) { en = el.textContent.trim(); el.setAttribute('data-en', en); }
+      if (lang === 'zh' && DICT[en]) el.textContent = DICT[en];
+      else el.textContent = en;
+    });
+    // Section headings across pages
+    document.querySelectorAll('.section-heading, .research-section-title, .cv-section-title, .group-section-title, .pub-section-title, .tt-section-title, .news-section h2').forEach(function(el){
+      // If the heading contains a data-i18n span, skip (handled below)
+      if (el.querySelector('[data-i18n-en]')) return;
+      var en = el.getAttribute('data-en');
+      if (!en) { en = el.textContent.trim(); el.setAttribute('data-en', en); }
+      if (lang === 'zh' && DICT[en]) el.textContent = DICT[en];
+      else el.textContent = en;
+    });
+    // Any h2/h3 whose original English text matches the dictionary
+    document.querySelectorAll('h2, h3').forEach(function(el){
+      if (el.querySelector('[data-i18n-en]')) return;
+      var en = el.getAttribute('data-en');
+      if (!en) { en = el.textContent.trim(); el.setAttribute('data-en', en); }
+      if (DICT[en]) {
+        el.textContent = lang === 'zh' ? DICT[en] : en;
+      }
+    });
+    // Any element with explicit data-i18n-en/data-i18n-zh
+    document.querySelectorAll('[data-i18n-en][data-i18n-zh]').forEach(function(el){
+      el.textContent = lang === 'zh' ? el.getAttribute('data-i18n-zh') : el.getAttribute('data-i18n-en');
+    });
+  }
+  function setLang(lang){
+    document.documentElement.setAttribute('lang', lang);
+    try { localStorage.setItem(I18N_KEY, lang); } catch(e){}
+    var btn = document.getElementById('lang-toggle-btn');
+    if (btn) btn.textContent = lang === 'en' ? '中文' : 'EN';
+    applyDict(lang);
+  }
+  window.__toggleLang = function(){
+    var cur = document.documentElement.getAttribute('lang') || 'en';
+    setLang(cur === 'en' ? 'zh' : 'en');
+  };
+  // Initialize on DOM ready
+  function init(){
+    var saved = 'en';
+    try { saved = localStorage.getItem(I18N_KEY) || 'en'; } catch(e){}
+    setLang(saved);
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
