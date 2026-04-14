@@ -63,21 +63,6 @@ Supervisor: Prof. Alireza Bagherzadeh<br>
 <h2 class="tt-section-title">Presentations</h2>
 
 <div class="tt-entry">
-<strong>Session Chair: Industrial Process Intelligence Operation Control and Data Analysis</strong> <span class="tt-date">(2026.05)</span>
-<div class="tt-detail"><span class="tt-venue">Joint International Conference on Automation Intelligence Safety (ICAIS) & ISAS 2026</span>, Chongqing, China</div>
-</div>
-
-<div class="tt-entry">
-<strong>Technical Program Committee Member</strong> <span class="tt-date">(2025.07)</span>
-<div class="tt-detail"><span class="tt-venue">23rd IEEE International Conference on Industrial Informatics (INDIN 2025)</span>, Kunming, China</div>
-</div>
-
-<div class="tt-entry">
-<strong>Session Chair: Advanced Monitoring and Control for Industrial Systems</strong> <span class="tt-date">(2025.09)</span>
-<div class="tt-detail"><span class="tt-venue">4th IEEE International Conference on Industrial Electronics for Sustainable Energy Systems (IESES 2025)</span>, Beijing, China</div>
-</div>
-
-<div class="tt-entry">
 <strong>Interpretable Industrial Soft Sensor Design Based on Informer and SHAP</strong> <span class="tt-date">(2024.07)</span>
 <div class="tt-detail"><span class="tt-venue">The 12th IFAC Symposium on Advanced Control of Chemical Processes (ADCHEM 2024)</span>, Toronto, Canada</div>
 </div>
@@ -90,11 +75,6 @@ Supervisor: Prof. Alireza Bagherzadeh<br>
 <div class="tt-entry">
 <strong>Interpretable Soft Sensors using Extremely Randomized Trees and SHAP</strong> <span class="tt-date">(2023.07)</span>
 <div class="tt-detail"><span class="tt-venue">IFAC World Congress 2023</span>, Yokohama, Japan</div>
-</div>
-
-<div class="tt-entry">
-<strong>Session Chair: AI & Machine Learning in Process Systems Engineering</strong> <span class="tt-date">(2022.10)</span>
-<div class="tt-detail"><span class="tt-venue">Canadian Chemical Engineering Conference (CSChE 2022)</span>, Vancouver, Canada</div>
 </div>
 
 <div class="tt-entry">

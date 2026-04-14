@@ -164,7 +164,7 @@ Co-supervised with Prof. Yan Qin</div>
 </div>
 
 <div class="member-card">
-<div class="member-name"><a href="https://www.researchgate.net/profile/Youqing-Wang-2">Youqing Wang</a></div>
+<div class="member-name"><a href="https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm">Youqing Wang</a></div>
 <div class="member-role">Professor, BUCT</div>
 <div class="member-info">Beijing University of Chemical Technology</div>
 </div>
@@ -179,6 +179,6 @@ Co-supervised with Prof. Yan Qin</div>
 <div class="opening-box">
 <h3>Openings</h3>
 <p>
-I am looking for self-motivated <strong>graduate students</strong> (M.S./Ph.D.) and <strong>undergraduate research assistants</strong> interested in machine learning, causal discovery, process monitoring, and industrial AI. If you are interested in joining our research group, please send your CV and a brief research statement to <a href="mailto:liang.cao@ubc.ca">liang.cao@ubc.ca</a>.
+I am looking for self-motivated <strong>graduate students</strong> (M.S./Ph.D.) and <strong>undergraduate research assistants</strong> interested in machine learning, causal discovery, process monitoring, and industrial AI. If you are interested in joining our research group, please send your CV and a brief research statement to <a href="mailto:liang.cao@ubc.ca">liang.cao@ubc.ca</a> / <a href="mailto:liangcao@ieee.org">liangcao@ieee.org</a>.
 </p>
 </div>
