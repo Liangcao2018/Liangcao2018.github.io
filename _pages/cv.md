@@ -332,14 +332,3 @@ redirect_from:
 <div class="award-item"><span class="award-year">2015</span> <span class="lang-en">Outstanding Undergraduate Student, BUCT</span><span class="lang-zh">北京化工大学优秀本科毕业生</span></div>
 </div>
 
-<div class="cv-section">
-<h2 class="cv-section-title">Book Chapter</h2>
-
-<div class="cv-entry">
-<strong>Modelling of Chemical Process Systems</strong>
-<div class="cv-detail">
-<span class="lang-en">Bhushan Gopaluni, <strong>Liang Cao</strong>, Yankai Cao. Chapter 11: Large-scale Process Models Using Deep Learning. Elsevier, 2023. ISBN: 9780128238691</span>
-<span class="lang-zh">Bhushan Gopaluni、<strong>Liang Cao</strong>、Yankai Cao 合著。第 11 章：基于深度学习的大规模过程模型。Elsevier 出版社，2023 年。ISBN: 9780128238691</span>
-</div>
-</div>
-</div>
