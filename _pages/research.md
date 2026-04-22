@@ -7,6 +7,9 @@ author_profile: true
 
 <style>
 .research-area {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
   background: #fff;
   border: 1px solid #e2e8f0;
   border-radius: 8px;
@@ -16,6 +19,24 @@ author_profile: true
 }
 .research-area:hover {
   box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+.research-thumb {
+  flex-shrink: 0;
+  width: 160px;
+  height: 125px;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #f0f4f8;
+  border: 1px solid #e2e8f0;
+}
+.research-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.research-content {
+  flex: 1;
+  min-width: 0;
 }
 .research-area h3 {
   color: #2c5282;
@@ -52,6 +73,8 @@ author_profile: true
 <p class="lang-zh">我的研究聚焦于<b>复杂工业过程的智能监控与控制</b>，致力于提升工业系统的安全性、可靠性与智能化水平。研究工作围绕以下三个相互关联的方向展开：</p>
 
 <div class="research-area">
+<div class="research-thumb"><img src="/images/research/research_1.png" alt=""></div>
+<div class="research-content">
 <h3 data-i18n-en="1. Data-Physics Hybrid Modeling for Complex Industrial Processes" data-i18n-zh="1. 复杂工业过程的数据-物理混合建模">1. Data-Physics Hybrid Modeling for Complex Industrial Processes</h3>
 <p class="lang-en">I develop methods that fuse data-driven machine learning with first-principles knowledge to build high-accuracy, physically consistent models. Key contributions include incorporating mechanistic constraints into neural network architectures, multi-source data fusion with iterative optimization, knowledge transfer using causal reasoning, and constructing reliable transfer learning models grounded in domain knowledge. These methods have been applied to <strong>refinery digital twins</strong>, <strong>biofeedstock co-processing</strong>, and <strong>renewable CO2 tracking</strong>.</p>
 <p class="lang-zh">我致力于将数据驱动的机器学习与第一性原理知识相融合，构建高精度、物理一致的模型。主要贡献包括：将机理约束嵌入神经网络结构、基于迭代优化的多源数据融合、利用因果推理的知识迁移，以及基于领域知识的可靠迁移学习模型。这些方法已成功应用于<strong>炼化数字孪生</strong>、<strong>生物质原料共处理</strong>以及<strong>可再生 CO₂ 追踪</strong>等场景。</p>
@@ -63,8 +86,11 @@ author_profile: true
 <span class="research-kw" data-i18n-en="Digital Twins" data-i18n-zh="数字孪生">Digital Twins</span>
 </div>
 </div>
+</div>
 
 <div class="research-area">
+<div class="research-thumb"><img src="/images/research/research_2.png" alt=""></div>
+<div class="research-content">
 <h3 data-i18n-en="2. Trustworthy Intelligent Monitoring and Fault Diagnosis" data-i18n-zh="2. 可信智能监控与故障诊断">2. Trustworthy Intelligent Monitoring and Fault Diagnosis</h3>
 <p class="lang-en">I address the "black-box" bottleneck in industrial AI by developing interpretable and reliable monitoring systems. My work includes causal discovery algorithms (including a novel polynomial chaos framework published at <strong>ICLR, CVPR, AAAI 2026</strong>), virtual sample generation with causal learning, alarm sequence alignment and threshold optimization, and attack detection for cyber-physical systems using causal representations.</p>
 <p class="lang-zh">针对工业人工智能中的"黑箱"瓶颈，我致力于构建可解释、可信赖的监控系统。研究工作包括：因果发现算法（含发表于 <strong>ICLR、CVPR、AAAI 2026</strong> 的新型多项式混沌框架）、基于因果学习的虚拟样本生成、报警序列对齐与阈值优化，以及基于因果表征的信息物理系统攻击检测。</p>
@@ -76,8 +102,11 @@ author_profile: true
 <span class="research-kw" data-i18n-en="Interpretable AI" data-i18n-zh="可解释 AI">Interpretable AI</span>
 </div>
 </div>
+</div>
 
 <div class="research-area">
+<div class="research-thumb"><img src="/images/research/research_3.png" alt=""></div>
+<div class="research-content">
 <h3 data-i18n-en="3. Multi-Channel Fault-Tolerant Control" data-i18n-zh="3. 多通道容错控制">3. Multi-Channel Fault-Tolerant Control</h3>
 <p class="lang-en">I design control strategies that maintain system stability and performance under multi-type, multi-channel faults common in industrial settings. This includes mathematical modeling of multi-channel faults in 2D systems, observer design for fault estimation, and nonlinear time-varying fault-tolerant control with provable stability guarantees.</p>
 <p class="lang-zh">我设计在工业场景中常见的多类型、多通道故障下仍能保持系统稳定与性能的控制策略。研究内容包括：二维系统中多通道故障的数学建模、用于故障估计的观测器设计，以及具备稳定性证明的非线性时变容错控制。</p>
@@ -86,6 +115,7 @@ author_profile: true
 <span class="research-kw" data-i18n-en="2D Systems" data-i18n-zh="二维系统">2D Systems</span>
 <span class="research-kw" data-i18n-en="Observer Design" data-i18n-zh="观测器设计">Observer Design</span>
 <span class="research-kw" data-i18n-en="Robust Control" data-i18n-zh="鲁棒控制">Robust Control</span>
+</div>
 </div>
 </div>
 
