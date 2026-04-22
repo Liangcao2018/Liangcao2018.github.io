@@ -477,7 +477,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_48.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Modelling of Chemical Process Systems — Chapter 11: Large-scale Process Models Using Deep Learning</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/book/edited-volume/9780128238691/modelling-of-chemical-process-systems">Modelling of Chemical Process Systems — Chapter 11: Large-scale Process Models Using Deep Learning</a></span><br>
 <span class="pub-authors">Bhushan Gopaluni, <span class="author-me">Liang Cao</span>, Yankai Cao</span><br>
 <span class="pub-venue">Elsevier, 2023. ISBN: 9780128238691</span>
 </div>
