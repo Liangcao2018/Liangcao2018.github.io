@@ -129,17 +129,17 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_05.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1109/TII.2026.3672049">Condition-Dependent Causal Discovery: A Polynomial Chaos Framework for Systems with Parametric Uncertainty</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1109/TASE.2026.3672332">Condition-Dependent Causal Discovery: A Polynomial Chaos Framework for Systems with Parametric Uncertainty</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Yang Liu, Yan Qin</span><br>
-<span class="pub-venue">IEEE Transactions on Industrial Informatics</span>, 2026 (IF=9.9)
+<span class="pub-venue">IEEE Transactions on Automation Science and Engineering</span>, 2026 (IF=6.4)
 </div>
 </div>
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_06.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1109/TASE.2026.3672332">Causal Discovery in Dynamic Industrial Systems Under Parametric Uncertainty: A Polynomial Chaos Approach</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1109/TII.2026.3672049">Causal Discovery in Dynamic Industrial Systems Under Parametric Uncertainty: A Polynomial Chaos Approach</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Yan Qin</span><br>
-<span class="pub-venue">IEEE Transactions on Automation Science and Engineering</span>, 2026 (IF=6.4)
+<span class="pub-venue">IEEE Transactions on Industrial Informatics</span>, 2026 (IF=9.9)
 </div>
 </div>
 
