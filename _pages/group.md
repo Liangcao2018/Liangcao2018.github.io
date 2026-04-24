@@ -146,6 +146,15 @@ author_profile: true
 <span class="lang-zh">重庆大学<br>合作指导：秦岩 (Yan Qin) 教授</span>
 </div>
 </div>
+
+<div class="member-card">
+<div class="member-name">Yuanli Heng (衡园莉)</div>
+<div class="member-role"><span class="lang-en">Ph.D. Student</span><span class="lang-zh">博士研究生</span></div>
+<div class="member-info">
+<span class="lang-en">Chongqing University<br>Co-supervised with Prof. Yan Qin</span>
+<span class="lang-zh">重庆大学<br>合作指导：秦岩 (Yan Qin) 教授</span>
+</div>
+</div>
 </div>
 
 <h2 class="group-section-title">Collaborating Faculty</h2>
