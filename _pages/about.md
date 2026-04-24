@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Liang Cao (曹亮)"
-excerpt: "Liang Cao's Homepage"
+excerpt: "Postdoctoral Fellow at MIT. Research in machine learning, causal discovery, and intelligent process monitoring and control."
+description: "Liang Cao (曹亮) is a Postdoctoral Fellow at MIT, working on machine learning, causal discovery, and intelligent industrial process monitoring and control. Previously at UBC."
 author_profile: true
 redirect_from: 
   - /about/

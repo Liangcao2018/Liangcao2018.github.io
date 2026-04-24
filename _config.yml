@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Liang Cao"
 title_separator          : "-"
 name                     : &name "Liang Cao"
-description              : &description "Liang Cao UBC"
+description              : &description "Liang Cao (曹亮) is a Postdoctoral Fellow at MIT, working on machine learning, causal discovery, and intelligent process monitoring and control."
 url                      : "https://Liangcao2018.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Liangcao2018/Liangcao2018.github.io"
@@ -62,13 +62,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.png"  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Liang Cao"
+  links:
+    - "https://scholar.google.com/citations?user=4BylVnYAAAAJ"
+    - "https://github.com/Liangcao2018"
+    - "https://www.researchgate.net/profile/Liang-Cao-15"
 
 
 # Analytics
