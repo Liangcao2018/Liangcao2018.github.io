@@ -124,7 +124,7 @@ author_profile: true
 <div class="member-name">Jun Wan (万军)</div>
 <div class="member-role"><span class="lang-en">Ph.D. Student</span><span class="lang-zh">博士研究生</span></div>
 <div class="member-info">
-<span class="lang-en">Jiangxi University of Finance and Economics<br>Co-supervised with Prof. Weide Liu</span>
+<span class="lang-en">Jiangxi University of Finance and Economics<br>Co-supervised with <a href="http://cta.jxufe.edu.cn/home/teacherInfo/detail?fid=109051&uid=438983801">Prof. Weide Liu</a></span>
 <span class="lang-zh">江西财经大学<br>合作指导：刘伟德 (Weide Liu) 教授</span>
 </div>
 </div>
@@ -133,7 +133,7 @@ author_profile: true
 <div class="member-name">Jiajun Cai (蔡嘉俊)</div>
 <div class="member-role"><span class="lang-en">M.S. Student</span><span class="lang-zh">硕士研究生</span></div>
 <div class="member-info">
-<span class="lang-en">Jiangxi University of Finance and Economics<br>Co-supervised with Prof. Weide Liu</span>
+<span class="lang-en">Jiangxi University of Finance and Economics<br>Co-supervised with <a href="http://cta.jxufe.edu.cn/home/teacherInfo/detail?fid=109051&uid=438983801">Prof. Weide Liu</a></span>
 <span class="lang-zh">江西财经大学<br>合作指导：刘伟德 (Weide Liu) 教授</span>
 </div>
 </div>
@@ -142,7 +142,7 @@ author_profile: true
 <div class="member-name">Menghao Li (李孟澔)</div>
 <div class="member-role"><span class="lang-en">Ph.D. Student</span><span class="lang-zh">博士研究生</span></div>
 <div class="member-info">
-<span class="lang-en">Chongqing University<br>Co-supervised with Prof. Yan Qin</span>
+<span class="lang-en">Chongqing University<br>Co-supervised with <a href="https://faculty.cqu.edu.cn/qinyan/zh_CN/index.htm">Prof. Yan Qin</a></span>
 <span class="lang-zh">重庆大学<br>合作指导：秦岩 (Yan Qin) 教授</span>
 </div>
 </div>
@@ -151,7 +151,7 @@ author_profile: true
 <div class="member-name">Yuanli Heng (衡园莉)</div>
 <div class="member-role"><span class="lang-en">Ph.D. Student</span><span class="lang-zh">博士研究生</span></div>
 <div class="member-info">
-<span class="lang-en">Chongqing University<br>Co-supervised with Prof. Yan Qin</span>
+<span class="lang-en">Chongqing University<br>Co-supervised with <a href="https://faculty.cqu.edu.cn/qinyan/zh_CN/index.htm">Prof. Yan Qin</a></span>
 <span class="lang-zh">重庆大学<br>合作指导：秦岩 (Yan Qin) 教授</span>
 </div>
 </div>
@@ -211,6 +211,24 @@ author_profile: true
 <div class="member-info">
 <span class="lang-en">Department of Automation</span>
 <span class="lang-zh">自动化系</span>
+</div>
+</div>
+
+<div class="member-card">
+<div class="member-name"><a href="https://faculty.cqu.edu.cn/qinyan/zh_CN/index.htm">Yan Qin (秦岩)</a></div>
+<div class="member-role"><span class="lang-en">Professor, Chongqing University</span><span class="lang-zh">教授，重庆大学</span></div>
+<div class="member-info">
+<span class="lang-en">College of Automation</span>
+<span class="lang-zh">自动化学院</span>
+</div>
+</div>
+
+<div class="member-card">
+<div class="member-name"><a href="http://cta.jxufe.edu.cn/home/teacherInfo/detail?fid=109051&uid=438983801">Weide Liu (刘伟德)</a></div>
+<div class="member-role"><span class="lang-en">Professor, Jiangxi University of Finance and Economics</span><span class="lang-zh">教授，江西财经大学</span></div>
+<div class="member-info">
+<span class="lang-en">School of Information Technology</span>
+<span class="lang-zh">信息技术学院</span>
 </div>
 </div>
 </div>
