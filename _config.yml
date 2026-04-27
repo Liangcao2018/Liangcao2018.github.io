@@ -11,7 +11,7 @@ title                    : "Liang Cao"
 title_separator          : "-"
 name                     : &name "Liang Cao"
 description              : &description "Liang Cao (曹亮) is a Postdoctoral Fellow at MIT, working on machine learning, causal discovery, and intelligent process monitoring and control."
-url                      : "https://Liangcao2018.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://liangcao.site" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Liangcao2018/Liangcao2018.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
