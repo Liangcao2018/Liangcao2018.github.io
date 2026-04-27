@@ -395,7 +395,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <div class="pub-thumb"><img src="/images/pub/pub_35.png" alt=""></div><div class="pub-text">
 <span class="pub-title"><a href="https://doi.org/10.1007/s11045-018-0574-4">Existence and design of observers for two-dimensional linear systems with multiple channel faults</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Dong Zhao, Youqing Wang, Steven X Ding</span><br>
-<span class="pub-venue">Multidimensional Systems and Signal Processing</span>, 30(2), 641-660, 2019
+<span class="pub-venue">Multidimensional Systems and Signal Processing</span> (IF=1.8), 30(2), 641-660, 2019
 </div>
 </div>
 
@@ -403,7 +403,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <div class="pub-thumb"><img src="/images/pub/pub_36.png" alt=""></div><div class="pub-text">
 <span class="pub-title"><a href="https://doi.org/10.1007/s12555-017-0217-0">Fault-tolerant control for nonlinear systems with multiple intermittent faults and time-varying delays</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Youqing Wang</span><br>
-<span class="pub-venue">International Journal of Control, Automation, and Systems</span>, 16(2), 609-621, 2018
+<span class="pub-venue">International Journal of Control, Automation, and Systems</span> (IF=2.9), 16(2), 609-621, 2018
 </div>
 </div>
 
@@ -411,7 +411,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <div class="pub-thumb"><img src="/images/pub/pub_37.png" alt=""></div><div class="pub-text">
 <span class="pub-title"><a href="https://doi.org/10.1080/00207721.2017.1363313">Simultaneous estimation of multiple channel faults for two-dimensional linear systems</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Dong Zhao, Youqing Wang</span><br>
-<span class="pub-venue">International Journal of Systems Science</span>, 48(13), 2838-2849, 2017
+<span class="pub-venue">International Journal of Systems Science</span> (IF=4.6), 48(13), 2838-2849, 2017
 </div>
 </div>
 
@@ -419,7 +419,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <div class="pub-thumb"><img src="/images/pub/pub_38.png" alt=""></div><div class="pub-text">
 <span class="pub-title"><a href="https://doi.org/10.1080/00207721.2016.1179819">Reliable H∞ control for nonlinear discrete-time systems with multiple intermittent faults in sensors or actuators</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Yuan Tao, Youqing Wang, Juan Li, Biao Huang</span><br>
-<span class="pub-venue">International Journal of Systems Science</span>, 4, 302-315, 2016
+<span class="pub-venue">International Journal of Systems Science</span> (IF=4.6), 4, 302-315, 2016
 </div>
 </div>
 
