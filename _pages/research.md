@@ -107,14 +107,15 @@ author_profile: true
 <div class="research-area">
 <div class="research-thumb"><img src="/images/research/research_3.png" alt=""></div>
 <div class="research-content">
-<h3 data-i18n-en="3. Multi-Channel Fault-Tolerant Control" data-i18n-zh="3. 多通道容错控制">3. Multi-Channel Fault-Tolerant Control</h3>
-<p class="lang-en">I design control strategies that maintain system stability and performance under multi-type, multi-channel faults common in industrial settings. This includes mathematical modeling of multi-channel faults in 2D systems, observer design for fault estimation, and nonlinear time-varying fault-tolerant control with provable stability guarantees.</p>
-<p class="lang-zh">我设计在工业场景中常见的多类型、多通道故障下仍能保持系统稳定与性能的控制策略。研究内容包括：二维系统中多通道故障的数学建模、用于故障估计的观测器设计，以及具备稳定性证明的非线性时变容错控制。</p>
+<h3 data-i18n-en="3. Learning-Based Industrial Control" data-i18n-zh="3. 基于学习的工业控制">3. Learning-Based Industrial Control</h3>
+<p class="lang-en">I develop intelligent control strategies that integrate machine learning with classical control theory for complex industrial systems. My work spans model predictive control (MPC) enhanced by data-driven models, reinforcement learning (RL) for adaptive optimal control, as well as fault-tolerant and robust control under uncertain and changing operating conditions. These methods aim to achieve safe, efficient, and autonomous operation in real-world industrial environments.</p>
+<p class="lang-zh">我致力于将机器学习与经典控制理论相结合，开发面向复杂工业系统的智能控制策略。研究涵盖基于数据驱动模型增强的模型预测控制（MPC）、面向自适应最优控制的强化学习（RL），以及不确定和时变工况下的容错控制与鲁棒控制。这些方法旨在实现真实工业环境中的安全、高效和自主运行。</p>
 <div class="research-keywords">
+<span class="research-kw" data-i18n-en="Model Predictive Control" data-i18n-zh="模型预测控制">Model Predictive Control</span>
+<span class="research-kw" data-i18n-en="Reinforcement Learning" data-i18n-zh="强化学习">Reinforcement Learning</span>
 <span class="research-kw" data-i18n-en="Fault-Tolerant Control" data-i18n-zh="容错控制">Fault-Tolerant Control</span>
-<span class="research-kw" data-i18n-en="2D Systems" data-i18n-zh="二维系统">2D Systems</span>
-<span class="research-kw" data-i18n-en="Observer Design" data-i18n-zh="观测器设计">Observer Design</span>
 <span class="research-kw" data-i18n-en="Robust Control" data-i18n-zh="鲁棒控制">Robust Control</span>
+<span class="research-kw" data-i18n-en="Optimal Control" data-i18n-zh="最优控制">Optimal Control</span>
 </div>
 </div>
 </div>
