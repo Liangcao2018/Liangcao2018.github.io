@@ -128,6 +128,30 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <h3 class="pub-section-title">Journal Articles</h3>
 
 <div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_52.png" alt=""></div><div class="pub-text">
+<span class="pub-title">A Novel Causal Robust Soft Sensor for Industrial Processes with Data Distribution Drift</span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao</span>, Yan Qin, Dong Zhao, Bhushan Gopaluni, Youqing Wang</span><br>
+<span class="pub-venue">IEEE Transactions on Industrial Electronics</span>, 2026 (IF=7.5)
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_50.png" alt=""></div><div class="pub-text">
+<span class="pub-title">Cross-modal Attention Fusion of RGB and Skeleton for Multimodal-Driven Video Anomaly Detection</span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-authors">Boan Chen, <span class="author-me">Liang Cao</span>, Weide Liu, Jinmei Liu, Baoquan Zhao, Yang Liu</span><br>
+<span class="pub-venue">Pattern Recognition</span>, 2026 (IF=7.5)
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_51.png" alt=""></div><div class="pub-text">
+<span class="pub-title">Source-free Foundation Model-enabled Transferable State of Health Estimation for Lithium-ion Batteries with Intelligent Adapter Mapping</span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-authors">Yan Qin, Qingyue Huang, <span class="author-me">Liang Cao</span>, Wei Dai, Chau Yuen</span><br>
+<span class="pub-venue">Pattern Recognition</span>, 2026 (IF=7.5)
+</div>
+</div>
+
+<div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_05.png" alt=""></div><div class="pub-text">
 <span class="pub-title"><a href="https://doi.org/10.1109/TASE.2026.3672332">Condition-Dependent Causal Discovery: A Polynomial Chaos Framework for Systems with Parametric Uncertainty</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Yang Liu, Yan Qin</span><br>

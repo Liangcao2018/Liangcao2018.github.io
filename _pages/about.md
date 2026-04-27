@@ -107,15 +107,20 @@ redirect_from:
 
 <div class="news-section">
 <h2><span data-i18n-en="News" data-i18n-zh="最新动态">News</span></h2>
-<div class="news-item"><span class="news-date">2026.06</span> 📄 Paper accepted at <strong>CVPR 2026</strong> (CCF-A): "A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems"</div>
-<div class="news-item"><span class="news-date">2026.05</span> 📄 Paper accepted at <strong>WWW 2026</strong> (CCF-A): "Sparse Causal Latent Features for Robust Multimodal Learning under Distribution Shifts"</div>
-<div class="news-item"><span class="news-date">2026.04</span> 📄 Paper accepted at <strong>ICLR 2026</strong> (CCF-A): "Learning Dynamic Causal Graphs Under Parametric Uncertainty via Polynomial Chaos Expansions"</div>
-<div class="news-item"><span class="news-date">2026.01</span> 📄 Paper accepted at <strong>AAAI 2026</strong> (CCF-A): "A Natural-Gradient Approach for Nonlinear Stochastic Systems with Parameter Uncertainty"</div>
+<div class="news-item"><span class="news-date">2026.06</span> 📄 Paper accepted at <strong>Pattern Recognition</strong> (SCI Q1 Top, IF=7.5): "Cross-modal Attention Fusion of RGB and Skeleton for Multimodal-Driven Video Anomaly Detection"</div>
+<div class="news-item"><span class="news-date">2026.06</span> 📄 Paper accepted at <strong>Pattern Recognition</strong> (SCI Q1 Top, IF=7.5): "Source-free Foundation Model-enabled Transferable State of Health Estimation for Lithium-ion Batteries with Intelligent Adapter Mapping"</div>
+<div class="news-item"><span class="news-date">2026.06</span> 📄 Paper accepted at <strong>IEEE Transactions on Industrial Electronics</strong> (SCI Q1 Top, IF=7.5): "A Novel Causal Robust Soft Sensor for Industrial Processes with Data Distribution Drift"</div>
+<div class="news-item"><span class="news-date">2026.04</span> 📄 Paper accepted at <strong>CVPR 2026</strong> (CCF-A): "A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems"</div>
+<div class="news-item"><span class="news-date">2026.03</span> 📄 Paper accepted at <strong>WWW 2026</strong> (CCF-A): "Sparse Causal Latent Features for Robust Multimodal Learning under Distribution Shifts"</div>
+<div class="news-item"><span class="news-date">2026.02</span> 📄 Paper accepted at <strong>ICLR 2026</strong> (CCF-A): "Learning Dynamic Causal Graphs Under Parametric Uncertainty via Polynomial Chaos Expansions"</div>
+<div class="news-item"><span class="news-date">2025.12</span> 📄 Paper accepted at <strong>AAAI 2026</strong> (CCF-A): "A Natural-Gradient Approach for Nonlinear Stochastic Systems with Parameter Uncertainty"</div>
 <div class="news-item"><span class="news-date">2025.11</span> 💼 Started <strong>Postdoc</strong> at UBC / Cornell University with Prof. Gopaluni and Prof. Fengqi You</div>
-<div class="news-item"><span class="news-date">2025</span> 🎉 Appointed <strong>Associate Editor</strong> of IEEE Transactions on Industrial Informatics (SCI Q1 Top, IF=9.9)</div>
-<div class="news-item"><span class="news-date">2025</span> 🎉 Appointed <strong>Youth Editor</strong> of Control Engineering Practice and The Innovation Informatics</div>
-<div class="news-item"><span class="news-date">2025</span> 🏆 Received <strong>Outstanding Reviewer</strong> awards from IEEE TIM and Control Engineering Practice</div>
-<div class="news-item"><span class="news-date">2024</span> 🏆 Won <strong>Second Prize</strong> at the 2024 IEEE/CAA JAS Conference on Automation for Industry 5.0</div>
+<div class="news-item"><span class="news-date">2025.11</span> 🏆 Received <strong>Outstanding Reviewer</strong> award from Control Engineering Practice</div>
+<div class="news-item"><span class="news-date">2025.05</span> 🎉 Appointed <strong>Associate Editor</strong> of IEEE Transactions on Industrial Informatics (SCI Q1 Top, IF=9.9)</div>
+<div class="news-item"><span class="news-date">2025.05</span> 🎉 Appointed <strong>Youth Editor</strong> of Control Engineering Practice and The Innovation Informatics</div>
+<div class="news-item"><span class="news-date">2025.01</span> 🏆 Received <strong>Outstanding Reviewer</strong> award from IEEE Transactions on Instrumentation and Measurement</div>
+<div class="news-item"><span class="news-date">2024.09</span> 🏆 Won <strong>Second Prize</strong> at the 2024 IEEE/CAA JAS Conference on Automation for Industry 5.0</div>
 <div class="news-item"><span class="news-date">2024.03</span> 💼 Started Postdoc at <strong>MIT</strong> with Prof. Richard D. Braatz</div>
 <div class="news-item"><span class="news-date">2024.02</span> 🎓 Successfully defended <strong>Ph.D.</strong> dissertation at UBC</div>
+<div class="news-item"><span class="news-date">2022.08</span> 🏆 Finalists of <strong>SICE Annual Conference Young Author's Award</strong></div>
 </div>
