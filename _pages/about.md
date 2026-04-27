@@ -120,7 +120,8 @@ redirect_from:
 <div class="news-item"><span class="news-date">2025.11</span> 💼 Started <strong>Postdoc</strong> at UBC / Cornell University with Prof. Gopaluni and Prof. Fengqi You</div>
 <div class="news-item"><span class="news-date">2025.11</span> 🏆 Received <strong>Outstanding Reviewer</strong> award from Control Engineering Practice</div>
 <div class="news-item"><span class="news-date">2025.05</span> 🎉 Appointed <strong>Associate Editor</strong> of IEEE Transactions on Industrial Informatics (SCI Q1 Top, IF=9.9)</div>
-<div class="news-item"><span class="news-date">2025.05</span> 🎉 Appointed <strong>Youth Editor</strong> of Control Engineering Practice and The Innovation Informatics</div>
+<div class="news-item"><span class="news-date">2025.07</span> 🎉 Appointed <strong>Youth Editor</strong> of The Innovation Informatics</div>
+<div class="news-item"><span class="news-date">2025.05</span> 🎉 Appointed <strong>Youth Editor</strong> of Control Engineering Practice</div>
 <div class="news-item"><span class="news-date">2025.01</span> 🏆 Received <strong>Outstanding Reviewer</strong> award from IEEE Transactions on Instrumentation and Measurement</div>
 <div class="news-item"><span class="news-date">2024.09</span> 🏆 Won <strong>Second Prize</strong> at the 2024 IEEE/CAA JAS Conference on Automation for Industry 5.0</div>
 <div class="news-item"><span class="news-date">2024.03</span> 💼 Started Postdoc at <strong>MIT</strong> with Prof. Richard D. Braatz</div>
