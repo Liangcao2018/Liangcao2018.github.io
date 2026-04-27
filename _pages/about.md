@@ -107,9 +107,9 @@ redirect_from:
 
 <div class="news-section">
 <h2><span data-i18n-en="News" data-i18n-zh="最新动态">News</span></h2>
-<div class="news-item"><span class="news-date">2026.06</span> 📄 Paper accepted at <strong>Pattern Recognition</strong> (SCI Q1 Top, IF=7.5): "Cross-modal Attention Fusion of RGB and Skeleton for Multimodal-Driven Video Anomaly Detection"</div>
-<div class="news-item"><span class="news-date">2026.06</span> 📄 Paper accepted at <strong>Pattern Recognition</strong> (SCI Q1 Top, IF=7.5): "Source-free Foundation Model-enabled Transferable State of Health Estimation for Lithium-ion Batteries with Intelligent Adapter Mapping"</div>
-<div class="news-item"><span class="news-date">2026.06</span> 📄 Paper accepted at <strong>IEEE Transactions on Industrial Electronics</strong> (SCI Q1 Top, IF=7.5): "A Novel Causal Robust Soft Sensor for Industrial Processes with Data Distribution Drift"</div>
+<div class="news-item"><span class="news-date">2026.04</span> 📄 Paper accepted at <strong>Pattern Recognition</strong>: "Cross-modal Attention Fusion of RGB and Skeleton for Multimodal-Driven Video Anomaly Detection"</div>
+<div class="news-item"><span class="news-date">2026.04</span> 📄 Paper accepted at <strong>Pattern Recognition</strong>: "Source-free Foundation Model-enabled Transferable State of Health Estimation for Lithium-ion Batteries with Intelligent Adapter Mapping"</div>
+<div class="news-item"><span class="news-date">2026.04</span> 📄 Paper accepted at <strong>IEEE Transactions on Industrial Electronics</strong>: "A Novel Causal Robust Soft Sensor for Industrial Processes with Data Distribution Drift"</div>
 <div class="news-item"><span class="news-date">2026.04</span> 📄 Paper accepted at <strong>CVPR 2026</strong> (CCF-A): "A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems"</div>
 <div class="news-item"><span class="news-date">2026.03</span> 📄 Paper accepted at <strong>WWW 2026</strong> (CCF-A): "Sparse Causal Latent Features for Robust Multimodal Learning under Distribution Shifts"</div>
 <div class="news-item"><span class="news-date">2026.02</span> 📄 Paper accepted at <strong>ICLR 2026</strong> (CCF-A): "Learning Dynamic Causal Graphs Under Parametric Uncertainty via Polynomial Chaos Expansions"</div>
