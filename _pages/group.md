@@ -155,6 +155,24 @@ author_profile: true
 <span class="lang-zh">重庆大学<br>合作指导：<a href="https://faculty.cqu.edu.cn/qinyan/zh_CN/index.htm">秦岩 (Yan Qin) 教授</a></span>
 </div>
 </div>
+
+<div class="member-card">
+<div class="member-name">Rongshuo Lv (吕荣硕)</div>
+<div class="member-role"><span class="lang-en">M.S. Student</span><span class="lang-zh">硕士研究生</span></div>
+<div class="member-info">
+<span class="lang-en">Beijing University of Chemical Technology<br>Co-supervised with <a href="https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm">Prof. Youqing Wang</a></span>
+<span class="lang-zh">北京化工大学<br>合作指导：<a href="https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm">王友清 (Youqing Wang) 教授</a></span>
+</div>
+</div>
+
+<div class="member-card">
+<div class="member-name">Hao Sun (孙浩)</div>
+<div class="member-role"><span class="lang-en">M.S. Student</span><span class="lang-zh">硕士研究生</span></div>
+<div class="member-info">
+<span class="lang-en">Beijing University of Chemical Technology<br>Co-supervised with <a href="https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm">Prof. Youqing Wang</a></span>
+<span class="lang-zh">北京化工大学<br>合作指导：<a href="https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm">王友清 (Youqing Wang) 教授</a></span>
+</div>
+</div>
 </div>
 
 <h2 class="group-section-title">Collaborating Faculty</h2>
