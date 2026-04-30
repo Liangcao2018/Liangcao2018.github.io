@@ -266,7 +266,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_17.png" alt=""></div><div class="pub-text">
 <span class="pub-title"><a href="https://doi.org/10.1016/j.isatra.2025.10.035">Physics-informed Dynamic Hybrid Modeling for Real-time Renewable CO2 Tracking in Refinery Co-processing</a></span> <span class="pub-note q1">Q1 Top</span><br>
-<span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Yang Liu, Jin Liu</span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao</span>, Yang Liu, Jing Liu, Jianping Su</span><br>
 <span class="pub-venue">ISA Transactions</span>, 2025 (IF=6.5)
 </div>
 </div>
