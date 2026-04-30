@@ -107,6 +107,8 @@ redirect_from:
 
 <div class="news-section">
 <h2><span data-i18n-en="News" data-i18n-zh="最新动态">News</span></h2>
+<div class="news-item"><span class="news-date">2026.04</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>ICML 2026</strong> (CCF-A) <span class="lang-zh">接收</span>: "A Control-Theoretic View of Mamba on Stability and Robustness"</div>
+<div class="news-item"><span class="news-date">2026.04</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>ICML 2026</strong> (CCF-A) <span class="lang-zh">接收</span>: "Causal Feature Learning via Generalized Rayleigh Quotients"</div>
 <div class="news-item"><span class="news-date">2026.04</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>Pattern Recognition</strong> <span class="lang-zh">接收</span>: "Cross-modal Attention Fusion of RGB and Skeleton for Multimodal-Driven Video Anomaly Detection"</div>
 <div class="news-item"><span class="news-date">2026.04</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>Pattern Recognition</strong> <span class="lang-zh">接收</span>: "Source-free Foundation Model-enabled Transferable State of Health Estimation for Lithium-ion Batteries with Intelligent Adapter Mapping"</div>
 <div class="news-item"><span class="news-date">2026.04</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>IEEE Transactions on Industrial Electronics</strong> <span class="lang-zh">接收</span>: "A Novel Causal Robust Soft Sensor for Industrial Processes with Data Distribution Drift"</div>

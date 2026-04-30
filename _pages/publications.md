@@ -94,6 +94,22 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <h3 class="pub-section-title">CCF-A Conference Papers</h3>
 
 <div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_53.png" alt=""></div><div class="pub-text">
+<span class="pub-title"><a href="https://openreview.net/">A Control-Theoretic View of Mamba on Stability and Robustness</a></span> <span class="pub-note ccfa">ICML 2026</span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Zhuo Chen, Yan Qin</span><br>
+<span class="pub-venue">International Conference on Machine Learning (ICML 2026)</span>, Vancouver, Canada
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_54.png" alt=""></div><div class="pub-text">
+<span class="pub-title"><a href="https://openreview.net/">Causal Feature Learning via Generalized Rayleigh Quotients</a></span> <span class="pub-note ccfa">ICML 2026</span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao</span>, Jun Wan, Yan Qin, Weide Liu</span><br>
+<span class="pub-venue">International Conference on Machine Learning (ICML 2026)</span>, Vancouver, Canada
+</div>
+</div>
+
+<div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_01.png" alt=""></div><div class="pub-text">
 <span class="pub-title"><a href="https://openreview.net/">A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems</a></span> <span class="pub-note ccfa">CVPR 2026</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao*</span></span><br>
