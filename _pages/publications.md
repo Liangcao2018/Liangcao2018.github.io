@@ -94,7 +94,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <h3 class="pub-section-title">CCF-A Conference Papers</h3>
 
 <div class="pub-item">
-<div class="pub-thumb"><img src="/images/pub/pub_53.png" alt=""></div><div class="pub-text">
+<div class="pub-thumb"><img src="/images/pub/pub_53.png?v=2" alt=""></div><div class="pub-text">
 <span class="pub-title"><a href="https://openreview.net/">A Control-Theoretic View of Mamba on Stability and Robustness</a></span> <span class="pub-note ccfa">ICML 2026</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Zhuo Chen, Yan Qin</span><br>
 <span class="pub-venue">International Conference on Machine Learning (ICML 2026)</span>, Seoul, South Korea
@@ -144,7 +144,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <h3 class="pub-section-title">Journal Articles</h3>
 
 <div class="pub-item">
-<div class="pub-thumb"><img src="/images/pub/pub_52.png" alt=""></div><div class="pub-text">
+<div class="pub-thumb"><img src="/images/pub/pub_52.png?v=2" alt=""></div><div class="pub-text">
 <span class="pub-title">A Novel Causal Robust Soft Sensor for Industrial Processes with Data Distribution Drift</span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Yan Qin, Dong Zhao, Bhushan Gopaluni, Youqing Wang</span><br>
 <span class="pub-venue">IEEE Transactions on Industrial Electronics</span>, 2026 (IF=7.2)
@@ -184,7 +184,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 </div>
 
 <div class="pub-item">
-<div class="pub-thumb"><img src="/images/pub/pub_07.png" alt=""></div><div class="pub-text">
+<div class="pub-thumb"><img src="/images/pub/pub_07.png?v=2" alt=""></div><div class="pub-text">
 <span class="pub-title"><a href="https://doi.org/10.1109/TSMC.2026.3661182">Attack Detection for Cyber-Physical Systems Based on Causal Representation</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Youqing Wang, Yan Qin, Yankai Cao, Bhushan Gopaluni, Richard Braatz</span><br>
 <span class="pub-venue">IEEE Transactions on Systems, Man, and Cybernetics: Systems</span>, 2026 (IF=8.7)
