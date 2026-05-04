@@ -314,6 +314,7 @@ redirect_from:
 <div class="cv-section">
 <h2 class="cv-section-title">Awards & Honors</h2>
 
+<div class="award-item"><span class="award-year">2026</span> <span class="lang-en">Best Paper Award Finalist — ICAIS&amp;ISAS 2026</span><span class="lang-zh">最佳论文奖入围 — ICAIS&amp;ISAS 2026</span></div>
 <div class="award-item"><span class="award-year">2025</span> <span class="lang-en">Outstanding Reviewer — IEEE TIM & Control Engineering Practice</span><span class="lang-zh">优秀审稿人 — IEEE TIM 与 Control Engineering Practice</span></div>
 <div class="award-item"><span class="award-year">2024</span> <span class="lang-en">Second Prize — IEEE/CAA JAS Conference on Automation for Industry 5.0</span><span class="lang-zh">二等奖 — IEEE/CAA JAS 工业 5.0 自动化会议</span></div>
 <div class="award-item"><span class="award-year">2024</span> <span class="lang-en">Outstanding Reviewer — IEEE TIM</span><span class="lang-zh">优秀审稿人 — IEEE TIM</span></div>
