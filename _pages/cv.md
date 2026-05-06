@@ -121,8 +121,8 @@ redirect_from:
 <span class="lang-zh"><strong>硕士，北京化工大学</strong></span>
 <span class="cv-date">(2015.09 – 2018.06)</span>
 <div class="cv-detail">
-<span class="lang-en">Control Engineering · Advisor: Prof. Youqing Wang</span>
-<span class="lang-zh">控制工程 · 导师：王友清 (Youqing Wang) 教授</span>
+<span class="lang-en">Control Engineering · Advisor: Prof. Youqing Wang (NSFC Distinguished Young Scholar, IET/CAA Fellow)</span>
+<span class="lang-zh">控制工程 · 导师：王友清 (Youqing Wang) 教授（国家杰青，IET/CAA Fellow）</span>
 </div>
 </div>
 
@@ -141,8 +141,8 @@ redirect_from:
 <span class="lang-zh"><strong>学士，北京化工大学</strong></span>
 <span class="cv-date">(2011.09 – 2015.06)</span>
 <div class="cv-detail">
-<span class="lang-en">Automation · Advisor: Prof. Youqing Wang</span>
-<span class="lang-zh">自动化 · 导师：王友清 (Youqing Wang) 教授</span>
+<span class="lang-en">Automation · Advisor: Prof. Youqing Wang (NSFC Distinguished Young Scholar, IET/CAA Fellow)</span>
+<span class="lang-zh">自动化 · 导师：王友清 (Youqing Wang) 教授（国家杰青，IET/CAA Fellow）</span>
 </div>
 </div>
 </div>
