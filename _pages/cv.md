@@ -111,8 +111,8 @@ redirect_from:
 <span class="lang-zh"><strong>博士，英属哥伦比亚大学</strong></span>
 <span class="cv-date">(2019.09 – 2024.02)</span>
 <div class="cv-detail">
-<span class="lang-en">Chemical and Biological Engineering<br>Advisors: Prof. Bhushan Gopaluni, Prof. Yankai Cao<br>Thesis: <em>Interpretable and Robust Soft Sensor Modeling for Industrial Applications</em></span>
-<span class="lang-zh">化学与生物工程<br>导师：Bhushan Gopaluni 教授、曹彦凯 (Yankai Cao) 教授<br>博士论文：<em>Interpretable and Robust Soft Sensor Modeling for Industrial Applications</em></span>
+<span class="lang-en">Chemical and Biological Engineering<br>Advisors: Prof. Bhushan Gopaluni (Fellow, Canadian Academy of Engineering; Associate Vice President, UBC), Prof. Yankai Cao<br>Thesis: <em>Interpretable and Robust Soft Sensor Modeling for Industrial Applications</em></span>
+<span class="lang-zh">化学与生物工程<br>导师：Bhushan Gopaluni 教授（加拿大工程院院士，UBC 副教务长）、曹彦凯 (Yankai Cao) 教授<br>博士论文：<em>Interpretable and Robust Soft Sensor Modeling for Industrial Applications</em></span>
 </div>
 </div>
 
