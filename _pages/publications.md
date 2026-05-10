@@ -144,6 +144,14 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <h3 class="pub-section-title">Journal Articles</h3>
 
 <div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_55.png" alt=""></div><div class="pub-text">
+<span class="pub-title">Stable Learning for Trustworthy Modeling in Industrial Processes with Small Samples</span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao*</span>, Youqing Wang, Yankai Cao, Fan Yang, Jicong Fan, Yan Qin, Bhushan Gopaluni, Richard D. Braatz</span><br>
+<span class="pub-venue">IEEE Transactions on Control Systems Technology</span>, 2026 (IF=4.8)
+</div>
+</div>
+
+<div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_52.png?v=2" alt=""></div><div class="pub-text">
 <span class="pub-title">A Novel Causal Robust Soft Sensor for Industrial Processes with Data Distribution Drift</span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Yan Qin, Dong Zhao, Bhushan Gopaluni, Youqing Wang</span><br>
@@ -440,6 +448,14 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 </div>
 
 <h3 class="pub-section-title">Other Conference Papers</h3>
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_56.png" alt=""></div><div class="pub-text">
+<span class="pub-title">Nonlinear Causal Sparse-Smooth Learning for Interpretable Industrial Process Modeling</span> <span class="pub-note ccfa" style="background:#d69e2e;">Best Paper Award</span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Yunhong Che, Yanchen Wu, Fan Yang, Bhushan Gopaluni</span><br>
+<span class="pub-venue">Joint International Conference on Automation Intelligence Safety (ICAIS) &amp; ISAS 2026</span>
+</div>
+</div>
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_39.png" alt=""></div><div class="pub-text">
