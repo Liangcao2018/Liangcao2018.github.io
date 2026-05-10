@@ -209,7 +209,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_09.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1109/JAS.2025.125420">Interpretable and Reliable Soft Sensor Development in Industry 5.0</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1109/JAS.2025.125420">Interpretable and Reliable Soft Sensor Development in Industry 5.0</a></span> <span class="pub-note q1">Q1 Top</span> <span class="pub-note ccfa" style="background:#d69e2e;">Second Prize, IEEE/CAA JAS Conference</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Fan Yang, Yankai Cao, R Bhushan Gopaluni</span><br>
 <span class="pub-venue">IEEE/CAA Journal of Automatica Sinica</span>, 2026 (IF=19.2)
 </div>
@@ -321,7 +321,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_23.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Data-driven battery capacity estimation using support vector regression and model bagging under fast-charging conditions</span><br>
+<span class="pub-title">Data-driven battery capacity estimation using support vector regression and model bagging under fast-charging conditions</span> <span class="pub-note ccfa" style="background:#d69e2e;">Issue Highlights</span><br>
 <span class="pub-authors">Yixiu Wang, Qiyue Luo, <span class="author-me">Liang Cao</span>, et al.</span><br>
 <span class="pub-venue">The Canadian Journal of Chemical Engineering</span>, 102(10), 3322-3332, 2024 (Issue Highlights)
 </div>
@@ -483,9 +483,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_42.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Soft Sensor Change Point Detection and Root Cause Analysis</span><br>
+<span class="pub-title">Soft Sensor Change Point Detection and Root Cause Analysis</span> <span class="pub-note ccfa" style="background:#d69e2e;">Young Author's Award Finalist</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, R Bhushan Gopaluni, Lim C Siang, Yankai Cao, Jin Li</span><br>
-<span class="pub-venue">SICE Annual Conference 2022</span>, Kumamoto, Japan · <em>Finalists of Young Author's Award</em>
+<span class="pub-venue">SICE Annual Conference 2022</span>, Kumamoto, Japan
 </div>
 </div>
 
