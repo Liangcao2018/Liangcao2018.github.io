@@ -313,7 +313,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_22.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1016/j.apenergy.2023.122815">Real-time Tracking of Renewable Carbon Content with AI-aided Approaches during Co-processing of Biofeedstocks</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0306261924001995">Real-time Tracking of Renewable Carbon Content with AI-aided Approaches during Co-processing of Biofeedstocks</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Jack Saddler, Yankai Cao, Yixiu Wang, et al.</span><br>
 <span class="pub-venue">Applied Energy</span>, 360, 122815, 2024 (IF=11)
 </div>
