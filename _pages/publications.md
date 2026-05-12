@@ -225,7 +225,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_11.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Slow-fast Dynamics-Assisted Koopman Network for Anomaly Detection in Nonstationary Industrial Processes with Time-lagged Variables</span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1016/j.jprocont.2026.103408">Slow-fast Dynamics-Assisted Koopman Network for Anomaly Detection in Nonstationary Industrial Processes with Time-lagged Variables</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Yan Qin, Shan Yin, Wenbin Qian, Wei Dai, <span class="author-me">Liang Cao*</span></span><br>
 <span class="pub-venue">Journal of Process Control</span>, 2026 (IF=3.3)
 </div>
@@ -257,7 +257,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_15.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Machine Learning for Real-time Green Carbon Dioxide Tracking in Refinery Processes</span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1016/j.rser.2025.115417">Machine Learning for Real-time Green Carbon Dioxide Tracking in Refinery Processes</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Jack Saddler, Yankai Cao, Yixiu Wang, et al.</span><br>
 <span class="pub-venue">Renewable and Sustainable Energy Reviews</span>, 115417, 2025 (IF=16.3)
 </div>
@@ -265,7 +265,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_16.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Comprehensive Analysis on Machine Learning Approaches for Interpretable and Stable Soft Sensors</span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1109/TIM.2025.3556830">Comprehensive Analysis on Machine Learning Approaches for Interpretable and Stable Soft Sensors</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jingyi Wang, Jianping Su, Yi Luo, Yankai Cao, Richard D. Braatz, R Bhushan Gopaluni</span><br>
 <span class="pub-venue">IEEE Transactions on Instrumentation and Measurement</span>, 74, 1-17, 2025 (IF=5.9)
 </div>
@@ -281,7 +281,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_18.png" alt=""></div><div class="pub-text">
-<span class="pub-title">A Novel Automated Soft Sensor Design Tool for Industrial Applications based on Machine Learning</span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1016/j.conengprac.2025.106322">A Novel Automated Soft Sensor Design Tool for Industrial Applications based on Machine Learning</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Emilio Conde, Lim Siang, Yankai Cao, Bhushan Gopaluni</span><br>
 <span class="pub-venue">Control Engineering Practice</span>, 160, 106322, 2025 (IF=4.6)
 </div>
@@ -289,7 +289,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_19.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Data-Driven Dynamic Modeling of Renewable CO2 Emissions in Multimode Industrial Co-processing Processes</span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1016/j.conengprac.2025.106424">Data-Driven Dynamic Modeling of Renewable CO2 Emissions in Multimode Industrial Co-processing Processes</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Yankai Cao, Lim C. Siang, Gary Lee, Jin Li, R. Bhushan Gopaluni</span><br>
 <span class="pub-venue">Control Engineering Practice</span>, 164, 106424, 2025 (IF=4.6)
 </div>
@@ -297,7 +297,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_20.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Adaptive Process Monitoring for Multimode Industrial Processes through Machine Learning</span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1109/JESTIE.2025.3544093">Adaptive Process Monitoring for Multimode Industrial Processes through Machine Learning</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Xiaolu Ji, Yankai Cao, R Bhushan Gopaluni</span><br>
 <span class="pub-venue">IEEE Journal of Emerging and Selected Topics in Industrial Electronics</span>, 6(4), 1819-1827, 2025 (IF=4)
 </div>
@@ -305,7 +305,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_21.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Networking systems for video anomaly detection: A tutorial and survey</span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1145/3729222">Networking systems for video anomaly detection: A tutorial and survey</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors">Jing Liu, Yang Liu, Jieyu Lin, Jielin Li, <span class="author-me">Liang Cao</span>, et al.</span><br>
 <span class="pub-venue">ACM Computing Surveys</span>, 57(10), 1-37, 2025 (IF=28)
 </div>
@@ -321,7 +321,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_23.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Data-driven battery capacity estimation using support vector regression and model bagging under fast-charging conditions</span> <span class="pub-note ccfa" style="background:#d69e2e;">Issue Highlights</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1002/cjce.25394">Data-driven battery capacity estimation using support vector regression and model bagging under fast-charging conditions</a></span> <span class="pub-note ccfa" style="background:#d69e2e;">Issue Highlights</span><br>
 <span class="pub-authors">Yixiu Wang, Qiyue Luo, <span class="author-me">Liang Cao</span>, et al.</span><br>
 <span class="pub-venue">The Canadian Journal of Chemical Engineering</span>, 102(10), 3322-3332, 2024 (Issue Highlights)
 </div>
@@ -337,7 +337,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_25.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Adaptive online optimization of alarm thresholds using multilayer Bayesian networks and active transfer entropy</span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1016/j.conengprac.2023.105534">Adaptive online optimization of alarm thresholds using multilayer Bayesian networks and active transfer entropy</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Yi Luo, Bhushan Gopaluni, <span class="author-me">Liang Cao</span>, Yongjian Wang, Jian Cheng</span><br>
 <span class="pub-venue">Control Engineering Practice</span>, 137, 105534, 2023 (IF=4.6)
 </div>
@@ -345,7 +345,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_26.png" alt=""></div><div class="pub-text">
-<span class="pub-title">False alarm reduction in drilling process monitoring using virtual sample generation and qualitative trend analysis</span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1016/j.conengprac.2023.105457">False alarm reduction in drilling process monitoring using virtual sample generation and qualitative trend analysis</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Yupeng Li, Weihua Cao, R. Bhushan Gopaluni, Wenkai Hua, <span class="author-me">Liang Cao</span>, Min Wu</span><br>
 <span class="pub-venue">Control Engineering Practice</span>, 133, 105457, 2023 (IF=4.6)
 </div>
@@ -361,7 +361,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_28.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Tracking the green coke production when co-processing lipids at a commercial fluid catalytic cracker (FCC)</span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1039/D2SE01373H">Tracking the green coke production when co-processing lipids at a commercial fluid catalytic cracker (FCC)</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Jianping Su, <span class="author-me">Liang Cao</span> (co-first), Gary Lee, et al.</span><br>
 <span class="pub-venue">Sustainable Energy and Fuels</span>, 6, 5600-5607, 2022 (IF=4.1)
 </div>
@@ -369,7 +369,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_29.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Stable soft sensor modelling based on causality analysis</span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1016/j.conengprac.2022.105109">Stable soft sensor modelling based on causality analysis</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Feng Yu, Qiluo Xiong, <span class="author-me">Liang Cao</span>, Fan Yang</span><br>
 <span class="pub-venue">Control Engineering Practice</span>, 122, 105109, 2022 (IF=4.6)
 </div>
@@ -377,7 +377,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_30.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Determining the amount of 'green' coke generated when co-processing lipids commercially by fluid catalytic cracking</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1002/bbb.2325">Determining the amount of 'green' coke generated when co-processing lipids commercially by fluid catalytic cracking</a></span><br>
 <span class="pub-authors">Jianping Su, <span class="author-me">Liang Cao</span>, Gary Lee, et al.</span><br>
 <span class="pub-venue">Biofuels, Bioproducts and Biorefining</span>, 16(2), 325-334, 2022
 </div>
