@@ -409,7 +409,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_34.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1016/j.jprocont.2019.08.010">Accelerated multiple alarm flood sequence alignment for abnormality pattern mining</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0959152419303944">Accelerated multiple alarm flood sequence alignment for abnormality pattern mining</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Shiqi Lai, Fan Yang, Tongwen Chen, <span class="author-me">Liang Cao</span></span><br>
 <span class="pub-venue">Journal of Process Control</span>, 82, 44-57, 2019 (IF=3.3)
 </div>
