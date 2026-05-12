@@ -459,7 +459,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_39.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Interpretable Industrial Soft Sensor Design Based on Informer and SHAP</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2405896324010590">Interpretable Industrial Soft Sensor Design Based on Informer and SHAP</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Xiaolu Ji, Yankai Cao, Yi Luo, et al.</span><br>
 <span class="pub-venue">The 12th IFAC Symposium on Advanced Control of Chemical Processes (ADCHEM 2024)</span>, Toronto, Canada
 </div>
