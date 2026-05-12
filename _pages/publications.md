@@ -491,7 +491,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_43.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Feature based causality analysis and its applications in soft sensor modelling</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2405896320303670">Feature based causality analysis and its applications in soft sensor modelling</a></span><br>
 <span class="pub-authors">Feng Yu, <span class="author-me">Liang Cao</span>, Weiyang Li, Fan Yang, Chao Shang</span><br>
 <span class="pub-venue">IFAC World Congress 2020</span>, Berlin, Germany
 </div>
@@ -499,7 +499,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_44.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Integrated fault/state estimation for two-dimensional linear time-varying systems</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/8243705">Integrated fault/state estimation for two-dimensional linear time-varying systems</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Dong Zhao, Youqing Wang</span><br>
 <span class="pub-venue">Chinese Automation Congress (CAC) 2017</span>, Jinan, China
 </div>
@@ -507,7 +507,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_45.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Asymptotically stable observer for two-dimensional systems with multiple-channel faults</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/8028478">Asymptotically stable observer for two-dimensional systems with multiple-channel faults</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Changqing Liu, Youqing Wang</span><br>
 <span class="pub-venue">36th Chinese Control Conference (CCC) 2017</span>, Dalian, China
 </div>
@@ -515,7 +515,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_46.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Fault-tolerant control of stochastic systems with intermittent faults and time-varying delays</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/7554421">Fault-tolerant control of stochastic systems with intermittent faults and time-varying delays</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Youqing Wang, Lina Xu</span><br>
 <span class="pub-venue">35th Chinese Control Conference (CCC) 2016</span>, Chengdu, China
 </div>
@@ -523,7 +523,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_47.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Fault estimation and compensation for two-dimensional linear systems with actuator/sensor faults</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/8483001">Fault estimation and compensation for two-dimensional linear systems with actuator/sensor faults</a></span><br>
 <span class="pub-authors">Chao Wu, <span class="author-me">Liang Cao</span>, Youqing Wang</span><br>
 <span class="pub-venue">37th Chinese Control Conference (CCC) 2018</span>, Wuhan, China
 </div>
