@@ -467,7 +467,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_40.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Stable Soft Sensor Modeling for Industrial Systems</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/10640050">Stable Soft Sensor Modeling for Industrial Systems</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Yankai Cao, R Bhushan Gopaluni</span><br>
 <span class="pub-venue">2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS)</span>, St. Louis, USA
 </div>
