@@ -185,7 +185,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_06.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1109/TII.2026.3672049">Causal Discovery in Dynamic Industrial Systems Under Parametric Uncertainty: A Polynomial Chaos Approach</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/11455340">Causal Discovery in Dynamic Industrial Systems Under Parametric Uncertainty: A Polynomial Chaos Approach</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Yan Qin</span><br>
 <span class="pub-venue">IEEE Transactions on Industrial Informatics</span>, 2026 (IF=9.9)
 </div>
@@ -193,7 +193,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_07.png?v=2" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1109/TSMC.2026.3661182">Attack Detection for Cyber-Physical Systems Based on Causal Representation</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/11397096">Attack Detection for Cyber-Physical Systems Based on Causal Representation</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Youqing Wang, Yan Qin, Yankai Cao, Bhushan Gopaluni, Richard Braatz</span><br>
 <span class="pub-venue">IEEE Transactions on Systems, Man, and Cybernetics: Systems</span>, 2026 (IF=8.7)
 </div>
@@ -217,7 +217,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_10.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1109/JESTIE.2026.3667011">A Systematic Framework for Data Quality Assessment in Industrial Process Monitoring</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/11406885">A Systematic Framework for Data Quality Assessment in Industrial Process Monitoring</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Yixiu Wang, Jianping Su</span><br>
 <span class="pub-venue">IEEE Journal of Emerging and Selected Topics in Industrial Electronics</span>, 2026 (IF=4)
 </div>
@@ -241,7 +241,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_13.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1109/JIOT.2026.3667670">Ensemble Domain Adaptation with Constructive Incremental Learning for Fault Diagnosis of UAV Actuators</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/11408789">Ensemble Domain Adaptation with Constructive Incremental Learning for Fault Diagnosis of UAV Actuators</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors">Jiang Liu, Wei Dai, <span class="author-me">Liang Cao</span>, Yan Qin, Chau Yuen</span><br>
 <span class="pub-venue">IEEE Internet of Things Journal</span>, 2026 (IF=8.9)
 </div>
@@ -273,7 +273,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_17.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1016/j.isatra.2025.10.035">Physics-informed Dynamic Hybrid Modeling for Real-time Renewable CO2 Tracking in Refinery Co-processing</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0019057825005993">Physics-informed Dynamic Hybrid Modeling for Real-time Renewable CO2 Tracking in Refinery Co-processing</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Yang Liu, Jing Liu, Jianping Su</span><br>
 <span class="pub-venue">ISA Transactions</span>, 2025 (IF=6.5)
 </div>
