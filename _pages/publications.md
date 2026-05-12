@@ -233,7 +233,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_12.png" alt=""></div><div class="pub-text">
-<span class="pub-title">False Data Injection Attacks Against UAV Battery State of Health Estimation with A Capacity-informed Latent Diffusion Model</span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2773153726000162">False Data Injection Attacks Against UAV Battery State of Health Estimation with A Capacity-informed Latent Diffusion Model</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Yan Qin, Zhiqing Luo, Yunhong Che, <span class="author-me">Liang Cao*</span></span><br>
 <span class="pub-venue">Green Energy and Intelligent Transportation</span>, 2026 (IF=16.4)
 </div>
