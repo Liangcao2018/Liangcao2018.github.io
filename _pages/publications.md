@@ -475,7 +475,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_41.png" alt=""></div><div class="pub-text">
-<span class="pub-title">Interpretable Soft Sensors using Extremely Randomized Trees and SHAP</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2405896323013058">Interpretable Soft Sensors using Extremely Randomized Trees and SHAP</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Xiaolu Ji, Yankai Cao, et al.</span><br>
 <span class="pub-venue">IFAC World Congress 2023</span>, Yokohama, Japan
 </div>
