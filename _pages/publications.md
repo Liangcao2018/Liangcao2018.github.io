@@ -353,7 +353,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_27.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1021/acs.iecr.2c01681">Causal Discovery Based on Observational Data and Process Knowledge in Industrial Processes</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://pubs.acs.org/doi/10.1021/acs.iecr.2c01326">Causal Discovery Based on Observational Data and Process Knowledge in Industrial Processes</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Yixiu Wang, Yankai Cao, Lim C. Siang, Jin Li, Jack Saddler, Bhushan Gopaluni</span><br>
 <span class="pub-venue">Industrial & Engineering Chemistry Research</span>, 61, 14272-14283, 2022 (IF=3.9)
 </div>
