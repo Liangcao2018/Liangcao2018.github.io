@@ -1,5 +1,5 @@
 ---
-title: "Networking systems for video anomaly detection: A tutorial and survey"
+title: "[J10] Networking systems for video anomaly detection: A tutorial and survey"
 collection: publications
 permalink: /publication/number-32
 date: 2025-10-01

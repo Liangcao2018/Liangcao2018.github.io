@@ -1,5 +1,5 @@
 ---
-title: "Fault estimation and compensation for two-dimensional linear systems with actuator/sensor faults"
+title: "[C5] Fault estimation and compensation for two-dimensional linear systems with actuator/sensor faults"
 collection: publications
 permalink: /publication/number-11
 date: 2018-7-25

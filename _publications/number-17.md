@@ -1,5 +1,5 @@
 ---
-title: "A Novel Automated Soft Sensor Design Tool for Industrial Applications based on Machine Learning"
+title: "[J16] A Novel Automated Soft Sensor Design Tool for Industrial Applications based on Machine Learning"
 collection: publications
 permalink: /publication/number-17
 date: 2025-03-01

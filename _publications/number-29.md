@@ -1,5 +1,5 @@
 ---
-title: "Interpretable and Reliable Soft Sensor Development in Industry 5.0"
+title: "[J3] Interpretable and Reliable Soft Sensor Development in Industry 5.0"
 collection: publications
 permalink: /publication/number-29
 date: 2026-02-03

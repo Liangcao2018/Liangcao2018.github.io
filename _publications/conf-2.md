@@ -1,5 +1,5 @@
 ---
-title: "Learning Dynamic Causal Graphs Under Parametric Uncertainty via Polynomial Chaos Expansions"
+title: "[A3] Learning Dynamic Causal Graphs Under Parametric Uncertainty via Polynomial Chaos Expansions"
 collection: publications
 permalink: /publication/conf-iclr2026
 date: 2026-04-23

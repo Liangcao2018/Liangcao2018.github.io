@@ -1,5 +1,5 @@
 ---
-title: "Integrated fault/state estimation for two-dimensional linear time-varying systems"
+title: "[C6] Integrated fault/state estimation for two-dimensional linear time-varying systems"
 collection: publications
 permalink: /publication/number-12
 date: 2017-10-20

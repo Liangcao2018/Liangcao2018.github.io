@@ -1,5 +1,5 @@
 ---
-title: "Determining the amount of 'green' coke generated when co-processing lipids commercially by fluid catalytic cracking"
+title: "[J26] Determining the amount of 'green' coke generated when co-processing lipids commercially by fluid catalytic cracking"
 collection: publications
 permalink: /publication/number-38
 date: 2022-03-01

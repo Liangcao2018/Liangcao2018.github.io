@@ -1,5 +1,5 @@
 ---
-title: "Existence and design of observers for two-dimensional linear systems with multiple channel faults"
+title: "[J31] Existence and design of observers for two-dimensional linear systems with multiple channel faults"
 collection: publications
 permalink: /publication/number-6
 date: 2019-04-01

@@ -1,5 +1,5 @@
 ---
-title: "Stable Soft Sensor Modeling for Industrial Systems"
+title: "[C2] Stable Soft Sensor Modeling for Industrial Systems"
 collection: publications
 permalink: /publication/conf-icps2024
 date: 2024-05-12

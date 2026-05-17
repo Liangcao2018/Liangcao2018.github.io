@@ -1,5 +1,5 @@
 ---
-title: "Long short-term memory network with transfer learning for lithium-ion battery capacity fade and cycle life prediction"
+title: "[J21] Long short-term memory network with transfer learning for lithium-ion battery capacity fade and cycle life prediction"
 collection: publications
 permalink: /publication/number-34
 date: 2023-10-01

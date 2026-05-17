@@ -1,5 +1,5 @@
 ---
-title: "Accelerated multiple alarm flood sequence alignment for abnormality pattern mining"
+title: "[J30] Accelerated multiple alarm flood sequence alignment for abnormality pattern mining"
 collection: publications
 permalink: /publication/number-4
 date: 2019-10-01

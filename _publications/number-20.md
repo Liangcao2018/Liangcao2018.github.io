@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning for Real-time Green Carbon Dioxide Tracking in Refinery Processes"
+title: "[J13] Machine Learning for Real-time Green Carbon Dioxide Tracking in Refinery Processes"
 collection: publications
 permalink: /publication/number-20
 date: 2025-06-01

@@ -1,5 +1,5 @@
 ---
-title: "Data-Driven Dynamic Modeling of Renewable CO2 Emissions in Multimode Industrial Co-processing Processes"
+title: "[J17] Data-Driven Dynamic Modeling of Renewable CO2 Emissions in Multimode Industrial Co-processing Processes"
 collection: publications
 permalink: /publication/number-16
 date: 2025-02-01

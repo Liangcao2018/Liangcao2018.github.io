@@ -1,5 +1,5 @@
 ---
-title: "Interpretable Industrial Soft Sensor Design Based on Informer and SHAP"
+title: "[C1] Interpretable Industrial Soft Sensor Design Based on Informer and SHAP"
 collection: publications
 permalink: /publication/conf-adchem2024
 date: 2024-07-14

@@ -1,5 +1,5 @@
 ---
-title: "Fault-tolerant control of stochastic systems with intermittent faults and time-varying delays"
+title: "[C8] Fault-tolerant control of stochastic systems with intermittent faults and time-varying delays"
 collection: publications
 permalink: /publication/number-7
 date: 2016-07-27

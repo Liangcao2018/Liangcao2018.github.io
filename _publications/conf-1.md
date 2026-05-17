@@ -1,5 +1,5 @@
 ---
-title: "A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems"
+title: "[A1] A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems"
 collection: publications
 permalink: /publication/conf-cvpr2026
 date: 2026-06-03

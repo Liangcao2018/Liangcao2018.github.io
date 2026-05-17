@@ -1,5 +1,5 @@
 ---
-title: "Fault-tolerant control for nonlinear systems with multiple intermittent faults and time-varying delays"
+title: "[J32] Fault-tolerant control for nonlinear systems with multiple intermittent faults and time-varying delays"
 collection: publications
 permalink: /publication/number-1
 date: 2018-04-01

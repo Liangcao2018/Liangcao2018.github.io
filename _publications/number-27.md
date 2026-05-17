@@ -1,5 +1,5 @@
 ---
-title: "Attack Detection for Cyber-Physical Systems Based on Causal Representation"
+title: "[J5] Attack Detection for Cyber-Physical Systems Based on Causal Representation"
 collection: publications
 permalink: /publication/number-27
 date: 2026-02-01

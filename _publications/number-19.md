@@ -1,5 +1,5 @@
 ---
-title: "Physics-informed Dynamic Hybrid Modeling for Real-time Renewable CO2 Tracking in Refinery Co-processing"
+title: "[J14] Physics-informed Dynamic Hybrid Modeling for Real-time Renewable CO2 Tracking in Refinery Co-processing"
 collection: publications
 permalink: /publication/number-19
 date: 2025-05-01

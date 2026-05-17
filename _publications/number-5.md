@@ -1,5 +1,5 @@
 ---
-title: "Simultaneous estimation of multiple channel faults for two-dimensional linear systems"
+title: "[J33] Simultaneous estimation of multiple channel faults for two-dimensional linear systems"
 collection: publications
 permalink: /publication/number-5
 date: 2017-10-03

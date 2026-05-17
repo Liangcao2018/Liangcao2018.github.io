@@ -1,5 +1,5 @@
 ---
-title: "Causal Structure Discovery for Industrial Process Monitoring: A Novel Approach for Nonlinear Systems with Complex Noise"
+title: "[J4] Causal Structure Discovery for Industrial Process Monitoring: A Novel Approach for Nonlinear Systems with Complex Noise"
 collection: publications
 permalink: /publication/number-28
 date: 2026-02-02

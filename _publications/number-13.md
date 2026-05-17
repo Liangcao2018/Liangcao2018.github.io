@@ -1,5 +1,5 @@
 ---
-title: "Asymptotically stable observer for two-dimensional systems with multiple-channel faults"
+title: "[C7] Asymptotically stable observer for two-dimensional systems with multiple-channel faults"
 collection: publications
 permalink: /publication/number-13
 date: 2017-7-26

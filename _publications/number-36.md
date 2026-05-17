@@ -1,5 +1,5 @@
 ---
-title: "False alarm reduction in drilling process monitoring using virtual sample generation and qualitative trend analysis"
+title: "[J22] False alarm reduction in drilling process monitoring using virtual sample generation and qualitative trend analysis"
 collection: publications
 permalink: /publication/number-36
 date: 2023-07-01

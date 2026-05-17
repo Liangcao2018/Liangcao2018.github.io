@@ -1,5 +1,5 @@
 ---
-title: "A Novel Approach to Alarm Causality Analysis Using Active Dynamic Transfer Entropy"
+title: "[J29] A Novel Approach to Alarm Causality Analysis Using Active Dynamic Transfer Entropy"
 collection: publications
 permalink: /publication/number-3
 date: 2020-4-14

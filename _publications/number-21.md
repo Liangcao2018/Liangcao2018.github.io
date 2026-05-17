@@ -1,5 +1,5 @@
 ---
-title: "Causal Representation Learning for Trustworthy Industrial Process Modeling"
+title: "[J12] Causal Representation Learning for Trustworthy Industrial Process Modeling"
 collection: publications
 permalink: /publication/number-21
 date: 2025-07-01

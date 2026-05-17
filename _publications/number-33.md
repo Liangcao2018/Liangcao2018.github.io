@@ -1,5 +1,5 @@
 ---
-title: "Data-driven battery capacity estimation using support vector regression and model bagging under fast-charging conditions"
+title: "[J19] Data-driven battery capacity estimation using support vector regression and model bagging under fast-charging conditions"
 collection: publications
 permalink: /publication/number-33
 date: 2024-10-01

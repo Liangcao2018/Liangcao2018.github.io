@@ -1,5 +1,5 @@
 ---
-title: "Slow-fast Dynamics-Assisted Koopman Network for Anomaly Detection in Nonstationary Industrial Processes with Time-lagged Variables"
+title: "[J2] Slow-fast Dynamics-Assisted Koopman Network for Anomaly Detection in Nonstationary Industrial Processes with Time-lagged Variables"
 collection: publications
 permalink: /publication/number-30
 date: 2026-03-01

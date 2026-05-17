@@ -1,5 +1,5 @@
 ---
-title: "High-order iterative learning fault-tolerant control for batch processes with iteration-varying sensor faults"
+title: "[C9] High-order iterative learning fault-tolerant control for batch processes with iteration-varying sensor faults"
 collection: publications
 permalink: /publication/number-8
 date: 2016-07-26

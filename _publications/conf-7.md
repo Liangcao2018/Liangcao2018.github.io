@@ -1,5 +1,5 @@
 ---
-title: "Soft Sensor Change Point Detection and Root Cause Analysis"
+title: "[C3] Soft Sensor Change Point Detection and Root Cause Analysis"
 collection: publications
 permalink: /publication/conf-sice2022
 date: 2022-09-08

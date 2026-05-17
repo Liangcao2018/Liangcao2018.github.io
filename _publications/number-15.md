@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Process Monitoring for Multimode Industrial Processes through Machine Learning"
+title: "[J18] Adaptive Process Monitoring for Multimode Industrial Processes through Machine Learning"
 collection: publications
 permalink: /publication/number-15
 date: 2025-01-01

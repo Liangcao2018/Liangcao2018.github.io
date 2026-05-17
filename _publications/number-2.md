@@ -1,5 +1,5 @@
 ---
-title: "Reliable H∞ control for nonlinear discrete-time systems with multiple intermittent faults in sensors or actuators"
+title: "[J34] Reliable H∞ control for nonlinear discrete-time systems with multiple intermittent faults in sensors or actuators"
 collection: publications
 permalink: /publication/number-2
 date: 2017-1-25

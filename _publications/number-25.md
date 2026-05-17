@@ -1,5 +1,5 @@
 ---
-title: "A Systematic Framework for Data Quality Assessment in Industrial Process Monitoring"
+title: "[J7] A Systematic Framework for Data Quality Assessment in Industrial Process Monitoring"
 collection: publications
 permalink: /publication/number-25
 date: 2026-01-03

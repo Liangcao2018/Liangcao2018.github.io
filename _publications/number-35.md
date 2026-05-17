@@ -1,5 +1,5 @@
 ---
-title: "Adaptive online optimization of alarm thresholds using multilayer Bayesian networks and active transfer entropy"
+title: "[J23] Adaptive online optimization of alarm thresholds using multilayer Bayesian networks and active transfer entropy"
 collection: publications
 permalink: /publication/number-35
 date: 2023-06-01

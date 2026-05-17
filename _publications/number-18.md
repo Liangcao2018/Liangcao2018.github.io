@@ -1,5 +1,5 @@
 ---
-title: "Comprehensive Analysis on Machine Learning Approaches for Interpretable and Stable Soft Sensors"
+title: "[J15] Comprehensive Analysis on Machine Learning Approaches for Interpretable and Stable Soft Sensors"
 collection: publications
 permalink: /publication/number-18
 date: 2025-04-01

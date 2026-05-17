@@ -1,5 +1,5 @@
 ---
-title: "Stable soft sensor modelling based on causality analysis"
+title: "[J25] Stable soft sensor modelling based on causality analysis"
 collection: publications
 permalink: /publication/number-39
 date: 2022-05-01

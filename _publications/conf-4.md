@@ -1,5 +1,5 @@
 ---
-title: "Sparse Causal Latent Features for Robust Multimodal Learning under Distribution Shifts"
+title: "[A2] Sparse Causal Latent Features for Robust Multimodal Learning under Distribution Shifts"
 collection: publications
 permalink: /publication/conf-www2026
 date: 2026-05-08

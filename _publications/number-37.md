@@ -1,5 +1,5 @@
 ---
-title: "Tracking the green coke production when co-processing lipids at a commercial fluid catalytic cracker (FCC)"
+title: "[J24] Tracking the green coke production when co-processing lipids at a commercial fluid catalytic cracker (FCC)"
 collection: publications
 permalink: /publication/number-37
 date: 2022-10-01

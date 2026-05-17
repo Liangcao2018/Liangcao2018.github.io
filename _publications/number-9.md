@@ -1,5 +1,5 @@
 ---
-title: "Challenges in determining the renewable content of the final fuels after co-processing biogenic feedstocks in the fluid catalytic cracker (FCC) of a commercial oil refinery"
+title: "[J27] Challenges in determining the renewable content of the final fuels after co-processing biogenic feedstocks in the fluid catalytic cracker (FCC) of a commercial oil refinery"
 collection: publications
 permalink: /publication/number-9
 date: 2021-06-15

@@ -1,5 +1,5 @@
 ---
-title: "Ensemble Domain Adaptation with Constructive Incremental Learning for Fault Diagnosis of UAV Actuators"
+title: "[J1] Ensemble Domain Adaptation with Constructive Incremental Learning for Fault Diagnosis of UAV Actuators"
 collection: publications
 permalink: /publication/number-31
 date: 2026-03-02

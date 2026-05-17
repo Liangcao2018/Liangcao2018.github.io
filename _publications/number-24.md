@@ -1,5 +1,5 @@
 ---
-title: "Causal Discovery in Dynamic Industrial Systems Under Parametric Uncertainty: A Polynomial Chaos Approach"
+title: "[J8] Causal Discovery in Dynamic Industrial Systems Under Parametric Uncertainty: A Polynomial Chaos Approach"
 collection: publications
 permalink: /publication/number-24
 date: 2026-01-02

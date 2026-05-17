@@ -1,5 +1,5 @@
 ---
-title: "Condition-Dependent Causal Discovery: A Polynomial Chaos Framework for Systems with Parametric Uncertainty"
+title: "[J9] Condition-Dependent Causal Discovery: A Polynomial Chaos Framework for Systems with Parametric Uncertainty"
 collection: publications
 permalink: /publication/number-23
 date: 2026-01-01

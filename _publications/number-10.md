@@ -1,5 +1,5 @@
 ---
-title: "Data-driven dynamic inferential sensors based on causality analysis"
+title: "[J28] Data-driven dynamic inferential sensors based on causality analysis"
 collection: publications
 permalink: /publication/number-10
 date: 2020-11-01
