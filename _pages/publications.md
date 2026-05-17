@@ -161,7 +161,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_50.png" alt=""></div><div class="pub-text">
-<span class="pub-title">[J3] Cross-modal Attention Fusion of RGB and Skeleton for Multimodal-Driven Video Anomaly Detection</span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320326007806">[J3] Cross-modal Attention Fusion of RGB and Skeleton for Multimodal-Driven Video Anomaly Detection</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors">Boan Chen, <span class="author-me">Liang Cao</span>, Weide Liu, Jinmei Liu, Baoquan Zhao, Yang Liu</span><br>
 <span class="pub-venue">Pattern Recognition</span>, 2026 (IF=7.6)
 </div>
@@ -169,7 +169,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_51.png" alt=""></div><div class="pub-text">
-<span class="pub-title">[J4] Source-free Foundation Model-enabled Transferable State of Health Estimation for Lithium-ion Batteries with Intelligent Adapter Mapping</span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0031320326004644">[J4] Source-free Foundation Model-enabled Transferable State of Health Estimation for Lithium-ion Batteries with Intelligent Adapter Mapping</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors">Yan Qin, Qingyue Huang, <span class="author-me">Liang Cao</span>, Wei Dai, Chau Yuen</span><br>
 <span class="pub-venue">Pattern Recognition</span>, 2026 (IF=7.6)
 </div>
