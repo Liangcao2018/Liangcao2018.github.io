@@ -173,6 +173,14 @@ author_profile: true
 <span class="lang-zh">北京化工大学<br>合作指导：<a href="https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm">王友清 (Youqing Wang) 教授</a></span>
 </div>
 </div>
+<div class="member-card">
+<div class="member-name">Dhruv Goel</div>
+<div class="member-role"><span class="lang-en">Undergraduate Student</span><span class="lang-zh">本科生</span></div>
+<div class="member-info">
+<span class="lang-en">University of British Columbia<br>Co-supervised with <a href="https://dais.chbe.ubc.ca">Prof. Bhushan Gopaluni</a></span>
+<span class="lang-zh">英属哥伦比亚大学<br>合作指导：<a href="https://dais.chbe.ubc.ca">Bhushan Gopaluni 教授</a></span>
+</div>
+</div>
 </div>
 
 <h2 class="group-section-title">Collaborating Faculty</h2>
