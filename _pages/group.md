@@ -139,6 +139,15 @@ author_profile: true
 </div>
 
 <div class="member-card">
+<div class="member-name">Zuoming Gan (淦作明)</div>
+<div class="member-role"><span class="lang-en">M.S. Student</span><span class="lang-zh">硕士研究生</span></div>
+<div class="member-info">
+<span class="lang-en">Jiangxi University of Finance and Economics<br>Co-supervised with <a href="http://cta.jxufe.edu.cn/home/teacherInfo/detail?fid=109051&uid=438983801">Prof. Weide Liu</a></span>
+<span class="lang-zh">江西财经大学<br>合作指导：<a href="http://cta.jxufe.edu.cn/home/teacherInfo/detail?fid=109051&uid=438983801">刘伟德 (Weide Liu) 教授</a></span>
+</div>
+</div>
+
+<div class="member-card">
 <div class="member-name">Menghao Li (李孟澔)</div>
 <div class="member-role"><span class="lang-en">Ph.D. Student</span><span class="lang-zh">博士研究生</span></div>
 <div class="member-info">
