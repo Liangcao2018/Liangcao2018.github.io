@@ -121,6 +121,15 @@ author_profile: true
 </div>
 
 <div class="member-card">
+<div class="member-name">Fei Gao (高菲)</div>
+<div class="member-role"><span class="lang-en">Ph.D. Student</span><span class="lang-zh">博士研究生</span></div>
+<div class="member-info">
+<span class="lang-en">Southern University of Science and Technology / Peng Cheng Laboratory<br>Co-supervised with Prof. Zhuo Chen</span>
+<span class="lang-zh">南方科技大学 / 鹏城实验室联合培养<br>合作指导：陈卓 (Zhuo Chen) 教授</span>
+</div>
+</div>
+
+<div class="member-card">
 <div class="member-name">Jun Wan (万军)</div>
 <div class="member-role"><span class="lang-en">Ph.D. Student</span><span class="lang-zh">博士研究生</span></div>
 <div class="member-info">
