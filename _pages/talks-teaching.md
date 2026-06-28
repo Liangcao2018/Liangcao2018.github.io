@@ -55,7 +55,7 @@ redirect_from:
 <strong>CHBE 474 — Process Control Engineering</strong> <span class="tt-date">(Fall 2020)</span>
 <div class="tt-detail">
 <span class="lang-en"><strong>Teaching Assistant</strong> · University of British Columbia, Department of Chemical and Biological Engineering<br>Supervisor: Prof. Alireza Bagherzadeh<br><em>Frequency response analysis; advanced control techniques; multivariable control systems; mathematical tools for computer control systems; design of computer control systems; engineering design of industrial control applications; plant wide control concepts; distributed control systems concepts.</em></span>
-<span class="lang-zh"><strong>助教</strong> · 英属哥伦比亚大学化学与生物工程系<br>指导教师：Alireza Bagherzadeh 教授<br><em>课程内容：频率响应分析；先进控制技术；多变量控制系统；计算机控制系统的数学工具；计算机控制系统设计；工业控制应用的工程设计；全厂控制理念；分布式控制系统概念。</em></span>
+<span class="lang-zh"><strong>助教</strong> · 不列颠哥伦比亚大学化学与生物工程系<br>指导教师：Alireza Bagherzadeh 教授<br><em>课程内容：频率响应分析；先进控制技术；多变量控制系统；计算机控制系统的数学工具；计算机控制系统设计；工业控制应用的工程设计；全厂控制理念；分布式控制系统概念。</em></span>
 </div>
 </div>
 
