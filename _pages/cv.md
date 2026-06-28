@@ -88,7 +88,7 @@ redirect_from:
 
 <div class="cv-entry">
 <span class="lang-en"><strong>Postdoc, University of British Columbia / Cornell University</strong></span>
-<span class="lang-zh"><strong>博士后，英属哥伦比亚大学 / 康奈尔大学</strong></span>
+<span class="lang-zh"><strong>博士后，不列颠哥伦比亚大学 / 康奈尔大学</strong></span>
 <span class="cv-date">(2025.11 – Present)</span>
 <div class="cv-detail">
 <span class="lang-en">Chemical and Biological Engineering<br>Advisors: Prof. Bhushan Gopaluni (Fellow, Canadian Academy of Engineering), Prof. Fengqi You (AAAS/AIChE/FRSC Fellow)</span>
@@ -108,7 +108,7 @@ redirect_from:
 
 <div class="cv-entry">
 <span class="lang-en"><strong>Ph.D., University of British Columbia</strong></span>
-<span class="lang-zh"><strong>博士，英属哥伦比亚大学</strong></span>
+<span class="lang-zh"><strong>博士，不列颠哥伦比亚大学</strong></span>
 <span class="cv-date">(2019.09 – 2024.02)</span>
 <div class="cv-detail">
 <span class="lang-en">Chemical and Biological Engineering<br>Advisors: Prof. Bhushan Gopaluni (Fellow, Canadian Academy of Engineering; Associate Vice President, UBC), Prof. Yankai Cao<br>Thesis: <em>Interpretable and Robust Soft Sensor Modeling for Industrial Applications</em></span>
@@ -222,7 +222,7 @@ redirect_from:
 
 <div class="cv-entry">
 <span class="lang-en"><strong>Teaching Assistant</strong>, University of British Columbia</span>
-<span class="lang-zh"><strong>助教</strong>，英属哥伦比亚大学</span>
+<span class="lang-zh"><strong>助教</strong>，不列颠哥伦比亚大学</span>
 <span class="cv-date">(2020.08 – 2021.01)</span>
 <div class="cv-detail">
 <span class="lang-en">CHBE 474 Process Control Engineering · Supervisor: Prof. Alireza Bagherzadeh</span>
