@@ -196,7 +196,7 @@ author_profile: true
 <div class="member-role"><span class="lang-en">Undergraduate Student</span><span class="lang-zh">本科生</span></div>
 <div class="member-info">
 <span class="lang-en">University of British Columbia<br>Co-supervised with <a href="https://dais.chbe.ubc.ca">Prof. Bhushan Gopaluni</a></span>
-<span class="lang-zh">英属哥伦比亚大学<br>合作指导：<a href="https://dais.chbe.ubc.ca">Bhushan Gopaluni 教授</a></span>
+<span class="lang-zh">不列颠哥伦比亚大学<br>合作指导：<a href="https://dais.chbe.ubc.ca">Bhushan Gopaluni 教授</a></span>
 </div>
 </div>
 </div>
@@ -206,7 +206,7 @@ author_profile: true
 <div class="member-grid">
 <div class="member-card">
 <div class="member-name"><a href="https://dais.chbe.ubc.ca">Bhushan Gopaluni</a></div>
-<div class="member-role"><span class="lang-en">Professor, UBC</span><span class="lang-zh">教授，英属哥伦比亚大学</span></div>
+<div class="member-role"><span class="lang-en">Professor, UBC</span><span class="lang-zh">教授，不列颠哥伦比亚大学</span></div>
 <div class="member-info">
 <span class="lang-en">Fellow, Canadian Academy of Engineering<br>Department of Chemical and Biological Engineering</span>
 <span class="lang-zh">加拿大工程院院士<br>化学与生物工程系</span>
@@ -233,7 +233,7 @@ author_profile: true
 
 <div class="member-card">
 <div class="member-name"><a href="https://optimal.chbe.ubc.ca/">Yankai Cao (曹彦凯)</a></div>
-<div class="member-role"><span class="lang-en">Associate Professor, UBC</span><span class="lang-zh">副教授，英属哥伦比亚大学</span></div>
+<div class="member-role"><span class="lang-en">Associate Professor, UBC</span><span class="lang-zh">副教授，不列颠哥伦比亚大学</span></div>
 <div class="member-info">
 <span class="lang-en">Department of Chemical and Biological Engineering</span>
 <span class="lang-zh">化学与生物工程系</span>
