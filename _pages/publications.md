@@ -135,7 +135,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_04.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://dl.acm.org/">[A6] Sparse Causal Latent Features for Robust Multimodal Learning under Distribution Shifts</a></span> <span class="pub-note ccfa">WWW 2026</span><br>
+<span class="pub-title"><a href="https://dl.acm.org/">[A6] Sparse Causal Latent Features for Robust Multimodal Learning under Distribution Shifts</a></span> <span class="pub-note ccfa">WWW 2026</span> <span class="pub-note ccfa" style="background:#d69e2e;">Best Paper Award, WWW 2026 (TML Workshop)</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Yan Qin, Zhenghua Chen, Zhuo Chen, Bhushan Gopaluni</span><br>
 <span class="pub-venue">Proceedings of the ACM Web Conference 2026 (WWW 26)</span>, Dubai, UAE
 </div>
