@@ -107,6 +107,7 @@ redirect_from:
 
 <div class="news-section">
 <h2><span data-i18n-en="News" data-i18n-zh="最新动态">News</span></h2>
+<div class="news-item"><span class="news-date">2026.07</span> 🏆 <span class="lang-en">Received <strong>Best Paper Award</strong> at WWW 2026 (TML 2026 Workshop)</span><span class="lang-zh">获得 <strong>WWW 2026 (TML 2026 Workshop) 最佳论文奖</strong></span>: "Sparse Causal Latent Features for Robust Multimodal Learning under Distribution Shifts"</div>
 <div class="news-item"><span class="news-date">2026.05</span> 🏆 <span class="lang-en">Received <strong>Best Paper Award</strong> at ICAIS&amp;ISAS 2026</span><span class="lang-zh">获得 <strong>ICAIS&amp;ISAS 2026 最佳论文奖</strong></span>: "Nonlinear Causal Sparse-Smooth Learning for Interpretable Industrial Process Modeling"</div>
 <div class="news-item"><span class="news-date">2026.05</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>IEEE Transactions on Control Systems Technology</strong> (TCST) <span class="lang-zh">接收</span>: "Stable Learning for Trustworthy Modeling in Industrial Processes with Small Samples"</div>
 <div class="news-item"><span class="news-date">2026.05</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>ICML 2026</strong> (CCF-A) <span class="lang-zh">接收</span>: "A Control-Theoretic View of Mamba on Stability and Robustness"</div>
