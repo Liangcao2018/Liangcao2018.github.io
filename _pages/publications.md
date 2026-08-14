@@ -144,8 +144,24 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <h3 class="pub-section-title">Journal Articles</h3>
 
 <div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_58.png" alt=""></div><div class="pub-text">
+<span class="pub-title">[J1] A Comparative Kinetic Investigation of Ethyl Acetate and n-Propyl Acetate as Ester-based Electrolyte Solvents: Integrating Quantum Chemical Calculations with Kinetic Modeling</span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-authors">Chuangchuang Cao, <span class="author-me">Liang Cao</span>, Yanchen Wu, Haoyang Wu, Qingyu Liu, Ran Sui, Huanhuan Wang</span><br>
+<span class="pub-venue">Fuel</span>, 2026 (IF=7.5)
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_57.png" alt=""></div><div class="pub-text">
+<span class="pub-title">[J2] Capacity Informed Generative Time Series Augmentation with Few-shot Learning for Unmanned Aerial Vehicle Battery State-of-Health Estimation</span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-authors">Tao Li, <span class="author-me">Liang Cao</span>, Kai Zhao, Weide Liu, Yan Qin</span><br>
+<span class="pub-venue">Journal of Energy Storage</span>, 179, 123752, 2026 (IF=10.7)
+</div>
+</div>
+
+<div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_55.png" alt=""></div><div class="pub-text">
-<span class="pub-title">[J1] Stable Learning for Trustworthy Modeling in Industrial Processes with Small Samples</span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title">[J3] Stable Learning for Trustworthy Modeling in Industrial Processes with Small Samples</span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao*</span>, Youqing Wang, Yankai Cao, Fan Yang, Jicong Fan, Yan Qin, Bhushan Gopaluni, Richard D. Braatz</span><br>
 <span class="pub-venue">IEEE Transactions on Control Systems Technology</span>, 2026 (IF=4.8)
 </div>
@@ -153,7 +169,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_52.png?v=2" alt=""></div><div class="pub-text">
-<span class="pub-title">[J2] A Novel Causal Robust Soft Sensor for Industrial Processes with Data Distribution Drift</span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title">[J4] A Novel Causal Robust Soft Sensor for Industrial Processes with Data Distribution Drift</span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Yan Qin, Dong Zhao, Bhushan Gopaluni, Youqing Wang</span><br>
 <span class="pub-venue">IEEE Transactions on Industrial Electronics</span>, 2026 (IF=7.4)
 </div>
@@ -161,7 +177,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_50.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320326007806">[J3] Cross-modal Attention Fusion of RGB and Skeleton for Multimodal-Driven Video Anomaly Detection</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320326007806">[J5] Cross-modal Attention Fusion of RGB and Skeleton for Multimodal-Driven Video Anomaly Detection</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors">Boan Chen, <span class="author-me">Liang Cao</span>, Weide Liu, Jinmei Liu, Baoquan Zhao, Yang Liu</span><br>
 <span class="pub-venue">Pattern Recognition</span>, 2026 (IF=9.1)
 </div>
@@ -169,7 +185,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_51.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0031320326004644">[J4] Source-free Foundation Model-enabled Transferable State of Health Estimation for Lithium-ion Batteries with Intelligent Adapter Mapping</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0031320326004644">[J6] Source-free Foundation Model-enabled Transferable State of Health Estimation for Lithium-ion Batteries with Intelligent Adapter Mapping</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors">Yan Qin, Qingyue Huang, <span class="author-me">Liang Cao</span>, Wei Dai, Chau Yuen</span><br>
 <span class="pub-venue">Pattern Recognition</span>, 2026 (IF=9.1)
 </div>
@@ -177,7 +193,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_05.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/11426966">[J5] Condition-Dependent Causal Discovery: A Polynomial Chaos Framework for Systems with Parametric Uncertainty</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/11426966">[J7] Condition-Dependent Causal Discovery: A Polynomial Chaos Framework for Systems with Parametric Uncertainty</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Yang Liu, Yan Qin</span><br>
 <span class="pub-venue">IEEE Transactions on Automation Science and Engineering</span>, 2026 (IF=7.9)
 </div>
@@ -185,7 +201,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_06.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/11455340">[J6] Causal Discovery in Dynamic Industrial Systems Under Parametric Uncertainty: A Polynomial Chaos Approach</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/11455340">[J8] Causal Discovery in Dynamic Industrial Systems Under Parametric Uncertainty: A Polynomial Chaos Approach</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Yan Qin</span><br>
 <span class="pub-venue">IEEE Transactions on Industrial Informatics</span>, 2026 (IF=9.8)
 </div>
@@ -193,7 +209,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_07.png?v=2" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/11397096">[J7] Attack Detection for Cyber-Physical Systems Based on Causal Representation</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/11397096">[J9] Attack Detection for Cyber-Physical Systems Based on Causal Representation</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Youqing Wang, Yan Qin, Yankai Cao, Bhushan Gopaluni, Richard Braatz</span><br>
 <span class="pub-venue">IEEE Transactions on Systems, Man, and Cybernetics: Systems</span>, 2026 (IF=8.7)
 </div>
@@ -201,7 +217,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_08.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/11346500">[J8] Causal Structure Discovery for Industrial Process Monitoring: A Novel Approach for Nonlinear Systems with Complex Noise</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/11346500">[J10] Causal Structure Discovery for Industrial Process Monitoring: A Novel Approach for Nonlinear Systems with Complex Noise</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Yi Luo</span><br>
 <span class="pub-venue">IEEE Internet of Things Journal</span>, 2026 (IF=8.9)
 </div>
@@ -209,7 +225,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_09.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2025.125420">[J9] Interpretable and Reliable Soft Sensor Development in Industry 5.0</a></span> <span class="pub-note q1">Q1 Top</span> <span class="pub-note ccfa" style="background:#d69e2e;">Second Prize, IEEE/CAA JAS Conference</span><br>
+<span class="pub-title"><a href="https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2025.125420">[J11] Interpretable and Reliable Soft Sensor Development in Industry 5.0</a></span> <span class="pub-note q1">Q1 Top</span> <span class="pub-note ccfa" style="background:#d69e2e;">Second Prize, IEEE/CAA JAS Conference</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Fan Yang, Yankai Cao, R Bhushan Gopaluni</span><br>
 <span class="pub-venue">IEEE/CAA Journal of Automatica Sinica</span>, 2026 (IF=19.2)
 </div>
@@ -217,7 +233,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_10.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/11406885">[J10] A Systematic Framework for Data Quality Assessment in Industrial Process Monitoring</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/11406885">[J12] A Systematic Framework for Data Quality Assessment in Industrial Process Monitoring</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Yixiu Wang, Jianping Su</span><br>
 <span class="pub-venue">IEEE Journal of Emerging and Selected Topics in Industrial Electronics</span>, 2026 (IF=4.9)
 </div>
@@ -225,7 +241,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_11.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0959152426000612">[J11] Slow-fast Dynamics-Assisted Koopman Network for Anomaly Detection in Nonstationary Industrial Processes with Time-lagged Variables</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0959152426000612">[J13] Slow-fast Dynamics-Assisted Koopman Network for Anomaly Detection in Nonstationary Industrial Processes with Time-lagged Variables</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Yan Qin, Shan Yin, Wenbin Qian, Wei Dai, <span class="author-me">Liang Cao*</span></span><br>
 <span class="pub-venue">Journal of Process Control</span>, 2026 (IF=4.4)
 </div>
@@ -233,7 +249,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_12.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2773153726000162">[J12] False Data Injection Attacks Against UAV Battery State of Health Estimation with A Capacity-informed Latent Diffusion Model</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2773153726000162">[J14] False Data Injection Attacks Against UAV Battery State of Health Estimation with A Capacity-informed Latent Diffusion Model</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Yan Qin, Zhiqing Luo, Yunhong Che, <span class="author-me">Liang Cao*</span></span><br>
 <span class="pub-venue">Green Energy and Intelligent Transportation</span>, 2026 (IF=21.5)
 </div>
@@ -241,7 +257,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_13.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/11408789">[J13] Ensemble Domain Adaptation with Constructive Incremental Learning for Fault Diagnosis of UAV Actuators</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/11408789">[J15] Ensemble Domain Adaptation with Constructive Incremental Learning for Fault Diagnosis of UAV Actuators</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors">Jiang Liu, Wei Dai, <span class="author-me">Liang Cao</span>, Yan Qin, Chau Yuen</span><br>
 <span class="pub-venue">IEEE Internet of Things Journal</span>, 2026 (IF=8.9)
 </div>
@@ -249,7 +265,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_14.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1109/JAS.2025.135470">[J14] Causal Representation Learning for Trustworthy Industrial Process Modeling</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1109/JAS.2025.135470">[J16] Causal Representation Learning for Trustworthy Industrial Process Modeling</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Fan Yang, Youqing Wang</span><br>
 <span class="pub-venue">IEEE/CAA Journal of Automatica Sinica</span>, 2025 (IF=19.2)
 </div>
@@ -257,7 +273,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_15.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1364032125000905">[J15] Machine Learning for Real-time Green Carbon Dioxide Tracking in Refinery Processes</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1364032125000905">[J17] Machine Learning for Real-time Green Carbon Dioxide Tracking in Refinery Processes</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Jack Saddler, Yankai Cao, Yixiu Wang, et al.</span><br>
 <span class="pub-venue">Renewable and Sustainable Energy Reviews</span>, 115417, 2025 (IF=18.0)
 </div>
@@ -265,7 +281,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_16.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/10967512">[J16] Comprehensive Analysis on Machine Learning Approaches for Interpretable and Stable Soft Sensors</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/10967512">[J18] Comprehensive Analysis on Machine Learning Approaches for Interpretable and Stable Soft Sensors</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jingyi Wang, Jianping Su, Yi Luo, Yankai Cao, Richard D. Braatz, R Bhushan Gopaluni</span><br>
 <span class="pub-venue">IEEE Transactions on Instrumentation and Measurement</span>, 74, 1-17, 2025 (IF=7.0)
 </div>
@@ -273,7 +289,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_17.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0019057825005993">[J17] Physics-informed Dynamic Hybrid Modeling for Real-time Renewable CO2 Tracking in Refinery Co-processing</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0019057825005993">[J19] Physics-informed Dynamic Hybrid Modeling for Real-time Renewable CO2 Tracking in Refinery Co-processing</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Yang Liu, Jing Liu, Jianping Su</span><br>
 <span class="pub-venue">ISA Transactions</span>, 2025 (IF=6.5)
 </div>
@@ -281,7 +297,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_18.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0967066125000851">[J18] A Novel Automated Soft Sensor Design Tool for Industrial Applications based on Machine Learning</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0967066125000851">[J20] A Novel Automated Soft Sensor Design Tool for Industrial Applications based on Machine Learning</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Emilio Conde, Lim Siang, Yankai Cao, Bhushan Gopaluni</span><br>
 <span class="pub-venue">Control Engineering Practice</span>, 160, 106322, 2025 (IF=5.3)
 </div>
@@ -289,7 +305,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_19.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S096706612500187X">[J19] Data-Driven Dynamic Modeling of Renewable CO2 Emissions in Multimode Industrial Co-processing Processes</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S096706612500187X">[J21] Data-Driven Dynamic Modeling of Renewable CO2 Emissions in Multimode Industrial Co-processing Processes</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Yankai Cao, Lim C. Siang, Gary Lee, Jin Li, R. Bhushan Gopaluni</span><br>
 <span class="pub-venue">Control Engineering Practice</span>, 164, 106424, 2025 (IF=5.3)
 </div>
@@ -297,7 +313,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_20.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/10906425">[J20] Adaptive Process Monitoring for Multimode Industrial Processes through Machine Learning</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/10906425">[J22] Adaptive Process Monitoring for Multimode Industrial Processes through Machine Learning</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Xiaolu Ji, Yankai Cao, R Bhushan Gopaluni</span><br>
 <span class="pub-venue">IEEE Journal of Emerging and Selected Topics in Industrial Electronics</span>, 6(4), 1819-1827, 2025 (IF=4.9)
 </div>
@@ -305,7 +321,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_21.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3729222">[J21] Networking systems for video anomaly detection: A tutorial and survey</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3729222">[J23] Networking systems for video anomaly detection: A tutorial and survey</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors">Jing Liu, Yang Liu, Jieyu Lin, Jielin Li, <span class="author-me">Liang Cao</span>, et al.</span><br>
 <span class="pub-venue">ACM Computing Surveys</span>, 57(10), 1-37, 2025 (IF=28)
 </div>
@@ -313,7 +329,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_22.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0306261924001995">[J22] Real-time Tracking of Renewable Carbon Content with AI-aided Approaches during Co-processing of Biofeedstocks</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0306261924001995">[J24] Real-time Tracking of Renewable Carbon Content with AI-aided Approaches during Co-processing of Biofeedstocks</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Jack Saddler, Yankai Cao, Yixiu Wang, et al.</span><br>
 <span class="pub-venue">Applied Energy</span>, 360, 122815, 2024 (IF=12.2)
 </div>
@@ -321,7 +337,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_23.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://onlinelibrary.wiley.com/doi/10.1002/cjce.25394">[J23] Data-driven battery capacity estimation using support vector regression and model bagging under fast-charging conditions</a></span> <span class="pub-note ccfa" style="background:#d69e2e;">Issue Highlights</span><br>
+<span class="pub-title"><a href="https://onlinelibrary.wiley.com/doi/10.1002/cjce.25394">[J25] Data-driven battery capacity estimation using support vector regression and model bagging under fast-charging conditions</a></span> <span class="pub-note ccfa" style="background:#d69e2e;">Issue Highlights</span><br>
 <span class="pub-authors">Yixiu Wang, Qiyue Luo, <span class="author-me">Liang Cao</span>, et al.</span><br>
 <span class="pub-venue">The Canadian Journal of Chemical Engineering</span>, 102(10), 3322-3332, 2024 (Issue Highlights)
 </div>
@@ -329,7 +345,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_24.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1016/j.apenergy.2023.121660">[J24] Long short-term memory network with transfer learning for lithium-ion battery capacity fade and cycle life prediction</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1016/j.apenergy.2023.121660">[J26] Long short-term memory network with transfer learning for lithium-ion battery capacity fade and cycle life prediction</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors">Yixiu Wang, Jiangong Zhu, <span class="author-me">Liang Cao</span>, Yankai Cao, Bhushan Gopaluni</span><br>
 <span class="pub-venue">Applied Energy</span>, 350, 121660, 2023 (IF=12.2)
 </div>
@@ -337,7 +353,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_25.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S096706612300103X">[J25] Adaptive online optimization of alarm thresholds using multilayer Bayesian networks and active transfer entropy</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S096706612300103X">[J27] Adaptive online optimization of alarm thresholds using multilayer Bayesian networks and active transfer entropy</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Yi Luo, Bhushan Gopaluni, <span class="author-me">Liang Cao</span>, Yongjian Wang, Jian Cheng</span><br>
 <span class="pub-venue">Control Engineering Practice</span>, 137, 105534, 2023 (IF=5.3)
 </div>
@@ -345,7 +361,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_26.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0967066123000266">[J26] False alarm reduction in drilling process monitoring using virtual sample generation and qualitative trend analysis</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0967066123000266">[J28] False alarm reduction in drilling process monitoring using virtual sample generation and qualitative trend analysis</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Yupeng Li, Weihua Cao, R. Bhushan Gopaluni, Wenkai Hua, <span class="author-me">Liang Cao</span>, Min Wu</span><br>
 <span class="pub-venue">Control Engineering Practice</span>, 133, 105457, 2023 (IF=5.3)
 </div>
@@ -353,7 +369,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_27.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://pubs.acs.org/doi/10.1021/acs.iecr.2c01326">[J27] Causal Discovery Based on Observational Data and Process Knowledge in Industrial Processes</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://pubs.acs.org/doi/10.1021/acs.iecr.2c01326">[J29] Causal Discovery Based on Observational Data and Process Knowledge in Industrial Processes</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Jianping Su, Yixiu Wang, Yankai Cao, Lim C. Siang, Jin Li, Jack Saddler, Bhushan Gopaluni</span><br>
 <span class="pub-venue">Industrial & Engineering Chemistry Research</span>, 61, 14272-14283, 2022 (IF=3.9)
 </div>
@@ -361,7 +377,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_28.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://pubs.rsc.org/en/content/articlelanding/2022/se/d2se01373h">[J28] Tracking the green coke production when co-processing lipids at a commercial fluid catalytic cracker (FCC)</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://pubs.rsc.org/en/content/articlelanding/2022/se/d2se01373h">[J30] Tracking the green coke production when co-processing lipids at a commercial fluid catalytic cracker (FCC)</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Jianping Su, <span class="author-me">Liang Cao</span> (co-first), Gary Lee, et al.</span><br>
 <span class="pub-venue">Sustainable Energy and Fuels</span>, 6, 5600-5607, 2022 (IF=4.1)
 </div>
@@ -369,7 +385,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_29.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0967066122000284">[J29] Stable soft sensor modelling based on causality analysis</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0967066122000284">[J31] Stable soft sensor modelling based on causality analysis</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Feng Yu, Qiluo Xiong, <span class="author-me">Liang Cao</span>, Fan Yang</span><br>
 <span class="pub-venue">Control Engineering Practice</span>, 122, 105109, 2022 (IF=5.3)
 </div>
@@ -377,7 +393,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_30.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://onlinelibrary.wiley.com/doi/10.1002/bbb.2325">[J30] Determining the amount of 'green' coke generated when co-processing lipids commercially by fluid catalytic cracking</a></span><br>
+<span class="pub-title"><a href="https://onlinelibrary.wiley.com/doi/10.1002/bbb.2325">[J32] Determining the amount of 'green' coke generated when co-processing lipids commercially by fluid catalytic cracking</a></span><br>
 <span class="pub-authors">Jianping Su, <span class="author-me">Liang Cao</span>, Gary Lee, et al.</span><br>
 <span class="pub-venue">Biofuels, Bioproducts and Biorefining</span>, 16(2), 325-334, 2022
 </div>
@@ -385,7 +401,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_31.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1016/j.fuel.2021.120526">[J31] Challenges in determining the renewable content of the final fuels after co-processing biogenic feedstocks in the FCC</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1016/j.fuel.2021.120526">[J33] Challenges in determining the renewable content of the final fuels after co-processing biogenic feedstocks in the FCC</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors">Jianping Su, <span class="author-me">Liang Cao</span>, Gary Lee, et al.</span><br>
 <span class="pub-venue">Fuel</span>, 294, 120526, 2021 (IF=7.5)
 </div>
@@ -393,7 +409,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_32.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1016/j.conengprac.2020.104626">[J32] Data-driven dynamic inferential sensors based on causality analysis</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1016/j.conengprac.2020.104626">[J34] Data-driven dynamic inferential sensors based on causality analysis</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Feng Yu, Fan Yang, Yankai Cao, R Bhushan Gopaluni</span><br>
 <span class="pub-venue">Control Engineering Practice</span>, 104, 104626, 2020 (IF=5.3)
 </div>
@@ -401,7 +417,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_33.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1021/acs.iecr.9b06262">[J33] A Novel Approach to Alarm Causality Analysis Using Active Dynamic Transfer Entropy</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1021/acs.iecr.9b06262">[J35] A Novel Approach to Alarm Causality Analysis Using Active Dynamic Transfer Entropy</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Yi Luo, Bhushan Gopaluni, Yuan Xu, <span class="author-me">Liang Cao</span>, Qun-Xiong Zhu</span><br>
 <span class="pub-venue">Industrial & Engineering Chemistry Research</span>, 59(18), 8661-8673, 2020 (IF=3.8)
 </div>
@@ -409,7 +425,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_34.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0959152419303944">[J34] Accelerated multiple alarm flood sequence alignment for abnormality pattern mining</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0959152419303944">[J36] Accelerated multiple alarm flood sequence alignment for abnormality pattern mining</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Shiqi Lai, Fan Yang, Tongwen Chen, <span class="author-me">Liang Cao</span></span><br>
 <span class="pub-venue">Journal of Process Control</span>, 82, 44-57, 2019 (IF=4.4)
 </div>
@@ -417,7 +433,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_35.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1007/s11045-018-0574-4">[J35] Existence and design of observers for two-dimensional linear systems with multiple channel faults</a></span><br>
+<span class="pub-title"><a href="https://doi.org/10.1007/s11045-018-0574-4">[J37] Existence and design of observers for two-dimensional linear systems with multiple channel faults</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Dong Zhao, Youqing Wang, Steven X Ding</span><br>
 <span class="pub-venue">Multidimensional Systems and Signal Processing</span> (IF=1.8), 30(2), 641-660, 2019
 </div>
@@ -425,7 +441,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_36.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://link.springer.com/article/10.1007/s12555-017-0123-1">[J36] Fault-tolerant control for nonlinear systems with multiple intermittent faults and time-varying delays</a></span><br>
+<span class="pub-title"><a href="https://link.springer.com/article/10.1007/s12555-017-0123-1">[J38] Fault-tolerant control for nonlinear systems with multiple intermittent faults and time-varying delays</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Youqing Wang</span><br>
 <span class="pub-venue">International Journal of Control, Automation, and Systems</span> (IF=2.9), 16(2), 609-621, 2018
 </div>
@@ -433,7 +449,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_37.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1080/00207721.2017.1363313">[J37] Simultaneous estimation of multiple channel faults for two-dimensional linear systems</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1080/00207721.2017.1363313">[J39] Simultaneous estimation of multiple channel faults for two-dimensional linear systems</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Dong Zhao, Youqing Wang</span><br>
 <span class="pub-venue">International Journal of Systems Science</span> (IF=4.6), 48(13), 2838-2849, 2017
 </div>
@@ -441,7 +457,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_38.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1080/00207721.2016.1179819">[J38] Reliable H∞ control for nonlinear discrete-time systems with multiple intermittent faults in sensors or actuators</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1080/00207721.2016.1179819">[J40] Reliable H∞ control for nonlinear discrete-time systems with multiple intermittent faults in sensors or actuators</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Yuan Tao, Youqing Wang, Juan Li, Biao Huang</span><br>
 <span class="pub-venue">International Journal of Systems Science</span> (IF=4.6), 4, 302-315, 2016
 </div>
