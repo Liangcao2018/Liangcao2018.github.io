@@ -146,7 +146,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_58.png" alt=""></div><div class="pub-text">
 <span class="pub-title">[J1] A Comparative Kinetic Investigation of Ethyl Acetate and n-Propyl Acetate as Ester-based Electrolyte Solvents: Integrating Quantum Chemical Calculations with Kinetic Modeling</span> <span class="pub-note q1">Q1 Top</span><br>
-<span class="pub-authors">Chuangchuang Cao, <span class="author-me">Liang Cao</span>, Yanchen Wu, Haoyang Wu, Qingyu Liu, Ran Sui, Huanhuan Wang</span><br>
+<span class="pub-authors">Chuangchuang Cao, <span class="author-me">Liang Cao*</span>, Yanchen Wu, Haoyang Wu, Qingyu Liu, Ran Sui, Huanhuan Wang</span><br>
 <span class="pub-venue">Fuel</span>, 2026 (IF=7.5)
 </div>
 </div>
