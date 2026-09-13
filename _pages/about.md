@@ -107,6 +107,7 @@ redirect_from:
 
 <div class="news-section">
 <h2><span data-i18n-en="News" data-i18n-zh="最新动态">News</span></h2>
+<div class="news-item"><span class="news-date">2026.09</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>IEEE Transactions on Transportation Electrification</strong> <span class="lang-zh">接收</span>: "Physics-Guided Generative Learning Assists Lithium-Ion Battery State-of-Health Estimation for Fast Recycling"</div>
 <div class="news-item"><span class="news-date">2026.08</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>Fuel</strong> <span class="lang-zh">接收</span>: "A Comparative Kinetic Investigation of Ethyl Acetate and n-Propyl Acetate as Ester-based Electrolyte Solvents: Integrating Quantum Chemical Calculations with Kinetic Modeling"</div>
 <div class="news-item"><span class="news-date">2026.08</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>Journal of Energy Storage</strong> <span class="lang-zh">接收</span>: "Capacity Informed Generative Time Series Augmentation with Few-shot Learning for Unmanned Aerial Vehicle Battery State-of-Health Estimation"</div>
 <div class="news-item"><span class="news-date">2026.07</span> 🏆 <span class="lang-en">Received <strong>Best Paper Award</strong> at WWW 2026 (TML 2026 Workshop)</span><span class="lang-zh">获得 <strong>WWW 2026 (TML 2026 Workshop) 最佳论文奖</strong></span>: "Sparse Causal Latent Features for Robust Multimodal Learning under Distribution Shifts"</div>
