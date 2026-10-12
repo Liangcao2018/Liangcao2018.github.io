@@ -107,6 +107,7 @@ redirect_from:
 
 <div class="news-section">
 <h2><span data-i18n-en="News" data-i18n-zh="最新动态">News</span></h2>
+<div class="news-item"><span class="news-date">2026.10</span> 🏆 <span class="lang-en">Selected as a <strong>Capital Frontier Academic Achievement</strong> by the Beijing Association for Science and Technology</span><span class="lang-zh">入选北京市科协<strong>“首都前沿学术成果”</strong></span>: "Stable Soft Sensor Modeling Based on Causality Analysis" (Control Engineering Practice, 2022)</div>
 <div class="news-item"><span class="news-date">2026.10</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>IEEE Transactions on Pattern Analysis and Machine Intelligence</strong> (TPAMI) <span class="lang-zh">接收</span>: "Anomaly Detection and Generation with Diffusion Models: A Survey"</div>
 <div class="news-item"><span class="news-date">2026.09</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>IEEE Transactions on Transportation Electrification</strong> <span class="lang-zh">接收</span>: "Physics-Guided Generative Learning Assists Lithium-Ion Battery State-of-Health Estimation for Fast Recycling"</div>
 <div class="news-item"><span class="news-date">2026.08</span> 📄 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>Fuel</strong> <span class="lang-zh">接收</span>: "A Comparative Kinetic Investigation of Ethyl Acetate and n-Propyl Acetate as Ester-based Electrolyte Solvents: Integrating Quantum Chemical Calculations with Kinetic Modeling"</div>
