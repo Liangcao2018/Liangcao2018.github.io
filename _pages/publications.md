@@ -91,56 +91,6 @@ author_profile: true
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=4BylVnYAAAAJ&hl=en).
 
-<h3 class="pub-section-title">CCF-A Conference Papers</h3>
-
-<div class="pub-item">
-<div class="pub-thumb"><img src="/images/pub/pub_53.png?v=2" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://openreview.net/">[A1] A Control-Theoretic View of Mamba on Stability and Robustness</a></span> <span class="pub-note ccfa">ICML 2026</span><br>
-<span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Zhuo Chen, Yan Qin</span><br>
-<span class="pub-venue">International Conference on Machine Learning (ICML 2026)</span>, Seoul, South Korea
-</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-thumb"><img src="/images/pub/pub_54.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://openreview.net/">[A2] Causal Feature Learning via Generalized Rayleigh Quotients</a></span> <span class="pub-note ccfa">ICML 2026</span><br>
-<span class="pub-authors"><span class="author-me">Liang Cao</span>, Jun Wan, Yan Qin, Weide Liu</span><br>
-<span class="pub-venue">International Conference on Machine Learning (ICML 2026)</span>, Seoul, South Korea
-</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-thumb"><img src="/images/pub/pub_01.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://openreview.net/">[A3] A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems</a></span> <span class="pub-note ccfa">CVPR 2026</span><br>
-<span class="pub-authors"><span class="author-me">Liang Cao*</span></span><br>
-<span class="pub-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</span>, Denver, USA
-</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-thumb"><img src="/images/pub/pub_02.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://openreview.net/forum?id=4bnCXOtHTm">[A4] Learning Dynamic Causal Graphs Under Parametric Uncertainty via Polynomial Chaos Expansions</a></span> <span class="pub-note ccfa">ICLR 2026</span><br>
-<span class="pub-authors"><span class="author-me">Liang Cao*</span></span><br>
-<span class="pub-venue">International Conference on Learning Representations (ICLR 2026)</span>, Rio de Janeiro, Brazil
-</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-thumb"><img src="/images/pub/pub_03.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/38877">[A5] A Natural-Gradient Approach for Nonlinear Stochastic Systems with Parameter Uncertainty</a></span> <span class="pub-note ccfa">AAAI 2026</span><br>
-<span class="pub-authors"><span class="author-me">Liang Cao*</span></span><br>
-<span class="pub-venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</span>, Singapore
-</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-thumb"><img src="/images/pub/pub_04.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://dl.acm.org/">[A6] Sparse Causal Latent Features for Robust Multimodal Learning under Distribution Shifts</a></span> <span class="pub-note ccfa">WWW 2026</span> <span class="pub-note ccfa" style="background:#d69e2e;">Best Paper Award, WWW 2026 (TML Workshop)</span><br>
-<span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Yan Qin, Zhenghua Chen, Zhuo Chen, Bhushan Gopaluni</span><br>
-<span class="pub-venue">Proceedings of the ACM Web Conference 2026 (WWW 26)</span>, Dubai, UAE
-</div>
-</div>
-
 <h3 class="pub-section-title">Journal Articles</h3>
 
 <h4 style="color:#2c5282;font-size:1.02em;font-weight:700;margin:18px 0 10px 0;"><span class="lang-en">First / Corresponding Author</span><span class="lang-zh">第一 / 通讯作者</span></h4>
@@ -488,6 +438,56 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0959152419303944">[J43] Accelerated multiple alarm flood sequence alignment for abnormality pattern mining</a></span> <span class="pub-note q1">Q1</span><br>
 <span class="pub-authors">Shiqi Lai, Fan Yang, Tongwen Chen, <span class="author-me">Liang Cao</span></span><br>
 <span class="pub-venue">Journal of Process Control</span>, 82, 44-57, 2019 (IF=4.4)
+</div>
+</div>
+
+<h3 class="pub-section-title">CCF-A Conference Papers</h3>
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_53.png?v=2" alt=""></div><div class="pub-text">
+<span class="pub-title"><a href="https://openreview.net/">[A1] A Control-Theoretic View of Mamba on Stability and Robustness</a></span> <span class="pub-note ccfa">ICML 2026</span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Zhuo Chen, Yan Qin</span><br>
+<span class="pub-venue">International Conference on Machine Learning (ICML 2026)</span>, Seoul, South Korea
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_54.png" alt=""></div><div class="pub-text">
+<span class="pub-title"><a href="https://openreview.net/">[A2] Causal Feature Learning via Generalized Rayleigh Quotients</a></span> <span class="pub-note ccfa">ICML 2026</span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao</span>, Jun Wan, Yan Qin, Weide Liu</span><br>
+<span class="pub-venue">International Conference on Machine Learning (ICML 2026)</span>, Seoul, South Korea
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_01.png" alt=""></div><div class="pub-text">
+<span class="pub-title"><a href="https://openreview.net/">[A3] A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems</a></span> <span class="pub-note ccfa">CVPR 2026</span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao*</span></span><br>
+<span class="pub-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</span>, Denver, USA
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_02.png" alt=""></div><div class="pub-text">
+<span class="pub-title"><a href="https://openreview.net/forum?id=4bnCXOtHTm">[A4] Learning Dynamic Causal Graphs Under Parametric Uncertainty via Polynomial Chaos Expansions</a></span> <span class="pub-note ccfa">ICLR 2026</span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao*</span></span><br>
+<span class="pub-venue">International Conference on Learning Representations (ICLR 2026)</span>, Rio de Janeiro, Brazil
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_03.png" alt=""></div><div class="pub-text">
+<span class="pub-title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/38877">[A5] A Natural-Gradient Approach for Nonlinear Stochastic Systems with Parameter Uncertainty</a></span> <span class="pub-note ccfa">AAAI 2026</span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao*</span></span><br>
+<span class="pub-venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</span>, Singapore
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_04.png" alt=""></div><div class="pub-text">
+<span class="pub-title"><a href="https://dl.acm.org/">[A6] Sparse Causal Latent Features for Robust Multimodal Learning under Distribution Shifts</a></span> <span class="pub-note ccfa">WWW 2026</span> <span class="pub-note ccfa" style="background:#d69e2e;">Best Paper Award, WWW 2026 (TML Workshop)</span><br>
+<span class="pub-authors"><span class="author-me">Liang Cao</span>, Weide Liu, Yan Qin, Zhenghua Chen, Zhuo Chen, Bhushan Gopaluni</span><br>
+<span class="pub-venue">Proceedings of the ACM Web Conference 2026 (WWW 26)</span>, Dubai, UAE
 </div>
 </div>
 
