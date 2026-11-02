@@ -314,6 +314,7 @@ redirect_from:
 <div class="cv-section">
 <h2 class="cv-section-title">Awards & Honors</h2>
 
+<div class="award-item"><span class="award-year">2026</span> <span class="lang-en">Outstanding Paper Award — 2nd International Conference on AI for Engineering</span><span class="lang-zh">杰出论文奖 — 第二届国际工程智能大会</span></div>
 <div class="award-item"><span class="award-year">2026</span> <span class="lang-en">Best Paper Award — WWW 2026 (TML 2026 Workshop)</span><span class="lang-zh">最佳论文奖 — WWW 2026 (TML 2026 Workshop)</span></div>
 <div class="award-item"><span class="award-year">2026</span> <span class="lang-en">Best Paper Award — ICAIS&amp;ISAS 2026</span><span class="lang-zh">最佳论文奖 — ICAIS&amp;ISAS 2026</span></div>
 <div class="award-item"><span class="award-year">2025</span> <span class="lang-en">Outstanding Reviewer — IEEE TIM & Control Engineering Practice</span><span class="lang-zh">优秀审稿人 — IEEE TIM 与 Control Engineering Practice</span></div>
