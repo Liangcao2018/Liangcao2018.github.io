@@ -573,7 +573,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 </div>
 </div>
 
-<h3 class="pub-section-title">Book Chapter</h3>
+<h3 class="pub-section-title">Book</h3>
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_48.png" alt=""></div><div class="pub-text">
