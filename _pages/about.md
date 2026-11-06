@@ -107,7 +107,6 @@ redirect_from:
 
 <div class="news-section">
 <h2><span data-i18n-en="News" data-i18n-zh="最新动态">News</span></h2>
-<div class="news-item"><span class="news-date">2026.11</span> 💡 <span class="lang-en">Granted a <strong>Chinese Invention Patent</strong> (ZL202611242924.1)</span><span class="lang-zh">获授权<strong>国家发明专利</strong>（ZL202611242924.1）</span>: <span class="lang-en">"A Generation Method with Adaptive Learnable Context Length"</span><span class="lang-zh">《一种自适应可学习上下文长度的生成方法》</span></div>
 <div class="news-item"><span class="news-date">2026.11</span> 🏆 <span class="lang-en">Received <strong>Outstanding Paper Award</strong> at the 2nd International Conference on AI for Engineering</span><span class="lang-zh">获第二届国际工程智能大会<strong>杰出论文奖</strong></span>: "Anomaly Detection and Generation with Diffusion Models: A Survey" (IEEE TPAMI)</div>
 <div class="news-item"><span class="news-date">2026.11</span> 📙 <span class="lang-en">Paper accepted at</span><span class="lang-zh">论文被</span> <strong>IEEE Transactions on Industrial Informatics</strong> <span class="lang-zh">接收</span>: "One-step Action Flow: Efficient Mean Flow Policy for 3D Robotic Manipulation"</div>
 <div class="news-item"><span class="news-date">2026.10</span> 🏆 <span class="lang-en">Selected as a <strong>Capital Frontier Academic Achievement</strong> by the Beijing Association for Science and Technology</span><span class="lang-zh">入选北京市科协<strong>“首都前沿学术成果”</strong></span>: "Stable Soft Sensor Modeling Based on Causality Analysis" (Control Engineering Practice, 2022)</div>
