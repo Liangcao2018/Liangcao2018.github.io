@@ -583,7 +583,15 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 </div>
 </div>
 
-<h3 class="pub-section-title">Patent</h3>
+<h3 class="pub-section-title">Patents</h3>
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_62.png" alt=""></div><div class="pub-text">
+<span class="pub-title"><span class="lang-en">A Generation Method with Adaptive Learnable Context Length</span><span class="lang-zh">一种自适应可学习上下文长度的生成方法</span></span><br>
+<span class="pub-authors">Jing Liu, Pengcheng Guo, Haijun Ren, Yuling Zhang, Wei Feng, <span class="author-me">Liang Cao</span>, Yujun Li</span><br>
+<span class="pub-venue">Chinese Invention Patent No.: ZL202611242924.1 (CN122779198B), granted 2026</span>
+</div>
+</div>
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_49.png" alt=""></div><div class="pub-text">
