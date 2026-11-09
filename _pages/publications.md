@@ -185,9 +185,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_14.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://doi.org/10.1109/JAS.2025.135470">[J12] Causal Representation Learning for Trustworthy Industrial Process Modeling</a></span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title"><a href="https://doi.org/10.1109/JAS.2025.125678">[J12] Causal Representation Learning for Trustworthy Industrial Process Modeling</a></span> <span class="pub-note q1">Q1 Top</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Fan Yang, Youqing Wang</span><br>
-<span class="pub-venue">IEEE/CAA Journal of Automatica Sinica</span>, 2025 (IF=19.2)
+<span class="pub-venue">IEEE/CAA Journal of Automatica Sinica</span>, 2026 (IF=19.2)
 </div>
 </div>
 
