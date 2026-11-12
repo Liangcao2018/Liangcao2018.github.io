@@ -161,6 +161,7 @@ redirect_from:
 <span class="lang-en"><strong>Associate Editor</strong>, Control Engineering Practice</span>
 <span class="lang-zh"><strong>副编辑</strong>，Control Engineering Practice</span>
 <span class="cv-date">(2026 – Present)</span>
+<div class="cv-tags"><span class="cv-tag highlight">SCI Q1 · IF=5.3</span></div>
 </div>
 
 <div class="cv-entry">
