@@ -158,9 +158,15 @@ redirect_from:
 </div>
 
 <div class="cv-entry">
+<span class="lang-en"><strong>Associate Editor</strong>, Control Engineering Practice</span>
+<span class="lang-zh"><strong>副编辑</strong>，Control Engineering Practice</span>
+<span class="cv-date">(2026 – Present)</span>
+</div>
+
+<div class="cv-entry">
 <span class="lang-en"><strong>Youth Editor</strong>, Control Engineering Practice</span>
 <span class="lang-zh"><strong>青年编委</strong>，Control Engineering Practice</span>
-<span class="cv-date">(2025 – Present)</span>
+<span class="cv-date">(2025 – 2026)</span>
 </div>
 
 <div class="cv-entry">
