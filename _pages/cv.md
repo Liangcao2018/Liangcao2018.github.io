@@ -165,6 +165,12 @@ redirect_from:
 </div>
 
 <div class="cv-entry">
+<span class="lang-en"><strong>Corresponding Guest Editor</strong>, IEEE Journal of Emerging and Selected Topics in Industrial Electronics, Special Section on "Intelligent Modeling, Monitoring, and Control for Industrial Processes and Autonomous Robotic Systems"</span>
+<span class="lang-zh"><strong>通讯客座编辑</strong>，IEEE Journal of Emerging and Selected Topics in Industrial Electronics 专刊 "Intelligent Modeling, Monitoring, and Control for Industrial Processes and Autonomous Robotic Systems"</span>
+<span class="cv-date">(2026 – 2028)</span>
+</div>
+
+<div class="cv-entry">
 <span class="lang-en"><strong>Youth Editor</strong>, Control Engineering Practice</span>
 <span class="lang-zh"><strong>青年编委</strong>，Control Engineering Practice</span>
 <span class="cv-date">(2025 – 2026)</span>
