@@ -502,8 +502,16 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 </div>
 
 <div class="pub-item">
+<div class="pub-thumb"><img src="/images/pub/pub_63.png" alt=""></div><div class="pub-text">
+<span class="pub-title">[C2] Replay-Free Continual State-of-Health Estimation of Lithium-Ion Batteries in UAVs via Adaptive Momentum Distillation</span> <span class="pub-note ccfa" style="background:#d69e2e;">Best Paper Award</span><br>
+<span class="pub-authors">Jiang Liu, Wei Dai, <span class="author-me">Liang Cao</span>, Weide Liu, Yan Qin</span><br>
+<span class="pub-venue">2026 National Industrial Software Congress</span>, Changsha, China
+</div>
+</div>
+
+<div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_39.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2405896324010590">[C2] Interpretable Industrial Soft Sensor Design Based on Informer and SHAP</a></span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2405896324010590">[C3] Interpretable Industrial Soft Sensor Design Based on Informer and SHAP</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Xiaolu Ji, Yankai Cao, Yi Luo, et al.</span><br>
 <span class="pub-venue">The 12th IFAC Symposium on Advanced Control of Chemical Processes (ADCHEM 2024)</span>, Toronto, Canada
 </div>
@@ -511,7 +519,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_40.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/10640050">[C3] Stable Soft Sensor Modeling for Industrial Systems</a></span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/10640050">[C4] Stable Soft Sensor Modeling for Industrial Systems</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Yankai Cao, R Bhushan Gopaluni</span><br>
 <span class="pub-venue">2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS)</span>, St. Louis, USA
 </div>
@@ -519,7 +527,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_41.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2405896323013058">[C4] Interpretable Soft Sensors using Extremely Randomized Trees and SHAP</a></span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2405896323013058">[C5] Interpretable Soft Sensors using Extremely Randomized Trees and SHAP</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Xiaolu Ji, Yankai Cao, et al.</span><br>
 <span class="pub-venue">IFAC World Congress 2023</span>, Yokohama, Japan
 </div>
@@ -527,7 +535,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_42.png" alt=""></div><div class="pub-text">
-<span class="pub-title">[C5] Soft Sensor Change Point Detection and Root Cause Analysis</span> <span class="pub-note ccfa" style="background:#d69e2e;">Young Author's Award Finalist</span><br>
+<span class="pub-title">[C6] Soft Sensor Change Point Detection and Root Cause Analysis</span> <span class="pub-note ccfa" style="background:#d69e2e;">Young Author's Award Finalist</span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, R Bhushan Gopaluni, Lim C Siang, Yankai Cao, Jin Li</span><br>
 <span class="pub-venue">SICE Annual Conference 2022</span>, Kumamoto, Japan
 </div>
@@ -535,7 +543,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_43.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2405896320303670">[C6] Feature based causality analysis and its applications in soft sensor modelling</a></span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S2405896320303670">[C7] Feature based causality analysis and its applications in soft sensor modelling</a></span><br>
 <span class="pub-authors">Feng Yu, <span class="author-me">Liang Cao</span>, Weiyang Li, Fan Yang, Chao Shang</span><br>
 <span class="pub-venue">IFAC World Congress 2020</span>, Berlin, Germany
 </div>
@@ -543,7 +551,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_44.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/8243705">[C7] Integrated fault/state estimation for two-dimensional linear time-varying systems</a></span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/8243705">[C8] Integrated fault/state estimation for two-dimensional linear time-varying systems</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Dong Zhao, Youqing Wang</span><br>
 <span class="pub-venue">Chinese Automation Congress (CAC) 2017</span>, Jinan, China
 </div>
@@ -551,7 +559,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_45.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/8028478">[C8] Asymptotically stable observer for two-dimensional systems with multiple-channel faults</a></span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/8028478">[C9] Asymptotically stable observer for two-dimensional systems with multiple-channel faults</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Changqing Liu, Youqing Wang</span><br>
 <span class="pub-venue">36th Chinese Control Conference (CCC) 2017</span>, Dalian, China
 </div>
@@ -559,7 +567,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_46.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/7554421">[C9] Fault-tolerant control of stochastic systems with intermittent faults and time-varying delays</a></span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/7554421">[C10] Fault-tolerant control of stochastic systems with intermittent faults and time-varying delays</a></span><br>
 <span class="pub-authors"><span class="author-me">Liang Cao</span>, Youqing Wang, Lina Xu</span><br>
 <span class="pub-venue">35th Chinese Control Conference (CCC) 2016</span>, Chengdu, China
 </div>
@@ -567,7 +575,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_47.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/8483001">[C10] Fault estimation and compensation for two-dimensional linear systems with actuator/sensor faults</a></span><br>
+<span class="pub-title"><a href="https://ieeexplore.ieee.org/document/8483001">[C11] Fault estimation and compensation for two-dimensional linear systems with actuator/sensor faults</a></span><br>
 <span class="pub-authors">Chao Wu, <span class="author-me">Liang Cao</span>, Youqing Wang</span><br>
 <span class="pub-venue">37th Chinese Control Conference (CCC) 2018</span>, Wuhan, China
 </div>
