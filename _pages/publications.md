@@ -315,7 +315,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_60.png" alt=""></div><div class="pub-text">
-<span class="pub-title">[J28] Anomaly Detection and Generation with Diffusion Models: A Survey</span> <span class="pub-note q1">Q1 Top</span><br>
+<span class="pub-title">[J28] Anomaly Detection and Generation with Diffusion Models: A Survey</span> <span class="pub-note q1">Q1 Top</span> <span class="pub-note ccfa" style="background:#d69e2e;">Outstanding Paper Award, AI for Engineering 2026</span><br>
 <span class="pub-authors">Yang Liu, Jing Liu, Chengfang Li, Rui Xi, Wenchao Li, <span class="author-me">Liang Cao</span>, Jin Wang, Laurence T. Yang, Junsong Yuan, Wei Zhou</span><br>
 <span class="pub-venue">IEEE Transactions on Pattern Analysis and Machine Intelligence</span>, 2026 (IF=20.4)
 </div>
@@ -403,7 +403,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 <div class="pub-item">
 <div class="pub-thumb"><img src="/images/pub/pub_29.png" alt=""></div><div class="pub-text">
-<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0967066122000284">[J39] Stable soft sensor modelling based on causality analysis</a></span> <span class="pub-note q1">Q1</span><br>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0967066122000284">[J39] Stable soft sensor modelling based on causality analysis</a></span> <span class="pub-note q1">Q1</span> <span class="pub-note ccfa" style="background:#d69e2e;">Capital Frontier Academic Achievement</span><br>
 <span class="pub-authors">Feng Yu, Qiluo Xiong, <span class="author-me">Liang Cao</span>, Fan Yang</span><br>
 <span class="pub-venue">Control Engineering Practice</span>, 122, 105109, 2022 (IF=5.3)
 </div>
