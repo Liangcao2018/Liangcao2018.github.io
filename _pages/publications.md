@@ -505,7 +505,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 <div class="pub-thumb"><img src="/images/pub/pub_63.png" alt=""></div><div class="pub-text">
 <span class="pub-title">[C2] Replay-Free Continual State-of-Health Estimation of Lithium-Ion Batteries in UAVs via Adaptive Momentum Distillation</span> <span class="pub-note ccfa" style="background:#d69e2e;">Best Paper Award</span><br>
 <span class="pub-authors">Jiang Liu, Wei Dai, <span class="author-me">Liang Cao</span>, Weide Liu, Yan Qin</span><br>
-<span class="pub-venue">2026 National Industrial Software Congress</span>, Changsha, China
+<span class="pub-venue">2026 National Industrial Software Conference</span>, Changsha, China
 </div>
 </div>
 
